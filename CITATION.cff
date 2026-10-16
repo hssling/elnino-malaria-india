@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper (manuscript under review) and this repository."
+title: "El Niño and malaria across Indian states, 2002–2025: data and code"
+version: 1.0.0
+date-released: 2026-10-16
+license: MIT
+repository-code: "https://github.com/hssling/elnino-malaria-india"
+url: "https://github.com/hssling/elnino-malaria-india"
+type: software
+authors:
+  - family-names: "Siddalingaiah"
+    given-names: "H S"
+    orcid: "https://orcid.org/0000-0002-4771-8285"
+    affiliation: "Department of Community Medicine, Shridevi Institute of Medical Sciences and Research Hospital, Tumakuru, Karnataka, India"
+    email: "hssling@yahoo.com"
+keywords:
+  - El Niño–Southern Oscillation
+  - malaria
+  - dengue
+  - India
+  - climate and health
+  - forecasting
+abstract: >-
+  State-level panels of malaria and dengue counts in 34 Indian units (malaria 2002–2025,
+  dengue 2007–2025), compiled from official programme documents, with ENSO indices,
+  IMD-based climate exposures, population denominators, the Python pipeline that builds
+  them and the R analysis (negative binomial mixed models, cross-validation, mediation
+  and a 2026–27 outlook) of the associated paper.

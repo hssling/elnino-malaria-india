@@ -1,0 +1,36 @@
+{
+  "title": "El Niño and malaria across Indian states, 2002–2025: data and code",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "<p>Data and code for a study of the El Niño–Southern Oscillation and malaria (and dengue) in 34 Indian state-level units, 2002–2025, with a 2026–27 outlook (manuscript under review).</p><p>Contents: state × year malaria and dengue panels compiled from official National Center for Vector Borne Diseases Control and Central Bureau of Health Intelligence documents and OpenDengue, with every parsed record, source precedence and reviewed exceptions; population denominators (Census of India, official projections); ENSO indices (NOAA CPC, NOAA PSL); IMD-based climate exposures pooled to the 34 units; model-ready inputs; the Python pipeline that builds them from the official sources; and the R analysis (glmmTMB negative binomial mixed models, leave-one-episode-out and rolling-origin validation, mediation, outlook) with its results. Raw source files are not redistributed; their public URLs and SHA-256 checksums are listed.</p>",
+  "creators": [
+    {
+      "name": "Siddalingaiah, H S",
+      "affiliation": "Department of Community Medicine, Shridevi Institute of Medical Sciences and Research Hospital, Tumakuru, Karnataka, India",
+      "orcid": "0000-0002-4771-8285"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "El Niño–Southern Oscillation",
+    "malaria",
+    "dengue",
+    "India",
+    "climate and health",
+    "forecasting",
+    "negative binomial mixed model"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/hssling/elnino-malaria-india",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.1038/s41597-024-03120-7",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ],
+  "notes": "Code: MIT licence. Derived data: CC BY 4.0 (see DATA_LICENSE.md); third-party source terms apply."
+}

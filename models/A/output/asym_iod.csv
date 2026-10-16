@@ -1,0 +1,17 @@
+Section,Term,IRR (95% CI),p,RE structure
+Phase asymmetry (per 1 °C),"El Niño part, max(ONI, 0), lag 0",1.15 (95% CI 0.95–1.39),0.143,diag
+Phase asymmetry (per 1 °C),"La Niña part, min(ONI, 0), lag 0",1.12 (95% CI 0.89–1.42),0.331,diag
+Phase asymmetry (per 1 °C),"El Niño part, max(ONI, 0), lag 1",1.03 (95% CI 0.86–1.23),0.759,diag
+Phase asymmetry (per 1 °C),"La Niña part, min(ONI, 0), lag 1",1.12 (95% CI 0.90–1.38),0.312,diag
+ONI and IOD model (per 1 °C; interactions per °C²),"ONI, lag 0",1.12 (95% CI 0.97–1.30),0.118,diag
+ONI and IOD model (per 1 °C; interactions per °C²),"ONI, lag 1",1.18 (95% CI 1.02–1.37),0.030,diag
+ONI and IOD model (per 1 °C; interactions per °C²),"DMI, lag 0",1.34 (95% CI 1.04–1.73),0.023,diag
+ONI and IOD model (per 1 °C; interactions per °C²),"DMI, lag 1",0.89 (95% CI 0.67–1.19),0.422,diag
+ONI and IOD model (per 1 °C; interactions per °C²),"ONI × DMI, lag 0",0.73 (95% CI 0.46–1.15),0.174,diag
+ONI and IOD model (per 1 °C; interactions per °C²),"ONI × DMI, lag 1",0.87 (95% CI 0.58–1.29),0.485,diag
+Years 2002–2025 by ENSO phase (July–September) and JJAS IOD sign,"El Niño, negative IOD (DMI ≤ 0)",3 years,"2002, 2004, 2009",""
+Years 2002–2025 by ENSO phase (July–September) and JJAS IOD sign,"El Niño, positive IOD (DMI > 0)",2 years,"2015, 2023",""
+Years 2002–2025 by ENSO phase (July–September) and JJAS IOD sign,"Neutral, negative IOD (DMI ≤ 0)",5 years,"2005, 2013, 2014, 2016, 2025",""
+Years 2002–2025 by ENSO phase (July–September) and JJAS IOD sign,"Neutral, positive IOD (DMI > 0)",9 years,"2003, 2006, 2008, 2012, 2017, 2018, 2019, 2020, 2024",""
+Years 2002–2025 by ENSO phase (July–September) and JJAS IOD sign,"La Niña, negative IOD (DMI ≤ 0)",3 years,"2010, 2021, 2022",""
+Years 2002–2025 by ENSO phase (July–September) and JJAS IOD sign,"La Niña, positive IOD (DMI > 0)",2 years,"2007, 2011",""

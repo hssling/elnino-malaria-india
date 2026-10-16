@@ -1,0 +1,109 @@
+Comparison,Split,Model,Scored unit-years,MALE,RMSE log(1+y),Log score,"Coverage, %",Training unit-years,RE structure,Unidentified coefficients (test rows non-zero),Units not in training (excluded)
+idx_oni_loeo,2002,ONI,68,0.872,1.066,10.276,86.8,714,diag,none,none
+idx_oni_loeo,2002,noENSO,68,0.901,1.096,10.262,91.2,714,int,none,none
+idx_oni_loeo,2004,ONI,68,0.774,0.945,10.090,97.1,714,diag,none,none
+idx_oni_loeo,2004,noENSO,68,0.760,0.927,10.087,98.5,714,int,none,none
+idx_oni_loeo,2006,ONI,34,0.722,0.969,9.950,97.1,748,diag,none,none
+idx_oni_loeo,2006,noENSO,34,0.723,0.972,9.950,97.1,748,int,none,none
+idx_oni_loeo,2009,ONI,68,0.565,0.769,9.965,95.6,714,diag,none,none
+idx_oni_loeo,2009,noENSO,68,0.534,0.746,9.963,94.1,714,int,none,none
+idx_oni_loeo,2014,ONI,102,0.617,0.856,9.236,95.1,680,diag,none,none
+idx_oni_loeo,2014,noENSO,102,0.634,0.853,9.313,93.1,680,int,none,none
+idx_oni_loeo,2018+2019,ONI,102,0.760,1.058,8.280,86.3,680,diag,none,none
+idx_oni_loeo,2018+2019,noENSO,102,0.758,1.057,8.278,87.3,680,int,none,none
+idx_oni_loeo,2023,ONI,68,1.113,1.540,8.130,82.4,714,diag,none,none
+idx_oni_loeo,2023,noENSO,68,1.074,1.473,8.120,79.4,714,int,none,none
+idx_oni_roll,2015,ONI,34,0.664,0.774,9.718,88.2,408,diag,nfme2016;covid2020_21 (0),none
+idx_oni_roll,2015,noENSO,34,0.610,0.720,9.621,76.5,408,int,nfme2016;covid2020_21 (0),none
+idx_oni_roll,2016,ONI,34,0.579,0.684,9.174,94.1,442,diag,nfme2016;covid2020_21 (34),none
+idx_oni_roll,2016,noENSO,34,0.549,0.676,8.995,97.1,442,int,nfme2016;covid2020_21 (34),none
+idx_oni_roll,2017,ONI,34,0.590,0.770,9.474,94.1,476,diag,covid2020_21 (0),none
+idx_oni_roll,2017,noENSO,34,0.592,0.800,9.354,94.1,476,int,covid2020_21 (0),none
+idx_oni_roll,2018,ONI,34,0.865,1.124,9.084,79.4,510,diag,covid2020_21 (0),none
+idx_oni_roll,2018,noENSO,34,0.886,1.147,9.105,79.4,510,int,covid2020_21 (0),none
+idx_oni_roll,2019,ONI,34,1.101,1.411,9.618,76.5,544,diag,covid2020_21 (0),none
+idx_oni_roll,2019,noENSO,34,1.112,1.424,9.616,76.5,544,int,covid2020_21 (0),none
+idx_oni_roll,2020,ONI,34,1.260,1.637,8.371,76.5,578,diag,covid2020_21 (34),none
+idx_oni_roll,2020,noENSO,34,1.297,1.674,8.396,76.5,578,int,covid2020_21 (34),none
+idx_oni_roll,2021,ONI,34,1.156,1.568,7.964,67.6,612,diag,none,none
+idx_oni_roll,2021,noENSO,34,1.164,1.579,7.958,67.6,612,int,none,none
+idx_oni_roll,2022,ONI,34,1.339,1.712,8.083,70.6,646,us,none,none
+idx_oni_roll,2022,noENSO,34,1.344,1.722,8.072,70.6,646,int,none,none
+idx_oni_roll,2023,ONI,34,1.129,1.475,8.339,73.5,680,diag,none,none
+idx_oni_roll,2023,noENSO,34,1.120,1.440,8.568,73.5,680,int,none,none
+idx_oni_roll,2024,ONI,34,0.954,1.244,8.385,85.3,714,diag,none,none
+idx_oni_roll,2024,noENSO,34,0.959,1.244,8.416,82.4,714,int,none,none
+idx_oni_roll,2025,ONI,34,0.801,1.054,8.044,91.2,748,diag,none,none
+idx_oni_roll,2025,noENSO,34,0.793,1.062,8.015,91.2,748,int,none,none
+idx_roni_loeo,2002,RONI,68,0.871,1.065,10.278,88.2,714,diag,none,none
+idx_roni_loeo,2002,noENSO,68,0.901,1.096,10.262,91.2,714,int,none,none
+idx_roni_loeo,2004,RONI,68,0.775,0.947,10.090,97.1,714,diag,none,none
+idx_roni_loeo,2004,noENSO,68,0.760,0.927,10.087,98.5,714,int,none,none
+idx_roni_loeo,2006,RONI,34,0.728,0.974,9.958,97.1,748,diag,none,none
+idx_roni_loeo,2006,noENSO,34,0.723,0.972,9.950,97.1,748,int,none,none
+idx_roni_loeo,2009,RONI,68,0.565,0.766,9.971,95.6,714,diag,none,none
+idx_roni_loeo,2009,noENSO,68,0.534,0.746,9.963,94.1,714,int,none,none
+idx_roni_loeo,2014,RONI,102,0.651,0.886,9.293,93.1,680,diag,none,none
+idx_roni_loeo,2014,noENSO,102,0.634,0.853,9.313,93.1,680,int,none,none
+idx_roni_loeo,2018+2019,RONI,102,0.760,1.060,8.275,86.3,680,diag,none,none
+idx_roni_loeo,2018+2019,noENSO,102,0.758,1.057,8.278,87.3,680,int,none,none
+idx_roni_loeo,2023,RONI,68,1.101,1.516,8.148,83.8,714,diag,none,none
+idx_roni_loeo,2023,noENSO,68,1.074,1.473,8.120,79.4,714,int,none,none
+idx_roni_roll,2015,RONI,34,0.686,0.806,9.939,82.4,408,diag,nfme2016;covid2020_21 (0),none
+idx_roni_roll,2015,noENSO,34,0.610,0.720,9.621,76.5,408,int,nfme2016;covid2020_21 (0),none
+idx_roni_roll,2016,RONI,34,0.632,0.740,9.343,97.1,442,diag,nfme2016;covid2020_21 (34),none
+idx_roni_roll,2016,noENSO,34,0.549,0.676,8.995,97.1,442,int,nfme2016;covid2020_21 (34),none
+idx_roni_roll,2017,RONI,34,0.589,0.781,9.414,94.1,476,diag,covid2020_21 (0),none
+idx_roni_roll,2017,noENSO,34,0.592,0.800,9.354,94.1,476,int,covid2020_21 (0),none
+idx_roni_roll,2018,RONI,34,0.885,1.146,9.101,79.4,510,int,covid2020_21 (0),none
+idx_roni_roll,2018,noENSO,34,0.886,1.147,9.105,79.4,510,int,covid2020_21 (0),none
+idx_roni_roll,2019,RONI,34,1.108,1.419,9.618,76.5,544,diag,covid2020_21 (0),none
+idx_roni_roll,2019,noENSO,34,1.112,1.424,9.616,76.5,544,int,covid2020_21 (0),none
+idx_roni_roll,2020,RONI,34,1.261,1.635,8.337,79.4,578,diag,covid2020_21 (34),none
+idx_roni_roll,2020,noENSO,34,1.297,1.674,8.396,76.5,578,int,covid2020_21 (34),none
+idx_roni_roll,2021,RONI,34,1.159,1.573,7.961,70.6,612,diag,none,none
+idx_roni_roll,2021,noENSO,34,1.164,1.579,7.958,67.6,612,int,none,none
+idx_roni_roll,2022,RONI,34,1.322,1.692,8.056,70.6,646,diag,none,none
+idx_roni_roll,2022,noENSO,34,1.344,1.722,8.072,70.6,646,int,none,none
+idx_roni_roll,2023,RONI,34,1.131,1.462,8.487,73.5,680,diag,none,none
+idx_roni_roll,2023,noENSO,34,1.120,1.440,8.568,73.5,680,int,none,none
+idx_roni_roll,2024,RONI,34,1.056,1.340,9.205,79.4,714,diag,none,none
+idx_roni_roll,2024,noENSO,34,0.959,1.244,8.416,82.4,714,int,none,none
+idx_roni_roll,2025,RONI,34,0.797,1.056,8.033,91.2,748,diag,none,none
+idx_roni_roll,2025,noENSO,34,0.793,1.062,8.015,91.2,748,int,none,none
+idx_nino34_loeo,2002,NINO34,68,0.875,1.070,10.274,89.7,714,diag,none,none
+idx_nino34_loeo,2002,noENSO,68,0.901,1.096,10.262,91.2,714,int,none,none
+idx_nino34_loeo,2004,NINO34,68,0.772,0.943,10.089,97.1,714,diag,none,none
+idx_nino34_loeo,2004,noENSO,68,0.760,0.927,10.087,98.5,714,int,none,none
+idx_nino34_loeo,2006,NINO34,34,0.722,0.969,9.950,97.1,748,diag,none,none
+idx_nino34_loeo,2006,noENSO,34,0.723,0.972,9.950,97.1,748,int,none,none
+idx_nino34_loeo,2009,NINO34,68,0.562,0.767,9.965,94.1,714,diag,none,none
+idx_nino34_loeo,2009,noENSO,68,0.534,0.746,9.963,94.1,714,int,none,none
+idx_nino34_loeo,2014,NINO34,102,0.624,0.862,9.248,95.1,680,diag,none,none
+idx_nino34_loeo,2014,noENSO,102,0.634,0.853,9.313,93.1,680,int,none,none
+idx_nino34_loeo,2018+2019,NINO34,102,0.758,1.053,8.287,86.3,680,diag,none,none
+idx_nino34_loeo,2018+2019,noENSO,102,0.758,1.057,8.278,87.3,680,int,none,none
+idx_nino34_loeo,2023,NINO34,68,1.115,1.543,8.132,82.4,714,diag,none,none
+idx_nino34_loeo,2023,noENSO,68,1.074,1.473,8.120,79.4,714,int,none,none
+idx_nino34_roll,2015,NINO34,34,0.699,0.825,9.928,85.3,408,diag,nfme2016;covid2020_21 (0),none
+idx_nino34_roll,2015,noENSO,34,0.610,0.720,9.621,76.5,408,int,nfme2016;covid2020_21 (0),none
+idx_nino34_roll,2016,NINO34,34,0.637,0.737,9.347,97.1,442,diag,nfme2016;covid2020_21 (34),none
+idx_nino34_roll,2016,noENSO,34,0.549,0.676,8.995,97.1,442,int,nfme2016;covid2020_21 (34),none
+idx_nino34_roll,2017,NINO34,34,0.590,0.773,9.460,94.1,476,diag,covid2020_21 (0),none
+idx_nino34_roll,2017,noENSO,34,0.592,0.800,9.354,94.1,476,int,covid2020_21 (0),none
+idx_nino34_roll,2018,NINO34,34,0.871,1.131,9.092,79.4,510,diag,covid2020_21 (0),none
+idx_nino34_roll,2018,noENSO,34,0.886,1.147,9.105,79.4,510,int,covid2020_21 (0),none
+idx_nino34_roll,2019,NINO34,34,1.105,1.415,9.626,73.5,544,diag,covid2020_21 (0),none
+idx_nino34_roll,2019,noENSO,34,1.112,1.424,9.616,76.5,544,int,covid2020_21 (0),none
+idx_nino34_roll,2020,NINO34,34,1.268,1.644,8.355,76.5,578,diag,covid2020_21 (34),none
+idx_nino34_roll,2020,noENSO,34,1.297,1.674,8.396,76.5,578,int,covid2020_21 (34),none
+idx_nino34_roll,2021,NINO34,34,1.161,1.575,7.961,70.6,612,diag,none,none
+idx_nino34_roll,2021,noENSO,34,1.164,1.579,7.958,67.6,612,int,none,none
+idx_nino34_roll,2022,NINO34,34,1.332,1.706,8.064,73.5,646,diag,none,none
+idx_nino34_roll,2022,noENSO,34,1.344,1.722,8.072,70.6,646,int,none,none
+idx_nino34_roll,2023,NINO34,34,1.128,1.472,8.351,79.4,680,diag,none,none
+idx_nino34_roll,2023,noENSO,34,1.120,1.440,8.568,73.5,680,int,none,none
+idx_nino34_roll,2024,NINO34,34,0.957,1.243,8.406,85.3,714,diag,none,none
+idx_nino34_roll,2024,noENSO,34,0.959,1.244,8.416,82.4,714,int,none,none
+idx_nino34_roll,2025,NINO34,34,0.803,1.053,8.053,88.2,748,diag,none,none
+idx_nino34_roll,2025,noENSO,34,0.793,1.062,8.015,91.2,748,int,none,none

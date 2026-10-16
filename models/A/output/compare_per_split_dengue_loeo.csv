@@ -1,0 +1,14 @@
+Split,Model,Scored unit-years,MALE,RMSE log(1+y),Log score,"Coverage, %",Training unit-years,RE structure,Unidentified coefficients (test rows non-zero),Units not in training (excluded)
+2006,all,0,not evaluable,"","","",,"","",no scorable test rows (masked year or missing lagged outcome)
+2009,A,60,1.673,2.107,6.155,90.0,466,int,none,none
+2009,B,60,1.642,2.062,6.105,93.3,466,int,none,none
+2009,C,60,1.630,2.052,6.126,90.0,466,diag,none,none
+2014,A,92,1.042,1.506,8.371,91.3,431,int,none,none
+2014,B,92,1.066,1.508,8.357,91.3,431,int,none,none
+2014,C,92,1.153,1.544,8.352,94.6,431,diag,none,none
+2018+2019,A,96,1.831,2.276,8.650,94.8,427,int,covid2020_21 (32),none
+2018+2019,B,96,1.675,2.115,8.571,94.8,427,int,covid2020_21 (32),none
+2018+2019,C,96,1.616,2.013,8.532,93.8,427,diag,covid2020_21 (32),none
+2023,A,62,1.158,1.439,9.815,98.4,462,int,none,none
+2023,B,62,1.030,1.374,9.783,98.4,462,int,none,none
+2023,C,62,1.093,1.391,9.753,98.4,462,diag,none,none

@@ -1,0 +1,92 @@
+Model,Variable,Years,Units,Unit-years
+malaria_primary,cases,2006,all 34 units,34
+dengue_primary,cases,2011,AS,1
+dengue_primary,cases,2008–2009,DNH_DD,2
+dengue_primary,cases,2007–2012,LD,6
+dengue_primary,cases,2014,"ML, MN",2
+dengue_primary,cases,"2007, 2009",UK,2
+dengue_primary,cases,2023–2025,WB,3
+malaria_asym,cases,2006,all 34 units,34
+malaria_iod,cases,2006,all 34 units,34
+malaria_index_roni,cases,2006,all 34 units,34
+malaria_index_nino34,cases,2006,all 34 units,34
+sens_excl_2020_21,cases,2006,all 34 units,34
+sens_excl_2020_2025,cases,2006,all 34 units,34
+sens_tested_def2022,cases,2006,all 34 units,34
+sens_roni,cases,2006,all 34 units,34
+sens_pf,pf,2006,all 34 units,34
+sens_deaths,deaths,2006,all 34 units,34
+sens_excl_missing25,cases,2006,all 34 units,34
+sens_excl_dnhdd,cases,2006,all 33 units,33
+sens_excl_jh2022,cases,2006,all 34 units,34
+sens_excl_2005,cases,2006,all 34 units,34
+sens_rain_adjusted,rain_jjas_dep_pct,"2002–2005, 2007–2025","AN, LD",46
+sens_rain_adjusted,cases,2006,all 34 units,34
+sens_rain_adjusted,rain_jjas_dep_pct,2011–2012,"PY, TN",4
+sens_rain_adjusted,rain_jjas_dep_pct_lag1,2013,"PY, TN",2
+sens_rain_adjusted_excl_jk_ar,rain_jjas_dep_pct,"2002–2005, 2007–2025","AN, LD",46
+sens_rain_adjusted_excl_jk_ar,cases,2006,all 32 units,32
+sens_rain_adjusted_excl_jk_ar,rain_jjas_dep_pct,2011–2012,"PY, TN",4
+sens_rain_adjusted_excl_jk_ar,rain_jjas_dep_pct_lag1,2013,"PY, TN",2
+mediation_rain.lag0,rain_jjas_dep_pct,"2002–2005, 2007–2025","AN, LD",46
+mediation_rain.lag0,cases,2006,all 34 units,34
+mediation_rain.lag0,rain_jjas_dep_pct,2011–2012,"PY, TN",4
+mediation_rain.lag1,rain_jjas_dep_pct_lag1,"2002–2005, 2007–2025","AN, LD",46
+mediation_rain.lag1,cases,2006,all 34 units,34
+mediation_rain.lag1,rain_jjas_dep_pct_lag1,2012–2013,"PY, TN",4
+mediation_spi3.lag0,spi3_sep,"2002–2005, 2007–2025","AN, LD",46
+mediation_spi3.lag0,cases,2006,all 34 units,34
+mediation_spi3.lag0,spi3_sep,2011–2012,"PY, TN",4
+mediation_spi3.lag1,spi3_sep_lag1,"2002–2005, 2007–2025","AN, LD",46
+mediation_spi3.lag1,cases,2006,all 34 units,34
+mediation_spi3.lag1,spi3_sep_lag1,2012–2013,"PY, TN",4
+mediation_tmax.lag0,cases,2006,all 34 units,34
+mediation_tmax.lag1,cases,2006,all 34 units,34
+validation_mal_loeo (common rows),log1p_cases_lag1,"2002, 2007",all 34 units,68
+validation_mal_loeo (common rows),rain_jjas_dep_pct,"2003–2005, 2008–2025","AN, LD",42
+validation_mal_loeo (common rows),cases,2006,all 34 units,34
+validation_mal_loeo (common rows),rain_jjas_dep_pct,2011–2012,"PY, TN",4
+validation_mal_loeo (common rows),rain_jjas_dep_pct_lag1,2013,"PY, TN",2
+validation_mal_roll (common rows),log1p_cases_lag1,"2002, 2007",all 34 units,68
+validation_mal_roll (common rows),rain_jjas_dep_pct,"2003–2005, 2008–2025","AN, LD",42
+validation_mal_roll (common rows),cases,2006,all 34 units,34
+validation_mal_roll (common rows),rain_jjas_dep_pct,2011–2012,"PY, TN",4
+validation_mal_roll (common rows),rain_jjas_dep_pct_lag1,2013,"PY, TN",2
+validation_den_loeo (common rows),log1p_cases_lag1,2007,"AN, AP_TG, AR, BR, CG, CH, DL, GA, GJ, HP, HR, JH, JK, KA, KL, MH, MP, MZ, NL, OD, PB, PY, RJ, SK, TN, TR, UP, WB",28
+validation_den_loeo (common rows),rain_jjas_dep_pct,2008–2025,AN,18
+validation_den_loeo (common rows),log1p_cases_lag1,"2007, 2012",AS,2
+validation_den_loeo (common rows),cases,2011,AS,1
+validation_den_loeo (common rows),log1p_cases_lag1,"2007, 2010",DNH_DD,2
+validation_den_loeo (common rows),cases,2008–2009,DNH_DD,2
+validation_den_loeo (common rows),cases,2007–2012,LD,6
+validation_den_loeo (common rows),log1p_cases_lag1,2013,LD,1
+validation_den_loeo (common rows),rain_jjas_dep_pct,2014–2025,LD,12
+validation_den_loeo (common rows),log1p_cases_lag1,"2007, 2015","ML, MN",4
+validation_den_loeo (common rows),cases,2014,"ML, MN",2
+validation_den_loeo (common rows),rain_jjas_dep_pct,2011–2012,"PY, TN",4
+validation_den_loeo (common rows),rain_jjas_dep_pct_lag1,2013,"PY, TN",2
+validation_den_loeo (common rows),cases,"2007, 2009",UK,2
+validation_den_loeo (common rows),log1p_cases_lag1,"2008, 2010",UK,2
+validation_den_loeo (common rows),cases,2023–2025,WB,3
+validation_den_roll (common rows),log1p_cases_lag1,2007,"AN, AP_TG, AR, BR, CG, CH, DL, GA, GJ, HP, HR, JH, JK, KA, KL, MH, MP, MZ, NL, OD, PB, PY, RJ, SK, TN, TR, UP, WB",28
+validation_den_roll (common rows),rain_jjas_dep_pct,2008–2025,AN,18
+validation_den_roll (common rows),log1p_cases_lag1,"2007, 2012",AS,2
+validation_den_roll (common rows),cases,2011,AS,1
+validation_den_roll (common rows),log1p_cases_lag1,"2007, 2010",DNH_DD,2
+validation_den_roll (common rows),cases,2008–2009,DNH_DD,2
+validation_den_roll (common rows),cases,2007–2012,LD,6
+validation_den_roll (common rows),log1p_cases_lag1,2013,LD,1
+validation_den_roll (common rows),rain_jjas_dep_pct,2014–2025,LD,12
+validation_den_roll (common rows),log1p_cases_lag1,"2007, 2015","ML, MN",4
+validation_den_roll (common rows),cases,2014,"ML, MN",2
+validation_den_roll (common rows),rain_jjas_dep_pct,2011–2012,"PY, TN",4
+validation_den_roll (common rows),rain_jjas_dep_pct_lag1,2013,"PY, TN",2
+validation_den_roll (common rows),cases,"2007, 2009",UK,2
+validation_den_roll (common rows),log1p_cases_lag1,"2008, 2010",UK,2
+validation_den_roll (common rows),cases,2023–2025,WB,3
+validation_idx_oni_loeo (common rows),cases,2006,all 34 units,34
+validation_idx_oni_roll (common rows),cases,2006,all 34 units,34
+validation_idx_roni_loeo (common rows),cases,2006,all 34 units,34
+validation_idx_roni_roll (common rows),cases,2006,all 34 units,34
+validation_idx_nino34_loeo (common rows),cases,2006,all 34 units,34
+validation_idx_nino34_roll (common rows),cases,2006,all 34 units,34

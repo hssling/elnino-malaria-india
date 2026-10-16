@@ -1,0 +1,817 @@
+unit_id,unit_name,year,tested,cases,pf,deaths,population,aber,provisional_any,sources
+AN,Andaman and Nicobar Islands,2002,202542.0,865.0,158.0,1.0,358594.9,56.48211951703719,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+AN,Andaman and Nicobar Islands,2003,166546.0,753.0,148.0,0.0,361037.8,46.12979582747291,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+AN,Andaman and Nicobar Islands,2004,154671.0,745.0,119.0,1.0,363480.7,42.55274076450276,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+AN,Andaman and Nicobar Islands,2005,126996.0,3954.0,2073.0,0.0,365923.6,34.705605213765935,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+AN,Andaman and Nicobar Islands,2006,,,,,368366.5,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+AN,Andaman and Nicobar Islands,2007,149351.0,3973.0,2210.0,0.0,370809.4,40.27702641842413,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+AN,Andaman and Nicobar Islands,2008,165631.0,4688.0,3173.0,0.0,373252.3,44.37507819777668,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+AN,Andaman and Nicobar Islands,2009,133504.0,5760.0,3056.0,0.0,375695.2,35.53518916398187,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+AN,Andaman and Nicobar Islands,2010,121760.0,2484.0,803.0,0.0,378138.1,32.199876182802,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+AN,Andaman and Nicobar Islands,2011,97946.0,1918.0,607.0,0.0,380581.0,25.735914299452677,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+AN,Andaman and Nicobar Islands,2012,95372.0,1539.0,696.0,0.0,383000.0,24.90130548302872,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+AN,Andaman and Nicobar Islands,2013,77943.0,1005.0,334.0,0.0,385000.0,20.244935064935067,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+AN,Andaman and Nicobar Islands,2014,74905.0,557.0,109.0,0.0,387000.0,19.35529715762274,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+AN,Andaman and Nicobar Islands,2015,56012.0,409.0,77.0,0.0,390000.0,14.362051282051283,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+AN,Andaman and Nicobar Islands,2016,57452.0,485.0,140.0,0.0,392000.0,14.656122448979591,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+AN,Andaman and Nicobar Islands,2017,55430.0,505.0,141.0,0.0,394000.0,14.068527918781726,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+AN,Andaman and Nicobar Islands,2018,42034.0,259.0,29.0,0.0,395000.0,10.641518987341772,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+AN,Andaman and Nicobar Islands,2019,37407.0,202.0,50.0,0.0,397000.0,9.422418136020152,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+AN,Andaman and Nicobar Islands,2020,25502.0,85.0,28.0,2.0,399000.0,6.391478696741855,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+AN,Andaman and Nicobar Islands,2021,35471.0,27.0,11.0,0.0,400000.0,8.867750000000001,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+AN,Andaman and Nicobar Islands,2022,31737.0,50.0,20.0,0.0,402000.0,7.8947761194029855,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+AN,Andaman and Nicobar Islands,2023,38986.0,42.0,11.0,0.0,403000.0,9.67394540942928,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+AN,Andaman and Nicobar Islands,2024,47413.0,96.0,46.0,0.0,404000.0,11.735891089108911,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+AN,Andaman and Nicobar Islands,2025,55701.0,48.0,25.0,0.0,405000.0,13.753333333333334,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+AP_TG,Andhra Pradesh and Telangana,2002,8718569.0,38053.0,21416.0,0.0,77047084.0,11.315897432276605,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+AP_TG,Andhra Pradesh and Telangana,2003,10088425.0,35995.0,20864.0,3.0,77884161.0,12.95311507560568,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+AP_TG,Andhra Pradesh and Telangana,2004,9793211.0,35427.0,19410.0,2.0,78721238.0,12.440367109064011,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+AP_TG,Andhra Pradesh and Telangana,2005,10040085.0,39099.0,22548.0,0.0,79558315.0,12.619780848802542,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+AP_TG,Andhra Pradesh and Telangana,2006,,,,,80395392.0,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+AP_TG,Andhra Pradesh and Telangana,2007,8896110.0,27803.0,16996.0,2.0,81232469.0,10.951421407614731,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+AP_TG,Andhra Pradesh and Telangana,2008,8964918.0,26424.0,15947.0,0.0,82069546.0,10.92356231628234,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+AP_TG,Andhra Pradesh and Telangana,2009,9189256.0,25152.0,14841.0,3.0,82906623.0,11.083862383346624,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+AP_TG,Andhra Pradesh and Telangana,2010,9120643.0,33393.0,23259.0,20.0,83743700.0,10.891139273760295,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+AP_TG,Andhra Pradesh and Telangana,2011,9368740.0,34949.0,24089.0,5.0,84580777.0,11.076677623805702,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+AP_TG,Andhra Pradesh and Telangana,2012,9423964.0,24699.0,15695.0,2.0,85231000.0,11.056967535286457,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+AP_TG,Andhra Pradesh and Telangana,2013,9033712.0,19787.0,13385.0,0.0,85882000.0,10.518748981160195,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+AP_TG,Andhra Pradesh and Telangana,2014,13453726.0,26266.0,20113.0,0.0,86532000.0,15.54768871631304,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+AP_TG,Andhra Pradesh and Telangana,2015,10286860.0,35993.0,28915.0,4.0,87182000.0,11.799293432130485,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+AP_TG,Andhra Pradesh and Telangana,2016,10180443.0,27125.0,20060.0,1.0,87833000.0,11.590681179055707,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+AP_TG,Andhra Pradesh and Telangana,2017,9640739.0,19660.0,14150.0,0.0,88369000.0,10.909639126843123,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+AP_TG,Andhra Pradesh and Telangana,2018,9625155.0,7832.0,5636.0,0.0,88905000.0,10.826337101400371,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+AP_TG,Andhra Pradesh and Telangana,2019,10399940.0,4815.0,3396.0,0.0,89441000.0,11.62770988696459,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+AP_TG,Andhra Pradesh and Telangana,2020,8670716.0,2897.0,2502.0,0.0,89977000.0,9.636591573402091,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+AP_TG,Andhra Pradesh and Telangana,2021,10864084.0,2189.0,1847.0,0.0,90512000.0,12.002921159625243,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+AP_TG,Andhra Pradesh and Telangana,2022,13605793.0,2633.0,1997.0,0.0,90879000.0,14.971327809504947,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+AP_TG,Andhra Pradesh and Telangana,2023,15162397.0,5688.0,4805.0,0.0,91246000.0,16.617053898253072,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+AP_TG,Andhra Pradesh and Telangana,2024,17445331.0,8135.0,6432.0,3.0,91612000.0,19.042626511810678,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+AP_TG,Andhra Pradesh and Telangana,2025,18186649.0,8137.0,6547.0,8.0,91978000.0,19.772825023375155,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+AR,Arunachal Pradesh,2002,310777.0,46431.0,7080.0,0.0,1126543.9,27.58676337424578,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+AR,Arunachal Pradesh,2003,275097.0,34810.0,5870.0,0.0,1155119.8,23.815451869148117,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+AR,Arunachal Pradesh,2004,213273.0,29849.0,4397.0,0.0,1183695.7,18.017552991026324,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+AR,Arunachal Pradesh,2005,258994.0,31215.0,7447.0,0.0,1212271.6,21.364354324558953,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+AR,Arunachal Pradesh,2006,,,,,1240847.5,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+AR,Arunachal Pradesh,2007,245547.0,32072.0,8535.0,36.0,1269423.4,19.34319156240542,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+AR,Arunachal Pradesh,2008,250884.0,29146.0,8219.0,27.0,1297999.3,19.328515816610995,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+AR,Arunachal Pradesh,2009,213893.0,22066.0,6602.0,15.0,1326575.2,16.123699583709993,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+AR,Arunachal Pradesh,2010,190063.0,17944.0,5412.0,103.0,1355151.1,14.025225674096415,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+AR,Arunachal Pradesh,2011,197626.0,13950.0,4856.0,17.0,1383727.0,14.282152476608465,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+AR,Arunachal Pradesh,2012,150707.0,8368.0,2789.0,15.0,1399000.0,10.772480343102215,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+AR,Arunachal Pradesh,2013,112455.0,6398.0,2181.0,21.0,1414000.0,7.952970297029703,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+AR,Arunachal Pradesh,2014,123571.0,6082.0,2338.0,9.0,1429000.0,8.64737578726382,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+AR,Arunachal Pradesh,2015,146229.0,5088.0,1714.0,7.0,1444000.0,10.126662049861496,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+AR,Arunachal Pradesh,2016,151590.0,3128.0,895.0,2.0,1459000.0,10.389993145990404,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+AR,Arunachal Pradesh,2017,153620.0,1546.0,488.0,0.0,1474000.0,10.421981004070556,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+AR,Arunachal Pradesh,2018,145353.0,625.0,154.0,0.0,1489000.0,9.76178643384822,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+AR,Arunachal Pradesh,2019,139689.0,139.0,27.0,0.0,1504000.0,9.287832446808512,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+AR,Arunachal Pradesh,2020,108749.0,33.0,7.0,0.0,1519000.0,7.159249506254114,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+AR,Arunachal Pradesh,2021,109635.0,8.0,2.0,0.0,1533000.0,7.151663405088063,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+AR,Arunachal Pradesh,2022,136563.0,18.0,3.0,0.0,1548000.0,8.8218992248062,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+AR,Arunachal Pradesh,2023,168521.0,11.0,5.0,0.0,1562000.0,10.788796414852753,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+AR,Arunachal Pradesh,2024,158497.0,19.0,2.0,0.0,1576000.0,10.056916243654822,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+AR,Arunachal Pradesh,2025,185359.0,32.0,11.0,0.0,1590000.0,11.657798742138365,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+AS,Assam,2002,2325105.0,89601.0,55825.0,72.0,27110532.8,8.576389911451685,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+AS,Assam,2003,2133820.0,76570.0,48668.0,53.0,27565537.6,7.740897460312908,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+AS,Assam,2004,1853560.0,58134.0,41409.0,54.0,28020542.4,6.615003997924037,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+AS,Assam,2005,2050261.0,67885.0,45453.0,113.0,28475547.2,7.200075860175217,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+AS,Assam,2006,,,,,28930552.0,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+AS,Assam,2007,2420762.0,94853.0,65515.0,152.0,29385556.8,8.23793136361466,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+AS,Assam,2008,2687755.0,83939.0,58124.0,86.0,29840561.6,9.007052333760367,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+AS,Assam,2009,3021920.0,91413.0,66557.0,63.0,30295566.4,9.97479287926434,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+AS,Assam,2010,4309287.0,68353.0,48330.0,36.0,30750571.2,14.013681150742332,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+AS,Assam,2011,4130216.0,47397.0,34707.0,45.0,31205576.0,13.23550637232269,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+AS,Assam,2012,3973341.0,29999.0,20579.0,13.0,31598000.0,12.574659788594214,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+AS,Assam,2013,3895330.0,19542.0,14969.0,7.0,31991000.0,12.176330843049609,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+AS,Assam,2014,3684068.0,14540.0,11210.0,11.0,32383000.0,11.376549424080535,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+AS,Assam,2015,3485405.0,15557.0,11675.0,4.0,32776000.0,10.634015743226751,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+AS,Assam,2016,3032997.0,7826.0,5686.0,6.0,33168000.0,9.144346960926194,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+AS,Assam,2017,2669423.0,5281.0,3494.0,0.0,33543000.0,7.958211847479355,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+AS,Assam,2018,2364621.0,3816.0,2859.0,2.0,33918000.0,6.97158146117106,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+AS,Assam,2019,4352477.0,1459.0,872.0,4.0,34293000.0,12.692027527483743,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+AS,Assam,2020,3246745.0,484.0,266.0,2.0,34668000.0,9.365250374985576,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+AS,Assam,2021,3575791.0,162.0,67.0,0.0,35043000.0,10.204009359929229,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+AS,Assam,2022,4139536.0,280.0,118.0,0.0,35378000.0,11.700876250777318,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+AS,Assam,2023,4712599.0,567.0,283.0,0.0,35713000.0,13.195752247080893,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+AS,Assam,2024,6510331.0,5036.0,1130.0,7.0,36047000.0,18.060673565067827,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+AS,Assam,2025,6022592.0,3995.0,519.0,3.0,36382000.0,16.553768346984775,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+BR,Bihar,2002,406034.0,3683.0,1705.0,2.0,85108603.3,0.4770775036323502,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+BR,Bihar,2003,363533.0,2652.0,1080.0,1.0,87218697.6,0.41680626976021257,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+BR,Bihar,2004,289973.0,1872.0,333.0,0.0,89328791.9,0.32461314413007303,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+BR,Bihar,2005,230139.0,2733.0,427.0,1.0,91438886.2,0.2516861365706355,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+BR,Bihar,2006,,,,,93548980.5,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+BR,Bihar,2007,142194.0,1595.0,739.0,1.0,95659074.8,0.14864663942996864,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+BR,Bihar,2008,147279.0,2541.0,1712.0,0.0,97769169.1,0.1506395127991325,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+BR,Bihar,2009,115174.0,3255.0,2408.0,21.0,99879263.4,0.11531322526753834,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+BR,Bihar,2010,133757.0,1908.0,933.0,1.0,101989357.7,0.13114799721892942,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+BR,Bihar,2011,167561.0,2643.0,1273.0,0.0,104099452.0,0.16096242274166822,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+BR,Bihar,2012,190307.0,2605.0,838.0,0.0,106115000.0,0.17934033831220844,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+BR,Bihar,2013,196872.0,2693.0,715.0,1.0,108130000.0,0.1820697308794969,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+BR,Bihar,2014,183918.0,2043.0,699.0,0.0,110145000.0,0.16697807435653003,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+BR,Bihar,2015,217632.0,4006.0,1286.0,1.0,112161000.0,0.1940353598844518,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+BR,Bihar,2016,186129.0,5189.0,879.0,0.0,114176000.0,0.1630193735986547,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+BR,Bihar,2017,301061.0,4020.0,436.0,2.0,115957000.0,0.2596315875712549,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+BR,Bihar,2018,149803.0,1536.0,353.0,0.0,117739000.0,0.12723311731881534,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+BR,Bihar,2019,200906.0,1608.0,285.0,0.0,119520000.0,0.16809404283801874,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+BR,Bihar,2020,99497.0,518.0,272.0,0.0,121302000.0,0.08202420405269494,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+BR,Bihar,2021,304635.0,647.0,154.0,0.0,123083000.0,0.24750371700397295,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+BR,Bihar,2022,176335.0,578.0,208.0,0.0,124919000.0,0.14115947133742665,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+BR,Bihar,2023,225722.0,1257.0,519.0,0.0,126756000.0,0.17807598851336426,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+BR,Bihar,2024,225687.0,906.0,380.0,0.0,128592000.0,0.17550625233296005,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+BR,Bihar,2025,354214.0,1041.0,403.0,0.0,130429000.0,0.27157610654072334,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+CH,Chandigarh,2002,72056.0,157.0,6.0,0.0,916116.5,7.86537520064315,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+CH,Chandigarh,2003,83814.0,84.0,5.0,0.0,931598.0,8.996799048516635,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+CH,Chandigarh,2004,72367.0,199.0,6.0,0.0,947079.5,7.641069202743804,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+CH,Chandigarh,2005,92694.0,432.0,9.0,0.0,962561.0,9.629935141772833,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+CH,Chandigarh,2006,,,,,978042.5,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+CH,Chandigarh,2007,87577.0,340.0,3.0,0.0,993524.0,8.814784544711552,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+CH,Chandigarh,2008,77716.0,347.0,6.0,0.0,1009005.5,7.7022375001920205,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+CH,Chandigarh,2009,94301.0,430.0,4.0,0.0,1024487.0,9.204704403276958,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+CH,Chandigarh,2010,98930.0,351.0,6.0,0.0,1039968.5,9.512788127717329,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+CH,Chandigarh,2011,75368.0,582.0,9.0,0.0,1055450.0,7.1408403998294565,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+CH,Chandigarh,2012,86991.0,201.0,3.0,0.0,1072000.0,8.11483208955224,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+CH,Chandigarh,2013,43901.0,150.0,2.0,0.0,1088000.0,4.035018382352941,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+CH,Chandigarh,2014,45019.0,114.0,0.0,0.0,1104000.0,4.077807971014493,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+CH,Chandigarh,2015,68862.0,152.0,1.0,1.0,1120000.0,6.148392857142857,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+CH,Chandigarh,2016,106173.0,157.0,0.0,0.0,1136000.0,9.346214788732395,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+CH,Chandigarh,2017,87972.0,114.0,3.0,0.0,1151000.0,7.643092962641182,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+CH,Chandigarh,2018,56354.0,44.0,0.0,0.0,1165000.0,4.83725321888412,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+CH,Chandigarh,2019,59147.0,22.0,0.0,0.0,1179000.0,5.016709075487701,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+CH,Chandigarh,2020,19187.0,7.0,0.0,0.0,1193000.0,1.6082984073763622,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+CH,Chandigarh,2021,28488.0,6.0,0.0,0.0,1208000.0,2.358278145695364,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+CH,Chandigarh,2022,51828.0,2.0,0.0,0.0,1219000.0,4.251681706316654,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+CH,Chandigarh,2023,56066.0,2.0,0.0,0.0,1231000.0,4.554508529650691,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+CH,Chandigarh,2024,70924.0,2.0,0.0,0.0,1243000.0,5.705872888173773,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+CH,Chandigarh,2025,100102.0,65.0,5.0,0.0,1255000.0,7.9762549800796805,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+CG,Chhattisgarh,2002,3523394.0,235434.0,170487.0,3.0,21304942.5,16.537918372696854,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+CG,Chhattisgarh,2003,3693618.0,194419.0,144028.0,4.0,21776082.0,16.961811587594134,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+CG,Chhattisgarh,2004,3598383.0,194256.0,148775.0,4.0,22247221.5,16.174527682029865,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+CG,Chhattisgarh,2005,3874911.0,187950.0,140182.0,3.0,22718361.0,17.05629644673751,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+CG,Chhattisgarh,2006,,,,,23189500.5,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+CG,Chhattisgarh,2007,3502736.0,147525.0,102926.0,0.0,23660640.0,14.804062781057487,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+CG,Chhattisgarh,2008,3052934.0,123495.0,94803.0,4.0,24131779.5,12.651093550726337,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+CG,Chhattisgarh,2009,3250904.0,129397.0,104055.0,11.0,24602919.0,13.213489017299127,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+CG,Chhattisgarh,2010,3426558.0,152209.0,120080.0,47.0,25074058.5,13.665749403910818,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+CG,Chhattisgarh,2011,3444641.0,136899.0,107472.0,42.0,25545198.0,13.48449520727927,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+CG,Chhattisgarh,2012,3721209.0,124006.0,96924.0,90.0,25950000.0,14.339919075144508,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+CG,Chhattisgarh,2013,3776658.0,110145.0,89418.0,43.0,26356000.0,14.329405069054484,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+CG,Chhattisgarh,2014,3942498.0,128993.0,108874.0,53.0,26761000.0,14.732252157991107,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+CG,Chhattisgarh,2015,3886092.0,144886.0,123839.0,21.0,27166000.0,14.304984171390709,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+CG,Chhattisgarh,2016,4830145.0,148220.0,121503.0,61.0,27571000.0,17.5189329367814,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+CG,Chhattisgarh,2017,5183717.0,140727.0,114512.0,81.0,27956000.0,18.542413077693517,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+CG,Chhattisgarh,2018,4640658.0,78717.0,62486.0,39.0,28340000.0,16.374940014114326,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+CG,Chhattisgarh,2019,5815904.0,60458.0,49390.0,31.0,28724000.0,20.24754212505222,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+CG,Chhattisgarh,2020,4168188.0,36667.0,32120.0,34.0,29109000.0,14.319241471709782,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+CG,Chhattisgarh,2021,4486737.0,29733.0,25827.0,38.0,29493000.0,15.21288780388567,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+CG,Chhattisgarh,2022,5815212.0,30029.0,25902.0,20.0,29836000.0,19.490588550744068,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+CG,Chhattisgarh,2023,6891223.0,31706.0,28167.0,15.0,30180000.0,22.833740888005302,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+CG,Chhattisgarh,2024,7835708.0,31373.0,27300.0,18.0,30524000.0,25.670646049010614,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+CG,Chhattisgarh,2025,6987642.0,28836.0,25304.0,12.0,30867000.0,22.637904558266108,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2002,53074.0,666.0,132.0,0.0,399520.2,13.284434679397938,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2003,55391.0,609.0,127.0,0.0,420346.4,13.177465062148741,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2004,56434.0,905.0,220.0,0.0,441172.6,12.79181889355776,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2005,68396.0,1270.0,200.0,0.0,461998.8,14.804367457231491,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2006,,,,,482825.0,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2007,84661.0,3879.0,1284.0,0.0,503651.2,16.80945066744604,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2008,78959.0,3152.0,1026.0,0.0,524477.4,15.054795497384635,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2009,86402.0,3505.0,1200.0,0.0,545303.6,15.844751437547819,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2010,90606.0,5907.0,2303.0,0.0,566129.8,16.00445692842878,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2011,90805.0,5412.0,2137.0,0.0,586956.0,15.4704952330328,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2012,134862.0,5126.0,2182.0,1.0,625000.0,21.57792,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2013,98963.0,1869.0,518.0,0.0,665000.0,14.881654135338346,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2014,106043.0,725.0,94.0,1.0,704000.0,15.062926136363636,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2015,93159.0,502.0,64.0,0.0,743000.0,12.538223418573352,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2016,98167.0,423.0,37.0,0.0,781000.0,12.569398207426378,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2017,102976.0,328.0,21.0,0.0,840000.0,12.25904761904762,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2018,109203.0,245.0,10.0,1.0,900000.0,12.133666666666667,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2019,131473.0,81.0,4.0,0.0,959000.0,13.709384775808134,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2020,91653.0,40.0,2.0,0.0,1018000.0,9.003241650294695,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2021,124972.0,54.0,5.0,0.0,1077000.0,11.603714020427113,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2022,131198.0,111.0,16.0,0.0,1170000.0,11.213504273504274,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2023,146190.0,128.0,36.0,1.0,1263000.0,11.574821852731592,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2024,129983.0,207.0,29.0,0.0,1356000.0,9.585766961651917,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2025,130760.0,212.0,48.0,0.0,1448000.0,9.030386740331492,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+DL,Delhi,2002,1073073.0,694.0,6.0,0.0,14144250.4,7.586637465072027,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+DL,Delhi,2003,1220248.0,839.0,27.0,0.0,14437993.8,8.451645130918397,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+DL,Delhi,2004,1028273.0,1316.0,28.0,0.0,14731737.2,6.9799846823224625,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+DL,Delhi,2005,1031488.0,1133.0,61.0,0.0,15025480.6,6.864925172509956,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+DL,Delhi,2006,,,,,15319224.0,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+DL,Delhi,2007,668761.0,182.0,2.0,0.0,15612967.4,4.2833689641855015,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+DL,Delhi,2008,593882.0,253.0,0.0,0.0,15906710.8,3.7335311332874674,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+DL,Delhi,2009,509231.0,169.0,0.0,0.0,16200454.2,3.1433131053819467,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+DL,Delhi,2010,503926.0,251.0,1.0,0.0,16494197.6,3.0551713531066222,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+DL,Delhi,2011,377122.0,413.0,1.0,0.0,16787941.0,2.246386260232866,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+DL,Delhi,2012,380515.0,382.0,1.0,0.0,17166000.0,2.216678317604567,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+DL,Delhi,2013,324760.0,353.0,8.0,0.0,17544000.0,1.8511171910624715,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+DL,Delhi,2014,179819.0,98.0,0.0,0.0,17921000.0,1.0033982478656325,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+DL,Delhi,2015,186659.0,54.0,0.0,0.0,18299000.0,1.0200502759713646,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+DL,Delhi,2016,133312.0,31.0,0.0,0.0,18677000.0,0.7137763024040263,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+DL,Delhi,2017,130259.0,577.0,3.0,0.0,19056000.0,0.6835589840470193,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+DL,Delhi,2018,117085.0,473.0,1.0,0.0,19435000.0,0.6024440442500644,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+DL,Delhi,2019,100920.0,713.0,19.0,0.0,19814000.0,0.5093368325426466,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+DL,Delhi,2020,30627.0,135.0,7.0,1.0,20193000.0,0.15167137126727084,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+DL,Delhi,2021,41253.0,167.0,29.0,0.0,20571000.0,0.200539594574887,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+DL,Delhi,2022,46299.0,263.0,43.0,1.0,20965000.0,0.22083949439542094,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+DL,Delhi,2023,65633.0,344.0,41.0,1.0,21359000.0,0.30728498525211856,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+DL,Delhi,2024,224373.0,910.0,82.0,0.0,21752000.0,1.0315051489518205,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+DL,Delhi,2025,328650.0,941.0,118.0,0.0,22146000.0,1.4840151720400976,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+GA,Goa,2002,273434.0,16818.0,3655.0,15.0,1358755.7,20.12385302229091,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+GA,Goa,2003,278647.0,11370.0,1638.0,1.0,1369843.4,20.341522249915574,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+GA,Goa,2004,239043.0,7839.0,1471.0,7.0,1380931.1,17.31027710216679,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+GA,Goa,2005,264170.0,3747.0,468.0,1.0,1392018.8,18.9774735800982,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+GA,Goa,2006,,,,,1403106.5,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+GA,Goa,2007,355545.0,9755.0,3047.0,11.0,1414194.2,25.141172266156943,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+GA,Goa,2008,397349.0,9822.0,2727.0,21.0,1425281.9,27.87862527405982,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+GA,Goa,2009,417110.0,5056.0,1056.0,10.0,1436369.6,29.039183229720262,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+GA,Goa,2010,459861.0,2368.0,275.0,1.0,1447457.3,31.770263620211804,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+GA,Goa,2011,418722.0,1187.0,135.0,3.0,1458545.0,28.708198924270423,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+GA,Goa,2012,445331.0,1714.0,170.0,0.0,1469000.0,30.315248468345814,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+GA,Goa,2013,440341.0,1530.0,131.0,0.0,1480000.0,29.75277027027027,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+GA,Goa,2014,431754.0,824.0,42.0,0.0,1491000.0,28.95734406438632,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+GA,Goa,2015,427485.0,651.0,75.0,1.0,1501000.0,28.480013324450365,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+GA,Goa,2016,415791.0,742.0,130.0,0.0,1512000.0,27.49940476190476,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+GA,Goa,2017,376949.0,653.0,75.0,1.0,1521000.0,24.782971729125574,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+GA,Goa,2018,356449.0,377.0,50.0,0.0,1531000.0,23.282103200522535,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+GA,Goa,2019,344334.0,272.0,54.0,0.0,1540000.0,22.35935064935065,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+GA,Goa,2020,166315.0,102.0,32.0,0.0,1549000.0,10.73692704970949,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+GA,Goa,2021,179401.0,90.0,48.0,0.0,1559000.0,11.507440667094292,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+GA,Goa,2022,249449.0,587.0,244.0,0.0,1567000.0,15.91888959795788,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+GA,Goa,2023,319859.0,1346.0,488.0,0.0,1575000.0,20.308507936507937,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+GA,Goa,2024,406527.0,884.0,286.0,0.0,1583000.0,25.68079595704359,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+GA,Goa,2025,457621.0,448.0,104.0,0.0,1591000.0,28.763104965430546,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+GJ,Gujarat,2002,7156918.0,82966.0,16244.0,17.0,51647884.5,13.857136781662375,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+GJ,Gujarat,2003,8342705.0,130744.0,31697.0,65.0,52624752.0,15.853195849740063,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+GJ,Gujarat,2004,9755255.0,222759.0,66440.0,89.0,53601619.5,18.199552720603897,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+GJ,Gujarat,2005,10976750.0,179023.0,32382.0,54.0,54578487.0,20.111862023584496,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+GJ,Gujarat,2006,,,,,55555354.5,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+GJ,Gujarat,2007,9504240.0,71121.0,18407.0,73.0,56532222.0,16.812075775121667,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+GJ,Gujarat,2008,9065142.0,51161.0,11712.0,43.0,57509089.5,15.76297256453695,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+GJ,Gujarat,2009,10180104.0,45902.0,8485.0,34.0,58485957.0,17.406065527832602,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+GJ,Gujarat,2010,10689221.0,66501.0,13729.0,71.0,59462824.5,17.976308878499374,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+GJ,Gujarat,2011,10967041.0,89764.0,16112.0,127.0,60439692.0,18.145428338714897,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+GJ,Gujarat,2012,10755616.0,76246.0,10483.0,29.0,61383000.0,17.522141309483082,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+GJ,Gujarat,2013,12687686.0,58513.0,9122.0,38.0,62327000.0,20.356644792786433,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+GJ,Gujarat,2014,13440364.0,41608.0,6253.0,16.0,63271000.0,21.242534494476143,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+GJ,Gujarat,2015,13725825.0,41566.0,7232.0,7.0,64214000.0,21.37512847665618,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+GJ,Gujarat,2016,14785016.0,44783.0,6298.0,6.0,65158000.0,22.691021823874273,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+GJ,Gujarat,2017,15650335.0,38588.0,3581.0,7.0,66084000.0,23.68248744022759,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+GJ,Gujarat,2018,15531945.0,22114.0,1762.0,2.0,67010000.0,23.178547977913745,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+GJ,Gujarat,2019,16492431.0,13883.0,1054.0,1.0,67936000.0,24.2764233984927,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+GJ,Gujarat,2020,13048328.0,4771.0,329.0,1.0,68862000.0,18.94851732450408,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+GJ,Gujarat,2021,14297050.0,4921.0,465.0,0.0,69788000.0,20.486401673640167,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+GJ,Gujarat,2022,15192658.0,4785.0,518.0,0.0,70648000.0,21.50472483297475,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+GJ,Gujarat,2023,17442857.0,4311.0,662.0,1.0,71507000.0,24.39321604877844,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+GJ,Gujarat,2024,18109327.0,4365.0,698.0,1.0,72367000.0,25.02428869512347,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+GJ,Gujarat,2025,18120556.0,3813.0,789.0,2.0,73227000.0,24.745730399989075,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+HR,Haryana,2002,2070874.0,936.0,41.0,0.0,21565253.8,9.602826932646625,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+HR,Haryana,2003,2325614.0,4374.0,500.0,0.0,21985943.6,10.577731128174094,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+HR,Haryana,2004,2182431.0,10064.0,169.0,0.0,22406633.4,9.740111158332247,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+HR,Haryana,2005,2527485.0,33262.0,238.0,0.0,22827323.2,11.072191767101279,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+HR,Haryana,2006,,,,,23248013.0,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+HR,Haryana,2007,2436431.0,30895.0,330.0,0.0,23668702.8,10.293893250457309,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+HR,Haryana,2008,2571866.0,35683.0,1397.0,0.0,24089392.6,10.676342250323072,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+HR,Haryana,2009,2083245.0,30168.0,781.0,0.0,24510082.4,8.49954302887207,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+HR,Haryana,2010,2340573.0,18921.0,764.0,0.0,24930772.2,9.38828922435062,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+HR,Haryana,2011,2907380.0,33401.0,1133.0,1.0,25351462.0,11.468293229005885,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+HR,Haryana,2012,2813199.0,26819.0,569.0,1.0,25772000.0,10.915718609343473,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+HR,Haryana,2013,2640224.0,14471.0,247.0,3.0,26193000.0,10.07988393845684,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+HR,Haryana,2014,2524246.0,4485.0,45.0,1.0,26614000.0,9.484654693018712,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+HR,Haryana,2015,2720396.0,9308.0,726.0,3.0,27034000.0,10.062868979803211,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+HR,Haryana,2016,2895273.0,7866.0,552.0,0.0,27455000.0,10.54552176288472,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+HR,Haryana,2017,2646821.0,5696.0,574.0,0.0,27861000.0,9.500093320412045,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+HR,Haryana,2018,2537360.0,3149.0,506.0,0.0,28266000.0,8.976721149083705,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+HR,Haryana,2019,2965189.0,1497.0,289.0,0.0,28672000.0,10.341758510044643,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+HR,Haryana,2020,2286206.0,111.0,6.0,0.0,29077000.0,7.862592427004161,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+HR,Haryana,2021,2903143.0,54.0,1.0,0.0,29483000.0,9.846837160397518,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+HR,Haryana,2022,3323816.0,52.0,1.0,0.0,29846000.0,11.13655431213563,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+HR,Haryana,2023,3708401.0,85.0,5.0,0.0,30209000.0,12.275815154424178,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+HR,Haryana,2024,3775769.0,522.0,30.0,0.0,30573000.0,12.350011448009681,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+HR,Haryana,2025,3628970.0,515.0,25.0,0.0,30936000.0,11.73057279544867,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+HP,Himachal Pradesh,2002,520834.0,176.0,0.0,0.0,6156570.2,8.459807702671855,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+HP,Himachal Pradesh,2003,503935.0,133.0,7.0,0.0,6235240.4,8.082046042683453,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+HP,Himachal Pradesh,2004,501376.0,126.0,7.0,0.0,6313910.6,7.940815633341404,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+HP,Himachal Pradesh,2005,479358.0,129.0,0.0,0.0,6392580.8,7.498661573428998,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+HP,Himachal Pradesh,2006,,,,,6471251.0,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+HP,Himachal Pradesh,2007,456511.0,104.0,3.0,0.0,6549921.2,6.969717437211305,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+HP,Himachal Pradesh,2008,384835.0,146.0,2.0,0.0,6628591.4,5.805682938912179,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+HP,Himachal Pradesh,2009,397327.0,192.0,0.0,0.0,6707261.6,5.923833356969408,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+HP,Himachal Pradesh,2010,393203.0,210.0,2.0,0.0,6785931.8,5.794384788836222,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+HP,Himachal Pradesh,2011,367499.0,247.0,2.0,0.0,6864602.0,5.353536883857214,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+HP,Himachal Pradesh,2012,401511.0,216.0,3.0,0.0,6923000.0,5.799667774086379,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+HP,Himachal Pradesh,2013,458801.0,141.0,0.0,0.0,6982000.0,6.571197364651963,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+HP,Himachal Pradesh,2014,492263.0,102.0,1.0,0.0,7041000.0,6.991379065473654,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+HP,Himachal Pradesh,2015,470357.0,60.0,1.0,0.0,7100000.0,6.624746478873239,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+HP,Himachal Pradesh,2016,449911.0,106.0,4.0,0.0,7158000.0,6.285428890751607,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+HP,Himachal Pradesh,2017,447298.0,96.0,9.0,0.0,7206000.0,6.2072994726616715,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+HP,Himachal Pradesh,2018,446347.0,98.0,11.0,0.0,7253000.0,6.153963877016407,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+HP,Himachal Pradesh,2019,399790.0,109.0,11.0,0.0,7300000.0,5.476575342465753,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+HP,Himachal Pradesh,2020,235911.0,34.0,0.0,0.0,7347000.0,3.210984075132707,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+HP,Himachal Pradesh,2021,160788.0,15.0,3.0,0.0,7394000.0,2.174573978901812,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+HP,Himachal Pradesh,2022,226943.0,12.0,2.0,0.0,7431000.0,3.0540034988561433,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+HP,Himachal Pradesh,2023,274839.0,23.0,0.0,0.0,7468000.0,3.680222281735404,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+HP,Himachal Pradesh,2024,281499.0,28.0,2.0,0.0,7505000.0,3.7508194536975346,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+HP,Himachal Pradesh,2025,303334.0,28.0,4.0,0.0,7542000.0,4.02193052240785,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+JK,Jammu and Kashmir (incl. Ladakh),2002,347848.0,455.0,10.0,0.0,10383460.2,3.350020063639287,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+JK,Jammu and Kashmir (incl. Ladakh),2003,370177.0,320.0,11.0,0.0,10623220.4,3.484602465745698,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+JK,Jammu and Kashmir (incl. Ladakh),2004,371988.0,250.0,8.0,0.0,10862980.6,3.4243640276776337,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+JK,Jammu and Kashmir (incl. Ladakh),2005,395144.0,268.0,7.0,0.0,11102740.8,3.558977077083525,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+JK,Jammu and Kashmir (incl. Ladakh),2006,,,,,11342501.0,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+JK,Jammu and Kashmir (incl. Ladakh),2007,377203.0,240.0,17.0,1.0,11582261.2,3.256730214303922,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+JK,Jammu and Kashmir (incl. Ladakh),2008,394922.0,217.0,17.0,1.0,11822021.4,3.340562384703516,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+JK,Jammu and Kashmir (incl. Ladakh),2009,464748.0,346.0,21.0,0.0,12061781.6,3.853062635456772,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+JK,Jammu and Kashmir (incl. Ladakh),2010,473268.0,802.0,43.0,0.0,12301541.8,3.847225068974687,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+JK,Jammu and Kashmir (incl. Ladakh),2011,484704.0,1091.0,45.0,0.0,12541302.0,3.8648618779772623,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+JK,Jammu and Kashmir (incl. Ladakh),2012,490495.0,864.0,34.0,0.0,12670000.0,3.871310181531176,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+JK,Jammu and Kashmir (incl. Ladakh),2013,483091.0,698.0,24.0,0.0,12798000.0,3.7747382403500547,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+JK,Jammu and Kashmir (incl. Ladakh),2014,452223.0,291.0,21.0,0.0,12927000.0,3.4982826641912275,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+JK,Jammu and Kashmir (incl. Ladakh),2015,460705.0,216.0,8.0,0.0,13056000.0,3.528684129901961,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+JK,Jammu and Kashmir (incl. Ladakh),2016,499988.0,242.0,11.0,0.0,13184000.0,3.792384708737864,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+JK,Jammu and Kashmir (incl. Ladakh),2017,480490.0,226.0,1.0,0.0,13288000.0,3.615969295605057,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+JK,Jammu and Kashmir (incl. Ladakh),2018,413925.0,168.0,2.0,0.0,13392000.0,3.090837813620072,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+JK,Jammu and Kashmir (incl. Ladakh),2019,402405.0,105.0,0.0,0.0,13496000.0,2.9816612329579133,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+JK,Jammu and Kashmir (incl. Ladakh),2020,302853.0,37.0,1.0,0.0,13600000.0,2.2268602941176474,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+JK,Jammu and Kashmir (incl. Ladakh),2021,311241.0,31.0,2.0,0.0,13705000.0,2.2710032834731853,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+JK,Jammu and Kashmir (incl. Ladakh),2022,450769.0,37.0,1.0,0.0,13804000.0,3.2654955085482467,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+JK,Jammu and Kashmir (incl. Ladakh),2023,485889.0,54.0,15.0,1.0,13903000.0,3.4948500323671152,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+JK,Jammu and Kashmir (incl. Ladakh),2024,461729.0,117.0,22.0,0.0,14003000.0,3.297357709062344,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+JK,Jammu and Kashmir (incl. Ladakh),2025,425860.0,137.0,26.0,0.0,14102000.0,3.0198553396681325,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+JH,Jharkhand,2002,839333.0,126589.0,52892.0,31.0,27550059.5,3.046574182534887,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+JH,Jharkhand,2003,710016.0,118902.0,37482.0,13.0,28154290.0,2.521874996670135,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+JH,Jharkhand,2004,1306554.0,143722.0,44238.0,40.0,28758520.5,4.543189208916363,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+JH,Jharkhand,2005,2846684.0,193144.0,51676.0,21.0,29362751.0,9.694881790878519,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+JH,Jharkhand,2006,,,,,29966981.5,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+JH,Jharkhand,2007,2002564.0,184878.0,45926.0,31.0,30571212.0,6.550489395055714,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+JH,Jharkhand,2008,2551489.0,214299.0,73521.0,25.0,31175442.5,8.18429120933889,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+JH,Jharkhand,2009,3347069.0,230683.0,91194.0,28.0,31779673.0,10.53210648202705,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+JH,Jharkhand,2010,3383496.0,199842.0,89357.0,16.0,32383903.5,10.448079552855633,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+JH,Jharkhand,2011,3441614.0,160653.0,70302.0,17.0,32988134.0,10.432884745769494,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+JH,Jharkhand,2012,3763323.0,131476.0,48188.0,10.0,33551000.0,11.216723793627612,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+JH,Jharkhand,2013,3562174.0,97786.0,38263.0,8.0,34113000.0,10.442277137748073,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+JH,Jharkhand,2014,3394634.0,103735.0,46448.0,8.0,34675000.0,9.789860129776496,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+JH,Jharkhand,2015,2102135.0,104800.0,54993.0,6.0,35238000.0,5.9655343663090985,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+JH,Jharkhand,2016,2959427.0,141414.0,83232.0,15.0,35800000.0,8.266555865921788,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+JH,Jharkhand,2017,3405735.0,94114.0,42982.0,0.0,36334000.0,9.373410579622393,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+JH,Jharkhand,2018,3378021.0,57095.0,20711.0,4.0,36869000.0,9.162225718082942,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+JH,Jharkhand,2019,4082640.0,37133.0,19555.0,2.0,37403000.0,10.915274175868246,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+JH,Jharkhand,2020,2708477.0,16653.0,11961.0,8.0,37937000.0,7.139407438648285,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+JH,Jharkhand,2021,4080420.0,14198.0,9689.0,0.0,38471000.0,10.606482805229914,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+JH,Jharkhand,2022,9778246.0,19167.0,14963.0,4.0,38969000.0,25.092370858887836,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+JH,Jharkhand,2023,5731625.0,34087.0,28990.0,2.0,39466000.0,14.522943799726345,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+JH,Jharkhand,2024,6127645.0,42352.0,35016.0,0.0,39963000.0,15.333295798613717,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+JH,Jharkhand,2025,6978492.0,42236.0,32761.0,2.0,40461000.0,17.24745310298806,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+KA,Karnataka,2002,9426845.0,132584.0,29702.0,33.0,53675035.5,17.562810927251274,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+KA,Karnataka,2003,9771552.0,100220.0,23560.0,22.0,54499509.0,17.92961474203373,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+KA,Karnataka,2004,9189910.0,80961.0,20472.0,27.0,55323982.5,16.611078206454135,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+KA,Karnataka,2005,10080290.0,83181.0,21984.0,26.0,56148456.0,17.952924653885407,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+KA,Karnataka,2006,,,,,56972929.5,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+KA,Karnataka,2007,8867947.0,49355.0,11295.0,18.0,57797403.0,15.343158238441958,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+KA,Karnataka,2008,8994881.0,47344.0,9864.0,8.0,58621876.5,15.343898109437012,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+KA,Karnataka,2009,9321098.0,36859.0,5723.0,0.0,59446350.0,15.679849141284535,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+KA,Karnataka,2010,9281666.0,44319.0,7936.0,11.0,60270823.5,15.399932274029737,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+KA,Karnataka,2011,9205620.0,24237.0,2648.0,0.0,61095297.0,15.06764096751997,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+KA,Karnataka,2012,9109193.0,16466.0,1278.0,0.0,61722000.0,14.758421632481125,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+KA,Karnataka,2013,8907752.0,13302.0,967.0,0.0,62349000.0,14.28692039968564,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+KA,Karnataka,2014,9805708.0,14794.0,1329.0,2.0,62975000.0,15.570794759825327,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+KA,Karnataka,2015,9564478.0,12445.0,1598.0,0.0,63602000.0,15.038014527845037,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+KA,Karnataka,2016,9875331.0,11078.0,1746.0,0.0,64229000.0,15.375190334584065,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+KA,Karnataka,2017,10269719.0,7381.0,1170.0,0.0,64752000.0,15.860079997529034,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+KA,Karnataka,2018,10820655.0,5721.0,837.0,0.0,65275000.0,16.577027958636535,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+KA,Karnataka,2019,11297885.0,3499.0,566.0,0.0,65798000.0,17.170559895437552,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+KA,Karnataka,2020,6971387.0,1701.0,235.0,1.0,66322000.0,10.511424565001056,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+KA,Karnataka,2021,8226194.0,913.0,182.0,2.0,66845000.0,12.306371456354253,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+KA,Karnataka,2022,11573428.0,289.0,34.0,0.0,67268000.0,17.20495332104418,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+KA,Karnataka,2023,13349842.0,275.0,61.0,2.0,67692000.0,19.72144714294156,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+KA,Karnataka,2024,14657160.0,740.0,114.0,3.0,68115000.0,21.51825589077296,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+KA,Karnataka,2025,15621201.0,694.0,208.0,1.0,68538000.0,22.792029239254134,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+KL,Kerala,2002,1480689.0,3360.0,375.0,8.0,31997842.7,4.627465088451103,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+KL,Kerala,2003,1861878.0,2575.0,440.0,7.0,32154311.4,5.790445880921586,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+KL,Kerala,2004,1747620.0,2790.0,510.0,12.0,32310780.1,5.408783058134829,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+KL,Kerala,2005,2118032.0,2554.0,337.0,6.0,32467248.8,6.523595556393433,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+KL,Kerala,2006,,,,,32623717.5,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+KL,Kerala,2007,1953317.0,1927.0,293.0,6.0,32780186.2,5.9588343644002855,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+KL,Kerala,2008,1819294.0,1804.0,222.0,4.0,32936654.9,5.523614967954745,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+KL,Kerala,2009,2054473.0,2046.0,249.0,5.0,33093123.6,6.208156790614954,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+KL,Kerala,2010,2143497.0,2299.0,271.0,7.0,33249592.3,6.446686565837982,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+KL,Kerala,2011,2153277.0,1993.0,271.0,2.0,33406061.0,6.445767431245486,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+KL,Kerala,2012,2414705.0,2036.0,236.0,3.0,33641000.0,7.177863321542166,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+KL,Kerala,2013,2607143.0,1634.0,243.0,0.0,33875000.0,7.696363099630996,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+KL,Kerala,2014,2675482.0,1751.0,305.0,6.0,34109000.0,7.843918027500073,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+KL,Kerala,2015,2656072.0,1549.0,400.0,4.0,34344000.0,7.733729326811088,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+KL,Kerala,2016,2728755.0,1547.0,419.0,2.0,34578000.0,7.891592920353982,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+KL,Kerala,2017,2683559.0,1192.0,317.0,2.0,34761000.0,7.7200281925146,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+KL,Kerala,2018,2712340.0,908.0,209.0,0.0,34943000.0,7.762184128437742,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+KL,Kerala,2019,2481585.0,656.0,211.0,0.0,35125000.0,7.065010676156584,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+KL,Kerala,2020,1437627.0,268.0,78.0,1.0,35307000.0,4.071790296541762,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+KL,Kerala,2021,1531555.0,309.0,115.0,1.0,35489000.0,4.315576657555862,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+KL,Kerala,2022,2576921.0,439.0,206.0,0.0,35633000.0,7.231838464344849,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+KL,Kerala,2023,3076673.0,569.0,301.0,7.0,35776000.0,8.599823904293382,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+KL,Kerala,2024,3331487.0,954.0,494.0,6.0,35920000.0,9.27474109131403,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+KL,Kerala,2025,3762263.0,1144.0,571.0,2.0,36063000.0,10.432473726534122,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+LD,Lakshadweep,2002,1892.0,8.0,0.0,0.0,61032.3,3.0999978699803217,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+LD,Lakshadweep,2003,1897.0,6.0,0.0,0.0,61414.6,3.0888420668700927,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+LD,Lakshadweep,2004,1479.0,2.0,0.0,0.0,61796.9,2.393323936961239,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+LD,Lakshadweep,2005,811.0,0.0,0.0,0.0,62179.2,1.3042946837527662,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+LD,Lakshadweep,2006,,,,,62561.5,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+LD,Lakshadweep,2007,426.0,0.0,0.0,0.0,62943.8,0.6767942196054257,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+LD,Lakshadweep,2008,229.0,0.0,0.0,0.0,63326.1,0.36162024820729527,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+LD,Lakshadweep,2009,426.0,8.0,0.0,0.0,63708.4,0.6686716351375956,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+LD,Lakshadweep,2010,440.0,6.0,0.0,0.0,64090.7,0.6865270624287143,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+LD,Lakshadweep,2011,578.0,8.0,0.0,0.0,64473.0,0.8964993097885936,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+LD,Lakshadweep,2012,473.0,9.0,0.0,0.0,65000.0,0.7276923076923076,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+LD,Lakshadweep,2013,178.0,8.0,0.0,0.0,65000.0,0.27384615384615385,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+LD,Lakshadweep,2014,132.0,0.0,0.0,0.0,66000.0,0.2,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+LD,Lakshadweep,2015,326.0,4.0,0.0,0.0,66000.0,0.49393939393939396,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+LD,Lakshadweep,2016,404.0,2.0,0.0,0.0,67000.0,0.6029850746268657,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+LD,Lakshadweep,2017,430.0,1.0,0.0,0.0,67000.0,0.6417910447761194,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+LD,Lakshadweep,2018,428.0,5.0,0.0,0.0,67000.0,0.6388059701492538,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+LD,Lakshadweep,2019,514.0,11.0,0.0,0.0,68000.0,0.7558823529411764,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+LD,Lakshadweep,2020,556.0,6.0,0.0,0.0,68000.0,0.8176470588235294,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+LD,Lakshadweep,2021,875.0,1.0,0.0,0.0,68000.0,1.2867647058823528,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+LD,Lakshadweep,2022,1893.0,0.0,0.0,0.0,68000.0,2.7838235294117646,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+LD,Lakshadweep,2023,1400.0,0.0,0.0,0.0,69000.0,2.0289855072463765,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+LD,Lakshadweep,2024,1455.0,1.0,1.0,0.0,69000.0,2.108695652173913,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+LD,Lakshadweep,2025,2033.0,0.0,0.0,0.0,69000.0,2.946376811594203,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+MP,Madhya Pradesh,2002,8652510.0,108818.0,31545.0,30.0,61575901.6,14.051779633219368,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+MP,Madhya Pradesh,2003,9003681.0,99708.0,31390.0,22.0,62803780.2,14.336208698469393,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+MP,Madhya Pradesh,2004,9101655.0,132094.0,52292.0,36.0,64031658.8,14.2143045652286,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+MP,Madhya Pradesh,2005,9018326.0,104317.0,32250.0,44.0,65259537.4,13.819169364813794,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+MP,Madhya Pradesh,2006,,,,,66487416.0,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+MP,Madhya Pradesh,2007,9169387.0,90829.0,36694.0,41.0,67715294.6,13.541087067795168,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+MP,Madhya Pradesh,2008,9286269.0,105312.0,42355.0,53.0,68943173.2,13.469453999544076,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+MP,Madhya Pradesh,2009,9609659.0,87628.0,24581.0,26.0,70171051.8,13.69462015104069,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+MP,Madhya Pradesh,2010,9230400.0,87165.0,31092.0,31.0,71398930.4,12.92792475781962,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+MP,Madhya Pradesh,2011,9900131.0,91851.0,31940.0,109.0,72626809.0,13.6315103696763,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+MP,Madhya Pradesh,2012,9580368.0,76538.0,24039.0,43.0,73863000.0,12.970456114698834,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+MP,Madhya Pradesh,2013,9757285.0,78260.0,28775.0,49.0,75099000.0,12.992563149975368,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+MP,Madhya Pradesh,2014,10285880.0,96879.0,41638.0,26.0,76334000.0,13.474834280923313,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+MP,Madhya Pradesh,2015,9937602.0,100597.0,39125.0,24.0,77570000.0,12.811140904989044,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+MP,Madhya Pradesh,2016,9635854.0,69106.0,22304.0,3.0,78806000.0,12.227310103291627,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+MP,Madhya Pradesh,2017,10255012.0,47541.0,16169.0,5.0,79948000.0,12.827102616700856,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+MP,Madhya Pradesh,2018,9817411.0,22279.0,6332.0,1.0,81090000.0,12.106808484400048,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+MP,Madhya Pradesh,2019,10069562.0,14147.0,3627.0,3.0,82232000.0,12.245308395758341,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+MP,Madhya Pradesh,2020,9056958.0,6760.0,3971.0,1.0,83374000.0,10.863048432365007,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+MP,Madhya Pradesh,2021,9864546.0,3181.0,1688.0,2.0,84516000.0,11.671808888257845,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+MP,Madhya Pradesh,2022,11031117.0,3826.0,2452.0,0.0,85548000.0,12.894652125122738,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+MP,Madhya Pradesh,2023,11530451.0,3794.0,2625.0,0.0,86579000.0,13.31783804386745,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+MP,Madhya Pradesh,2024,11899664.0,3247.0,2041.0,0.0,87610000.0,13.582540805844081,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+MP,Madhya Pradesh,2025,9927398.0,2347.0,1343.0,0.0,88641000.0,11.199555510429711,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+MH,Maharashtra,2002,14192434.0,45568.0,14634.0,43.0,98428197.6,14.41907334082891,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+MH,Maharashtra,2003,14563047.0,62947.0,30340.0,85.0,99977768.2,14.56628534742587,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+MH,Maharashtra,2004,14690118.0,68988.0,29300.0,61.0,101527338.8,14.469125433237496,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+MH,Maharashtra,2005,15177228.0,47608.0,16718.0,104.0,103076909.4,14.72417837161113,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+MH,Maharashtra,2006,,,,,104626480.0,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+MH,Maharashtra,2007,13559505.0,67850.0,22691.0,182.0,106176050.6,12.770775446416916,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+MH,Maharashtra,2008,13371478.0,67333.0,22257.0,148.0,107725621.2,12.412532739240309,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+MH,Maharashtra,2009,14770338.0,93818.0,24962.0,227.0,109275191.8,13.51664339975105,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+MH,Maharashtra,2010,16118905.0,139198.0,32387.0,200.0,110824762.4,14.54449768348883,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+MH,Maharashtra,2011,16098563.0,96577.0,21401.0,118.0,112374333.0,14.325836309969468,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+MH,Maharashtra,2012,16578129.0,58517.0,11875.0,96.0,113645000.0,14.587644858990718,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+MH,Maharashtra,2013,16739447.0,43677.0,9198.0,80.0,114915000.0,14.566807640429882,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+MH,Maharashtra,2014,17606275.0,53385.0,25770.0,68.0,116186000.0,15.153525381715523,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+MH,Maharashtra,2015,18102384.0,56603.0,31139.0,59.0,117456000.0,15.412055578259093,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+MH,Maharashtra,2016,17812209.0,23983.0,7815.0,26.0,118727000.0,15.002660725866903,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+MH,Maharashtra,2017,16842438.0,17710.0,5629.0,20.0,119869000.0,14.050703684855966,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+MH,Maharashtra,2018,16634687.0,10757.0,2697.0,13.0,121011000.0,13.746425531563247,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+MH,Maharashtra,2019,17250326.0,8866.0,2567.0,7.0,122153000.0,14.121901222237684,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+MH,Maharashtra,2020,12493864.0,15215.0,8675.0,12.0,123295000.0,10.133309542154995,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+MH,Maharashtra,2021,13367383.0,19303.0,11858.0,14.0,124437000.0,10.742289672685777,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+MH,Maharashtra,2022,17353964.0,15451.0,8983.0,26.0,125411000.0,13.837672931401551,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+MH,Maharashtra,2023,18931780.0,16159.0,6297.0,19.0,126385000.0,14.979451675436167,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+MH,Maharashtra,2024,21623801.0,21078.0,8832.0,26.0,127360000.0,16.978486966080403,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+MH,Maharashtra,2025,31619647.0,23821.0,9199.0,28.0,128334000.0,24.63855798151698,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+MN,Manipur,2002,102403.0,1268.0,601.0,9.0,2350085.8,4.357415376068398,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+MN,Manipur,2003,149316.0,2589.0,1168.0,17.0,2406275.6,6.205274242069362,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+MN,Manipur,2004,154202.0,2736.0,771.0,8.0,2462465.4,6.262098139531219,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+MN,Manipur,2005,118364.0,1844.0,641.0,3.0,2518655.2,4.699492014627489,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+MN,Manipur,2006,,,,,2574845.0,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+MN,Manipur,2007,120895.0,1194.0,400.0,4.0,2631034.8,4.59496012747532,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+MN,Manipur,2008,134755.0,708.0,356.0,2.0,2687224.6,5.014653408576268,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+MN,Manipur,2009,114720.0,1069.0,620.0,1.0,2743414.4,4.181650428021374,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+MN,Manipur,2010,117986.0,947.0,487.0,4.0,2799604.2,4.2143814472060015,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+MN,Manipur,2011,120615.0,714.0,314.0,1.0,2855794.0,4.223518923283683,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+MN,Manipur,2012,115257.0,255.0,83.0,0.0,2887000.0,3.992275718739176,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+MN,Manipur,2013,92762.0,120.0,42.0,0.0,2918000.0,3.1789581905414663,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+MN,Manipur,2014,66236.0,145.0,72.0,0.0,2949000.0,2.246049508307901,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+MN,Manipur,2015,80232.0,216.0,119.0,0.0,2980000.0,2.6923489932885905,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+MN,Manipur,2016,94115.0,122.0,58.0,0.0,3012000.0,3.1246679946879152,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+MN,Manipur,2017,115733.0,80.0,22.0,0.0,3042000.0,3.8045036160420778,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+MN,Manipur,2018,98375.0,12.0,3.0,0.0,3073000.0,3.2012691181256105,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+MN,Manipur,2019,231833.0,16.0,5.0,0.0,3103000.0,7.471253625523687,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+MN,Manipur,2020,192060.0,36.0,21.0,2.0,3134000.0,6.128270580727505,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+MN,Manipur,2021,185337.0,19.0,8.0,0.0,3165000.0,5.855829383886256,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+MN,Manipur,2022,170729.0,30.0,10.0,0.0,3194000.0,5.3453036944270504,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+MN,Manipur,2023,77627.0,34.0,12.0,0.0,3223000.0,2.4085324232081913,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+MN,Manipur,2024,148178.0,43.0,11.0,0.0,3253000.0,4.555118352290194,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+MN,Manipur,2025,209323.0,78.0,10.0,0.0,3282000.0,6.377909811090799,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+ML,Meghalaya,2002,235323.0,17918.0,11095.0,41.0,2383628.7,9.87246881194206,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+ML,Meghalaya,2003,199113.0,18366.0,12338.0,38.0,2448435.4,8.13225458184439,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+ML,Meghalaya,2004,216978.0,18080.0,15514.0,29.0,2513242.1,8.633390312855257,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+ML,Meghalaya,2005,218660.0,16816.0,14758.0,41.0,2578048.8,8.481608261255568,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+ML,Meghalaya,2006,,,,,2642855.5,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+ML,Meghalaya,2007,330234.0,36337.0,30731.0,237.0,2707662.2,12.196277659746476,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+ML,Meghalaya,2008,353071.0,39616.0,36301.0,73.0,2772468.9,12.734894880155373,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+ML,Meghalaya,2009,501419.0,76759.0,74251.0,192.0,2837275.6,17.672551795814265,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+ML,Meghalaya,2010,437167.0,41642.0,39374.0,87.0,2902082.3,15.063907732733838,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+ML,Meghalaya,2011,391397.0,25143.0,24018.0,53.0,2966889.0,13.192168631856466,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+ML,Meghalaya,2012,354574.0,20834.0,19805.0,52.0,2999000.0,11.823074358119372,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+ML,Meghalaya,2013,360044.0,24727.0,22885.0,62.0,3032000.0,11.874802110817942,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+ML,Meghalaya,2014,437741.0,39168.0,37149.0,73.0,3064000.0,14.286586161879896,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+ML,Meghalaya,2015,599144.0,48603.0,43828.0,79.0,3096000.0,19.35219638242894,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+ML,Meghalaya,2016,468254.0,35147.0,31867.0,45.0,3129000.0,14.964972834771492,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+ML,Meghalaya,2017,421145.0,16454.0,14418.0,12.0,3161000.0,13.323157228725089,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+ML,Meghalaya,2018,326051.0,6394.0,6065.0,6.0,3192000.0,10.214630325814536,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+ML,Meghalaya,2019,422237.0,2615.0,2364.0,4.0,3224000.0,13.096681141439207,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+ML,Meghalaya,2020,394213.0,2018.0,1766.0,4.0,3256000.0,12.10727886977887,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+ML,Meghalaya,2021,449073.0,491.0,437.0,3.0,3288000.0,13.65793795620438,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+ML,Meghalaya,2022,586579.0,479.0,446.0,8.0,3318000.0,17.678691983122363,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+ML,Meghalaya,2023,662339.0,1755.0,1679.0,14.0,3349000.0,19.77721707972529,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+ML,Meghalaya,2024,789799.0,673.0,602.0,4.0,3379000.0,23.373749630068065,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+ML,Meghalaya,2025,838217.0,418.0,356.0,2.0,3410000.0,24.581143695014664,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+MZ,Mizoram,2002,219522.0,7859.0,3932.0,35.0,909436.3,24.13824915499854,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+MZ,Mizoram,2003,202285.0,7293.0,4167.0,48.0,930299.6,21.74407040484592,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+MZ,Mizoram,2004,217316.0,7830.0,4170.0,72.0,951162.9,22.847400797486948,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+MZ,Mizoram,2005,218961.0,10741.0,6294.0,74.0,972026.2,22.526244662952504,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+MZ,Mizoram,2006,,,,,992889.5,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+MZ,Mizoram,2007,154045.0,6081.0,4189.0,75.0,1013752.8,15.195519065397404,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+MZ,Mizoram,2008,165441.0,7361.0,6172.0,91.0,1034616.1,15.990568868974686,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+MZ,Mizoram,2009,171793.0,9399.0,7387.0,119.0,1055479.4,16.276300608045975,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+MZ,Mizoram,2010,334991.0,15594.0,14664.0,31.0,1076342.7,31.123080037612556,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+MZ,Mizoram,2011,213149.0,8861.0,8373.0,30.0,1097206.0,19.42652519216993,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+MZ,Mizoram,2012,168421.0,9883.0,9437.0,25.0,1109000.0,15.186744815148783,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+MZ,Mizoram,2013,229818.0,11747.0,10340.0,21.0,1121000.0,20.501159678858162,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+MZ,Mizoram,2014,330882.0,23145.0,21083.0,31.0,1133000.0,29.20406001765225,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+MZ,Mizoram,2015,310526.0,28593.0,24602.0,21.0,1145000.0,27.120174672489085,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+MZ,Mizoram,2016,267747.0,7583.0,5907.0,9.0,1157000.0,23.141486603284356,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+MZ,Mizoram,2017,213601.0,5715.0,4974.0,4.0,1169000.0,18.272112917023097,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+MZ,Mizoram,2018,218178.0,4296.0,3937.0,3.0,1181000.0,18.474005080440307,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+MZ,Mizoram,2019,232916.0,8543.0,8010.0,8.0,1192000.0,19.53993288590604,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+MZ,Mizoram,2020,292300.0,7781.0,6492.0,6.0,1204000.0,24.277408637873755,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+MZ,Mizoram,2021,391199.0,8018.0,6146.0,10.0,1216000.0,32.17097039473684,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+MZ,Mizoram,2022,461929.0,11156.0,8252.0,10.0,1227000.0,37.647025264873676,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+MZ,Mizoram,2023,367855.0,18077.0,11628.0,13.0,1238000.0,29.713651050080774,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+MZ,Mizoram,2024,307934.0,16899.0,8950.0,7.0,1250000.0,24.634719999999998,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+MZ,Mizoram,2025,289387.0,9330.0,5490.0,6.0,1261000.0,22.94900872323553,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+NL,Nagaland,2002,59777.0,3945.0,234.0,0.0,1988882.6,3.0055569896383023,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+NL,Nagaland,2003,66590.0,3370.0,277.0,0.0,1987729.2,3.350053920825835,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+NL,Nagaland,2004,67511.0,2486.0,128.0,1.0,1986575.8,3.398360133049038,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+NL,Nagaland,2005,86470.0,2987.0,91.0,0.0,1985422.4,4.355244506156473,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+NL,Nagaland,2006,,,,,1984269.0,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+NL,Nagaland,2007,105856.0,4976.0,820.0,26.0,1983115.6,5.33786330963258,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+NL,Nagaland,2008,135910.0,5078.0,835.0,19.0,1981962.2,6.857345715271462,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+NL,Nagaland,2009,156259.0,8489.0,2893.0,35.0,1980808.8,7.888646294382376,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+NL,Nagaland,2010,182804.0,4959.0,1877.0,14.0,1979655.4,9.23413236465296,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+NL,Nagaland,2011,205520.0,3363.0,950.0,4.0,1978502.0,10.387656924279076,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+NL,Nagaland,2012,214943.0,2891.0,821.0,1.0,2000000.0,10.74715,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+NL,Nagaland,2013,224571.0,2285.0,519.0,1.0,2022000.0,11.106379821958456,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+NL,Nagaland,2014,234653.0,1936.0,647.0,2.0,2043000.0,11.485707293196281,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+NL,Nagaland,2015,235651.0,1527.0,532.0,3.0,2065000.0,11.411670702179176,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+NL,Nagaland,2016,252232.0,828.0,316.0,0.0,2086000.0,12.091658676893577,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+NL,Nagaland,2017,254038.0,394.0,188.0,1.0,2108000.0,12.051138519924098,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+NL,Nagaland,2018,255888.0,113.0,24.0,0.0,2129000.0,12.019163926726161,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+NL,Nagaland,2019,225519.0,20.0,4.0,0.0,2150000.0,10.489255813953488,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+NL,Nagaland,2020,139909.0,12.0,10.0,0.0,2171000.0,6.444449562413634,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+NL,Nagaland,2021,149337.0,8.0,3.0,0.0,2192000.0,6.812819343065693,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+NL,Nagaland,2022,258973.0,9.0,4.0,0.0,2213000.0,11.702349751468596,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+NL,Nagaland,2023,249433.0,10.0,5.0,0.0,2233000.0,11.170309001343485,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+NL,Nagaland,2024,306539.0,12.0,3.0,0.0,2253000.0,13.605814469596094,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+NL,Nagaland,2025,256810.0,210.0,5.0,0.0,2274000.0,11.293315743183816,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+OD,Odisha,2002,4570466.0,473223.0,393547.0,465.0,37321615.8,12.246163254271538,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+OD,Odisha,2003,4430957.0,421323.0,350619.0,333.0,37838571.6,11.710159270388527,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+OD,Odisha,2004,4369409.0,416732.0,351737.0,283.0,38355527.4,11.391862649762444,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+OD,Odisha,2005,4848624.0,396573.0,342692.0,255.0,38872483.2,12.473152216835995,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+OD,Odisha,2006,,,,,39389439.0,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+OD,Odisha,2007,4945551.0,371879.0,323150.0,221.0,39906394.8,12.392878446639335,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+OD,Odisha,2008,5029677.0,375430.0,329631.0,239.0,40423350.6,12.442503962054051,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+OD,Odisha,2009,5015489.0,380904.0,336047.0,198.0,40940306.4,12.25073635501663,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+OD,Odisha,2010,5240458.0,395651.0,350428.0,247.0,41457262.2,12.64062729159187,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+OD,Odisha,2011,4650799.0,308968.0,281577.0,99.0,41974218.0,11.080132570903405,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+OD,Odisha,2012,4616440.0,262842.0,244503.0,79.0,42205000.0,10.938135292027011,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+OD,Odisha,2013,5078132.0,228858.0,208488.0,67.0,42436000.0,11.966566123103025,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+OD,Odisha,2014,6352249.0,395035.0,342280.0,89.0,42667000.0,14.887967281505613,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+OD,Odisha,2015,6608453.0,436850.0,369533.0,80.0,42897000.0,15.405396647784228,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+OD,Odisha,2016,7201271.0,444843.0,384668.0,77.0,43128000.0,16.69743785939529,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+OD,Odisha,2017,6648889.0,347860.0,293718.0,24.0,43309000.0,15.352210856865778,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+OD,Odisha,2018,6157502.0,66311.0,54042.0,3.0,43490000.0,14.15843182340768,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+OD,Odisha,2019,6552293.0,39556.0,35772.0,9.0,43671000.0,15.003762222069566,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+OD,Odisha,2020,5998664.0,41739.0,38140.0,9.0,43852000.0,13.679339596825688,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+OD,Odisha,2021,6914758.0,25503.0,22594.0,13.0,44033000.0,15.703581404855449,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+OD,Odisha,2022,8160202.0,23770.0,19295.0,5.0,44162000.0,18.47788143652914,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+OD,Odisha,2023,9509933.0,41973.0,33684.0,4.0,44291000.0,21.471479533087987,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+OD,Odisha,2024,10468801.0,68693.0,50501.0,8.0,44420000.0,23.567764520486268,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+OD,Odisha,2025,10832023.0,62137.0,43153.0,6.0,44548000.0,24.315396875280594,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+PY,Puducherry,2002,290206.0,103.0,2.0,0.0,1001705.8,28.97118095951925,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+PY,Puducherry,2003,304626.0,63.0,2.0,0.0,1029066.6,29.602165690733717,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+PY,Puducherry,2004,253615.0,43.0,1.0,0.0,1056427.4,24.006855558649846,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+PY,Puducherry,2005,218563.0,44.0,2.0,0.0,1083788.2,20.16657867284401,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+PY,Puducherry,2006,,,,,1111149.0,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+PY,Puducherry,2007,125463.0,68.0,5.0,0.0,1138509.8,11.019931492904146,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+PY,Puducherry,2008,127963.0,72.0,5.0,0.0,1165870.6,10.975746364991105,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+PY,Puducherry,2009,90550.0,65.0,1.0,0.0,1193231.4,7.588637040560616,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+PY,Puducherry,2010,86009.0,175.0,0.0,0.0,1220592.2,7.046497593545166,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+PY,Puducherry,2011,241778.0,196.0,6.0,1.0,1247953.0,19.373966808044855,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+PY,Puducherry,2012,233078.0,143.0,2.0,0.0,1279000.0,18.223455824863173,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+PY,Puducherry,2013,230814.0,127.0,2.0,0.0,1310000.0,17.6193893129771,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+PY,Puducherry,2014,180922.0,79.0,3.0,0.0,1340000.0,13.501641791044777,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+PY,Puducherry,2015,158851.0,54.0,5.0,1.0,1371000.0,11.58650619985412,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+PY,Puducherry,2016,142059.0,76.0,11.0,0.0,1402000.0,10.13259629101284,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+PY,Puducherry,2017,149552.0,60.0,14.0,0.0,1436000.0,10.414484679665739,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+PY,Puducherry,2018,152131.0,54.0,4.0,1.0,1470000.0,10.349047619047619,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+PY,Puducherry,2019,152100.0,21.0,2.0,0.0,1504000.0,10.113031914893616,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+PY,Puducherry,2020,36063.0,15.0,0.0,0.0,1537000.0,2.346324007807417,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+PY,Puducherry,2021,14873.0,5.0,0.0,0.0,1571000.0,0.9467218332272438,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+PY,Puducherry,2022,103037.0,0.0,0.0,0.0,1608000.0,6.407773631840796,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+PY,Puducherry,2023,147431.0,6.0,0.0,0.0,1646000.0,8.956925880923452,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+PY,Puducherry,2024,165198.0,4.0,3.0,0.0,1683000.0,9.815686274509803,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+PY,Puducherry,2025,166891.0,17.0,7.0,0.0,1720000.0,9.702965116279069,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+PB,Punjab,2002,2685699.0,250.0,18.0,0.0,24697432.9,10.874405493374173,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+PB,Punjab,2003,2646723.0,379.0,35.0,1.0,25035866.8,10.571725042090414,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+PB,Punjab,2004,2435456.0,1643.0,21.0,0.0,25374300.7,9.59812066860231,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+PB,Punjab,2005,2743340.0,1883.0,28.0,0.0,25712734.6,10.669188021720567,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+PB,Punjab,2006,,,,,26051168.5,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+PB,Punjab,2007,2723293.0,2017.0,41.0,0.0,26389602.4,10.319568134152716,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+PB,Punjab,2008,2979882.0,2494.0,38.0,0.0,26728036.3,11.148899853896113,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+PB,Punjab,2009,2996929.0,2955.0,35.0,0.0,27066470.2,11.072478154170247,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+PB,Punjab,2010,3140465.0,3477.0,71.0,0.0,27404904.1,11.4595000534959,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+PB,Punjab,2011,3120544.0,2693.0,64.0,3.0,27743338.0,11.247903911202034,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+PB,Punjab,2012,2911782.0,1689.0,43.0,0.0,28023000.0,10.390686222031903,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+PB,Punjab,2013,2971013.0,1760.0,31.0,0.0,28302000.0,10.49753727651756,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+PB,Punjab,2014,3092693.0,1036.0,14.0,0.0,28581000.0,10.820800531821838,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+PB,Punjab,2015,3033940.0,596.0,13.0,0.0,28861000.0,10.51224836284259,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+PB,Punjab,2016,2691331.0,693.0,8.0,0.0,29140000.0,9.235864790665751,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+PB,Punjab,2017,2430999.0,805.0,12.0,0.0,29380000.0,8.27433287950987,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+PB,Punjab,2018,2486967.0,624.0,12.0,0.0,29619000.0,8.396525878658968,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+PB,Punjab,2019,3002498.0,1139.0,24.0,0.0,29859000.0,10.055587929937372,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+PB,Punjab,2020,1596686.0,109.0,6.0,0.0,30099000.0,5.304780889730556,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+PB,Punjab,2021,2114155.0,71.0,5.0,0.0,30339000.0,6.968439961765384,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+PB,Punjab,2022,2942145.0,119.0,8.0,2.0,30535000.0,9.635320124447356,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+PB,Punjab,2023,2823429.0,75.0,7.0,0.0,30730000.0,9.187858769931664,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+PB,Punjab,2024,2842710.0,379.0,33.0,0.0,30926000.0,9.191974390480501,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+PB,Punjab,2025,2823401.0,420.0,10.0,0.0,31122000.0,9.07204228520018,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+RJ,Rajasthan,2002,5691277.0,68627.0,5356.0,11.0,57711312.9,9.861631479189585,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+RJ,Rajasthan,2003,7832143.0,142738.0,16481.0,66.0,58915437.8,13.293872187774866,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+RJ,Rajasthan,2004,7253502.0,105022.0,7578.0,20.0,60119562.7,12.065127679313608,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+RJ,Rajasthan,2005,7037873.0,52286.0,4061.0,22.0,61323687.6,11.476597829384284,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+RJ,Rajasthan,2006,,,,,62527812.5,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+RJ,Rajasthan,2007,7096694.0,55043.0,3447.0,46.0,63731937.4,11.135224017213071,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+RJ,Rajasthan,2008,8041283.0,57482.0,3954.0,54.0,64936062.3,12.383385618379265,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+RJ,Rajasthan,2009,7845840.0,32709.0,1767.0,18.0,66140187.2,11.862439965999974,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+RJ,Rajasthan,2010,8732582.0,50963.0,2331.0,26.0,67344312.1,12.9670668950229,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+RJ,Rajasthan,2011,8591970.0,54294.0,2973.0,45.0,68548437.0,12.53415887513234,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+RJ,Rajasthan,2012,8591458.0,45809.0,1394.0,22.0,69687000.0,12.328638053008453,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+RJ,Rajasthan,2013,8909848.0,33139.0,1086.0,15.0,70825000.0,12.580088951641368,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+RJ,Rajasthan,2014,8810139.0,15118.0,603.0,4.0,71963000.0,12.242595500465518,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+RJ,Rajasthan,2015,9062099.0,11796.0,662.0,3.0,73102000.0,12.396513091297091,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+RJ,Rajasthan,2016,9756048.0,12741.0,1031.0,5.0,74240000.0,13.141228448275863,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+RJ,Rajasthan,2017,9151960.0,10607.0,520.0,0.0,75248000.0,12.16239634275994,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+RJ,Rajasthan,2018,8873499.0,5728.0,378.0,0.0,76256000.0,11.636460081829627,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+RJ,Rajasthan,2019,8460010.0,3421.0,420.0,1.0,77264000.0,10.94948488299855,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+RJ,Rajasthan,2020,6068951.0,1276.0,119.0,0.0,78273000.0,7.753568919039772,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+RJ,Rajasthan,2021,6632314.0,925.0,119.0,0.0,79281000.0,8.365578133474603,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+RJ,Rajasthan,2022,10339992.0,1565.0,112.0,1.0,80153000.0,12.900318141554276,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+RJ,Rajasthan,2023,10085307.0,2263.0,248.0,0.0,81025000.0,12.447154581919161,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+RJ,Rajasthan,2024,10558402.0,2213.0,665.0,1.0,81897000.0,12.892293979022432,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+RJ,Rajasthan,2025,11935188.0,1756.0,689.0,0.0,82770000.0,14.419702790866257,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+SK,Sikkim,2002,13518.0,53.0,7.0,0.0,547823.6,2.467582630613212,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+SK,Sikkim,2003,9783.0,278.0,41.0,0.0,554796.2,1.7633502176114404,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+SK,Sikkim,2004,9355.0,160.0,33.0,3.0,561768.8,1.6652758216547447,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+SK,Sikkim,2005,8319.0,69.0,31.0,0.0,568741.4,1.4627034360431648,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+SK,Sikkim,2006,,,,,575714.0,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+SK,Sikkim,2007,6259.0,48.0,7.0,0.0,582686.6,1.0741623370092945,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+SK,Sikkim,2008,6164.0,38.0,10.0,0.0,589659.2,1.0453495849806127,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+SK,Sikkim,2009,6688.0,42.0,16.0,1.0,596631.8,1.1209593588541542,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+SK,Sikkim,2010,6526.0,49.0,14.0,0.0,603604.4,1.0811717078271796,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+SK,Sikkim,2011,6969.0,51.0,14.0,0.0,610577.0,1.1413793837632273,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+SK,Sikkim,2012,6574.0,77.0,14.0,0.0,617000.0,1.0654781199351702,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+SK,Sikkim,2013,11136.0,39.0,13.0,0.0,624000.0,1.7846153846153845,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+SK,Sikkim,2014,7970.0,35.0,18.0,0.0,631000.0,1.2630744849445323,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+SK,Sikkim,2015,8826.0,27.0,11.0,0.0,637000.0,1.3855572998430141,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+SK,Sikkim,2016,8099.0,15.0,5.0,0.0,644000.0,1.257608695652174,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+SK,Sikkim,2017,10560.0,14.0,3.0,0.0,650000.0,1.6246153846153848,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+SK,Sikkim,2018,10853.0,6.0,2.0,0.0,657000.0,1.651902587519026,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+SK,Sikkim,2019,10624.0,7.0,0.0,0.0,664000.0,1.6,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+SK,Sikkim,2020,9934.0,4.0,0.0,0.0,670000.0,1.4826865671641791,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+SK,Sikkim,2021,7670.0,4.0,2.0,0.0,677000.0,1.1329394387001477,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+SK,Sikkim,2022,7920.0,8.0,3.0,0.0,683000.0,1.1595900439238653,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+SK,Sikkim,2023,9743.0,6.0,1.0,0.0,689000.0,1.414078374455733,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+SK,Sikkim,2024,21985.0,7.0,2.0,0.0,695000.0,3.163309352517986,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+SK,Sikkim,2025,19202.0,14.0,5.0,0.0,702000.0,2.7353276353276352,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+TN,Tamil Nadu,2002,7177639.0,34523.0,2520.0,0.0,63379814.1,11.324802860221705,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+TN,Tamil Nadu,2003,7721090.0,43604.0,3758.0,0.0,64353949.2,11.99784954300831,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+TN,Tamil Nadu,2004,7397845.0,41732.0,2875.0,0.0,65328084.3,11.324141950998555,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+TN,Tamil Nadu,2005,7728987.0,39678.0,3098.0,0.0,66302219.4,11.657207058742895,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+TN,Tamil Nadu,2006,,,,,67276354.5,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+TN,Tamil Nadu,2007,5789021.0,22389.0,1363.0,1.0,68250489.6,8.482021204431039,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+TN,Tamil Nadu,2008,6300226.0,21046.0,739.0,2.0,69224624.7,9.101134209543789,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+TN,Tamil Nadu,2009,7801419.0,14988.0,448.0,1.0,70198759.8,11.113328814108195,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+TN,Tamil Nadu,2010,7838638.0,17086.0,623.0,3.0,71172894.9,11.013515764693167,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+TN,Tamil Nadu,2011,7841899.0,22171.0,925.0,0.0,72147030.0,10.869330310617082,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+TN,Tamil Nadu,2012,7682917.0,18869.0,576.0,0.0,72645000.0,10.575974946658407,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+TN,Tamil Nadu,2013,8618514.0,15081.0,539.0,0.0,73142000.0,11.783262694484701,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+TN,Tamil Nadu,2014,9002019.0,8729.0,339.0,0.0,73640000.0,12.224360401955458,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+TN,Tamil Nadu,2015,8975782.0,5587.0,355.0,0.0,74137000.0,12.107020785842428,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+TN,Tamil Nadu,2016,8458647.0,4341.0,242.0,0.0,74635000.0,11.333351644670731,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+TN,Tamil Nadu,2017,8631141.0,5444.0,211.0,0.0,74989000.0,11.509876115163557,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+TN,Tamil Nadu,2018,8119035.0,3758.0,177.0,0.0,75342000.0,10.776240344031219,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+TN,Tamil Nadu,2019,8745502.0,2088.0,84.0,0.0,75695000.0,11.553605918488671,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+TN,Tamil Nadu,2020,7455197.0,891.0,58.0,0.0,76049000.0,9.803149285329196,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+TN,Tamil Nadu,2021,9084732.0,772.0,67.0,0.0,76402000.0,11.890699196356117,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+TN,Tamil Nadu,2022,11274448.0,354.0,71.0,0.0,76631000.0,14.71264631806971,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+TN,Tamil Nadu,2023,12649263.0,385.0,84.0,0.0,76860000.0,16.45753708040593,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+TN,Tamil Nadu,2024,12646221.0,347.0,96.0,0.0,77089000.0,16.404702357015914,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+TN,Tamil Nadu,2025,12664972.0,324.0,106.0,2.0,77317000.0,16.380578656699043,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+TR,Tripura,2002,245406.0,13319.0,10863.0,5.0,3246674.4,7.558688361235115,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+TR,Tripura,2003,252339.0,13807.0,10800.0,13.0,3294145.8,7.660225603857608,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+TR,Tripura,2004,251146.0,17453.0,15182.0,16.0,3341617.2,7.515702277328475,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+TR,Tripura,2005,290344.0,18008.0,14261.0,20.0,3389088.6,8.567023004355802,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+TR,Tripura,2006,,,,,3436560.0,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+TR,Tripura,2007,281753.0,18474.0,15928.0,51.0,3484031.4,8.086982224098211,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+TR,Tripura,2008,341246.0,25894.0,23588.0,51.0,3531502.8,9.6629117779547,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+TR,Tripura,2009,361848.0,24430.0,22952.0,62.0,3578974.2,10.11038302539314,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+TR,Tripura,2010,330608.0,23939.0,21254.0,15.0,3626445.6,9.116585121254818,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+TR,Tripura,2011,288076.0,14417.0,13812.0,12.0,3673917.0,7.8411134492151024,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+TR,Tripura,2012,268189.0,11565.0,10915.0,7.0,3714000.0,7.221028540656974,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+TR,Tripura,2013,257760.0,7396.0,6998.0,7.0,3754000.0,6.866275972296218,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+TR,Tripura,2014,606791.0,51240.0,49653.0,96.0,3794000.0,15.993437005798631,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+TR,Tripura,2015,453298.0,32525.0,30074.0,21.0,3834000.0,11.823109024517475,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+TR,Tripura,2016,351392.0,10546.0,9545.0,14.0,3874000.0,9.070521424883841,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+TR,Tripura,2017,392452.0,7051.0,6571.0,6.0,3914000.0,10.026877874297394,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+TR,Tripura,2018,483982.0,13079.0,12600.0,13.0,3953000.0,12.243410068302556,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+TR,Tripura,2019,619912.0,12437.0,11636.0,1.0,3992000.0,15.52885771543086,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+TR,Tripura,2020,667137.0,3395.0,3100.0,2.0,4032000.0,16.54605654761905,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+TR,Tripura,2021,927088.0,10136.0,9028.0,4.0,4071000.0,22.77297961188897,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+TR,Tripura,2022,1181946.0,12771.0,9374.0,3.0,4109000.0,28.764808955950354,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+TR,Tripura,2023,1584800.0,22412.0,12413.0,1.0,4147000.0,38.215577525922356,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+TR,Tripura,2024,1185735.0,9738.0,4801.0,0.0,4184000.0,28.339746653919697,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+TR,Tripura,2025,864631.0,6094.0,3644.0,0.0,4222000.0,20.479180483183328,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+UP,Uttar Pradesh,2002,4490151.0,90199.0,2512.0,0.0,169559363.0,2.6481291982678656,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+UP,Uttar Pradesh,2003,4934809.0,101411.0,2404.0,0.0,172920805.0,2.8537971471969494,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+UP,Uttar Pradesh,2004,4186005.0,87022.0,2237.0,0.0,176282247.0,2.37460383631257,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+UP,Uttar Pradesh,2005,4223366.0,105303.0,3149.0,0.0,179643689.0,2.350968199055409,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+UP,Uttar Pradesh,2006,,,,,183005131.0,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+UP,Uttar Pradesh,2007,3481182.0,82538.0,2106.0,0.0,186366573.0,1.867921883180199,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+UP,Uttar Pradesh,2008,4150306.0,93383.0,2310.0,0.0,189728015.0,2.1875029894768043,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+UP,Uttar Pradesh,2009,3527695.0,55437.0,660.0,0.0,193089457.0,1.826974426677268,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+UP,Uttar Pradesh,2010,4066059.0,64606.0,1382.0,0.0,196450899.0,2.0697584081811713,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+UP,Uttar Pradesh,2011,4110871.0,56968.0,1857.0,0.0,199812341.0,2.057365916152296,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+UP,Uttar Pradesh,2012,3945295.0,47400.0,740.0,0.0,203067000.0,1.942853836418522,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+UP,Uttar Pradesh,2013,4278776.0,48346.0,590.0,0.0,206322000.0,2.0738341039734007,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+UP,Uttar Pradesh,2014,4834946.0,41612.0,326.0,0.0,209577000.0,2.307002199668857,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+UP,Uttar Pradesh,2015,4952483.0,42767.0,371.0,0.0,212832000.0,2.3269447263569387,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+UP,Uttar Pradesh,2016,4816652.0,40700.0,158.0,0.0,216087000.0,2.2290336762507694,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+UP,Uttar Pradesh,2017,4669390.0,32345.0,159.0,0.0,219051000.0,2.1316451419988955,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+UP,Uttar Pradesh,2018,5312368.0,86486.0,22134.0,0.0,222015000.0,2.3927968830934847,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+UP,Uttar Pradesh,2019,5854414.0,92732.0,14457.0,0.0,224979000.0,2.6022046502117977,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+UP,Uttar Pradesh,2020,2777308.0,28668.0,6485.0,0.0,227943000.0,1.2184221493969982,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+UP,Uttar Pradesh,2021,4245089.0,10792.0,1464.0,0.0,230907000.0,1.838441017379291,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+UP,Uttar Pradesh,2022,8322741.0,7039.0,503.0,0.0,233297000.0,3.567444502072466,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+UP,Uttar Pradesh,2023,10672898.0,13603.0,1305.0,0.0,235687000.0,4.528420320170396,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+UP,Uttar Pradesh,2024,14512288.0,13477.0,998.0,0.0,238078000.0,6.0956022816051885,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+UP,Uttar Pradesh,2025,18697953.0,14593.0,650.0,0.0,240468000.0,7.775651230101302,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+UK,Uttarakhand,2002,291164.0,1659.0,120.0,0.0,8649043.3,3.366430134532914,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+UK,Uttarakhand,2003,341156.0,2350.0,265.0,0.0,8808737.6,3.872927262585277,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+UK,Uttarakhand,2004,330317.0,1255.0,39.0,0.0,8968431.9,3.683107634457256,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+UK,Uttarakhand,2005,311916.0,1242.0,17.0,0.0,9128126.2,3.417086849653766,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+UK,Uttarakhand,2006,,,,,9287820.5,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+UK,Uttarakhand,2007,230677.0,953.0,2.0,0.0,9447514.8,2.4416685751050635,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+UK,Uttarakhand,2008,226903.0,1059.0,47.0,0.0,9607209.1,2.361799328381434,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+UK,Uttarakhand,2009,208350.0,1264.0,43.0,0.0,9766903.4,2.1332247434739653,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+UK,Uttarakhand,2010,214763.0,1672.0,183.0,0.0,9926597.7,2.1635106658951235,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+UK,Uttarakhand,2011,246641.0,1277.0,123.0,1.0,10086292.0,2.4453089400941397,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+UK,Uttarakhand,2012,267013.0,1948.0,111.0,0.0,10220000.0,2.612651663405088,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+UK,Uttarakhand,2013,322057.0,1426.0,108.0,0.0,10354000.0,3.1104597257098705,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+UK,Uttarakhand,2014,388028.0,1171.0,89.0,0.0,10487000.0,3.7000858205397154,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+UK,Uttarakhand,2015,365396.0,1466.0,73.0,0.0,10621000.0,3.4403163543922415,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+UK,Uttarakhand,2016,375835.0,961.0,47.0,0.0,10755000.0,3.4945141794514183,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+UK,Uttarakhand,2017,361864.0,508.0,13.0,0.0,10884000.0,3.3247335538405,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+UK,Uttarakhand,2018,290852.0,409.0,13.0,0.0,11013000.0,2.640987923363298,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+UK,Uttarakhand,2019,313872.0,296.0,6.0,0.0,11141000.0,2.8172695449241543,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+UK,Uttarakhand,2020,145833.0,15.0,0.0,0.0,11270000.0,1.2939929015084295,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+UK,Uttarakhand,2021,235005.0,13.0,6.0,0.0,11399000.0,2.0616282130011405,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+UK,Uttarakhand,2022,695700.0,19.0,4.0,0.0,11518000.0,6.0401111304045845,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+UK,Uttarakhand,2023,706891.0,24.0,3.0,0.0,11637000.0,6.074512331356878,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+UK,Uttarakhand,2024,721555.0,241.0,29.0,0.0,11755000.0,6.138281582305402,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+UK,Uttarakhand,2025,544830.0,196.0,56.0,0.0,11874000.0,4.588428499242041,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+WB,West Bengal,2002,3896939.0,194421.0,60726.0,152.0,81286188.8,4.794097321487412,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+WB,West Bengal,2003,4231572.0,233802.0,76864.0,214.0,82396180.6,5.135640959551954,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+WB,West Bengal,2004,3821295.0,220871.0,60262.0,184.0,83506172.4,4.576062930648705,False,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+WB,West Bengal,2005,4408763.0,185964.0,41365.0,175.0,84616164.2,5.2103082687362,True,tested:mal_sit_0206;cases:mal_sit_0206;pf:mal_sit_0206;deaths:mal_sit_0206
+WB,West Bengal,2006,,,,,85726156.0,,False,tested:masked;cases:masked;pf:masked;deaths:masked
+WB,West Bengal,2007,4656392.0,87754.0,21974.0,96.0,86836147.8,5.362273797226182,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+WB,West Bengal,2008,4465619.0,89443.0,24453.0,104.0,87946139.6,5.077674836338127,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+WB,West Bengal,2009,5336895.0,141211.0,36982.0,74.0,89056131.4,5.992731680684706,False,tested:mal_upto2011;cases:mal_upto2011;pf:mal_upto2011;deaths:mal_upto2011
+WB,West Bengal,2010,5440313.0,134795.0,24693.0,47.0,90166123.2,6.033655220966626,False,tested:mal_ar_2010;cases:mal_ar_2010;pf:mal_ar_2010;deaths:mal_ar_2010
+WB,West Bengal,2011,5044278.0,66368.0,10858.0,19.0,91276115.0,5.526394281789929,False,tested:mal_ar_2011;cases:mal_ar_2011;pf:mal_ar_2011;deaths:mal_ar_2011
+WB,West Bengal,2012,5159246.0,55793.0,8669.0,30.0,92037000.0,5.605621652161631,False,tested:mal_ar_2012;cases:mal_ar_2012;pf:mal_ar_2012;deaths:mal_ar_2012
+WB,West Bengal,2013,5679133.0,34717.0,3705.0,17.0,92797000.0,6.1199532312467,False,tested:mal_ar_2013;cases:mal_ar_2013;pf:mal_ar_2013;deaths:mal_ar_2013
+WB,West Bengal,2014,6818534.0,26484.0,4981.0,66.0,93558000.0,7.288028816349216,False,tested:mal_ar_2014;cases:mal_ar_2014;pf:mal_ar_2014;deaths:mal_ar_2014
+WB,West Bengal,2015,7702614.0,24208.0,5775.0,34.0,94318000.0,8.166642634491826,False,tested:mal_ar_2015;cases:mal_ar_2015;pf:mal_ar_2015;deaths:mal_ar_2015
+WB,West Bengal,2016,9215299.0,35236.0,5928.0,59.0,95079000.0,9.692254861746548,False,tested:mal_ar_2016;cases:mal_ar_2016;pf:mal_ar_2016;deaths:mal_ar_2016
+WB,West Bengal,2017,11142492.0,31265.0,4952.0,29.0,95688000.0,11.644607474291448,True,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2017
+WB,West Bengal,2018,11790209.0,26440.0,3162.0,8.0,96297000.0,12.24358910454116,False,tested:mal_sit_1519;cases:mal_sit_1519;pf:mal_sit_1519;deaths:mal_ar_2018
+WB,West Bengal,2019,12382095.0,25928.0,2179.0,6.0,96906000.0,12.777428642189337,False,tested:mal_ar_2019;cases:mal_ar_2019;pf:mal_ar_2019;deaths:mal_ar_2019
+WB,West Bengal,2020,6233423.0,14049.0,2399.0,7.0,97516000.0,6.392205381680954,False,tested:mal_ar_2020;cases:mal_ar_2020;pf:mal_ar_2020;deaths:mal_ar_2020
+WB,West Bengal,2021,8547685.0,28987.0,9694.0,3.0,98125000.0,8.711016560509554,False,tested:mal_ar_2021;cases:mal_ar_2021;pf:mal_ar_2021;deaths:mal_ar_2021
+WB,West Bengal,2022,11649846.0,40594.0,7277.0,3.0,98604000.0,11.814780333455033,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+WB,West Bengal,2023,12870741.0,26493.0,3565.0,2.0,99084000.0,12.989726898389245,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+WB,West Bengal,2024,13653675.0,21802.0,3841.0,2.0,99563000.0,13.713603447063669,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022
+WB,West Bengal,2025,13183059.0,19840.0,3592.0,2.0,100042000.0,13.177524439735311,False,tested:mal_sit_2022;cases:mal_sit_2022;pf:mal_sit_2022;deaths:mal_sit_2022

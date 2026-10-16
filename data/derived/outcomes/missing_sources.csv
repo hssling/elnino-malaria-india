@@ -1,0 +1,4 @@
+outcome,source_id,reason
+malaria,mal_sit_0509,raw file unavailable (parser skipped the source)
+malaria,mal_sit_1317,raw file unavailable (parser skipped the source)
+dengue,den_nvbdcp14,raw file unavailable (parser skipped the source)

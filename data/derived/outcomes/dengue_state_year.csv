@@ -1,0 +1,647 @@
+unit_id,unit_name,year,cases,deaths,population,provisional_any,sources
+AN,Andaman and Nicobar Islands,2007,0.0,0.0,370809.4,False,cases:den_nvbdcp;deaths:den_nvbdcp
+AN,Andaman and Nicobar Islands,2008,0.0,0.0,373252.3,False,cases:den_nvbdcp;deaths:den_nvbdcp
+AN,Andaman and Nicobar Islands,2009,0.0,0.0,375695.2,False,cases:den_nvbdcp;deaths:den_nvbdcp
+AN,Andaman and Nicobar Islands,2010,25.0,0.0,378138.1,False,cases:den_ar1415;deaths:den_ar1415
+AN,Andaman and Nicobar Islands,2011,6.0,0.0,380581.0,False,cases:den_ar1415;deaths:den_ar1415
+AN,Andaman and Nicobar Islands,2012,24.0,0.0,383000.0,False,cases:den_ar1415;deaths:den_ar1415
+AN,Andaman and Nicobar Islands,2013,67.0,0.0,385000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+AN,Andaman and Nicobar Islands,2014,139.0,0.0,387000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+AN,Andaman and Nicobar Islands,2015,153.0,0.0,390000.0,False,cases:den_opendengue;deaths:den_nhp2019
+AN,Andaman and Nicobar Islands,2016,92.0,0.0,392000.0,False,cases:den_opendengue;deaths:den_nhp2021
+AN,Andaman and Nicobar Islands,2017,18.0,0.0,394000.0,False,cases:den_opendengue;deaths:den_nhp2021
+AN,Andaman and Nicobar Islands,2018,49.0,0.0,395000.0,False,cases:den_opendengue;deaths:den_nhp2023
+AN,Andaman and Nicobar Islands,2019,168.0,0.0,397000.0,False,cases:den_opendengue;deaths:den_nhp2023
+AN,Andaman and Nicobar Islands,2020,98.0,0.0,399000.0,False,cases:den_opendengue;deaths:den_nhp2023
+AN,Andaman and Nicobar Islands,2021,175.0,0.0,400000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+AN,Andaman and Nicobar Islands,2022,1014.0,3.0,402000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+AN,Andaman and Nicobar Islands,2023,846.0,0.0,403000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+AN,Andaman and Nicobar Islands,2024,59.0,0.0,404000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+AN,Andaman and Nicobar Islands,2025,370.0,0.0,405000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+AP_TG,Andhra Pradesh and Telangana,2007,587.0,2.0,81232469.0,False,cases:den_nvbdcp;deaths:den_nvbdcp
+AP_TG,Andhra Pradesh and Telangana,2008,313.0,2.0,82069546.0,False,cases:den_nvbdcp;deaths:den_nvbdcp
+AP_TG,Andhra Pradesh and Telangana,2009,1190.0,11.0,82906623.0,False,cases:den_nvbdcp;deaths:den_nvbdcp
+AP_TG,Andhra Pradesh and Telangana,2010,776.0,3.0,83743700.0,False,cases:den_ar1415;deaths:den_ar1415
+AP_TG,Andhra Pradesh and Telangana,2011,1209.0,6.0,84580777.0,False,cases:den_ar1415;deaths:den_ar1415
+AP_TG,Andhra Pradesh and Telangana,2012,2299.0,2.0,85231000.0,False,cases:den_ar1415;deaths:den_ar1415
+AP_TG,Andhra Pradesh and Telangana,2013,910.0,1.0,85882000.0,False,cases:den_nhp2018[partial_pool];deaths:den_nhp2018[partial_pool]
+AP_TG,Andhra Pradesh and Telangana,2014,1966.0,6.0,86532000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+AP_TG,Andhra Pradesh and Telangana,2015,4990.0,4.0,87182000.0,False,cases:den_opendengue;deaths:den_nhp2019
+AP_TG,Andhra Pradesh and Telangana,2016,7454.0,6.0,87833000.0,False,cases:den_opendengue;deaths:den_nhp2021
+AP_TG,Andhra Pradesh and Telangana,2017,10294.0,0.0,88369000.0,False,cases:den_opendengue;deaths:den_nhp2021
+AP_TG,Andhra Pradesh and Telangana,2018,8603.0,2.0,88905000.0,False,cases:den_opendengue;deaths:den_nhp2023
+AP_TG,Andhra Pradesh and Telangana,2019,18617.0,7.0,89441000.0,False,cases:den_opendengue;deaths:den_nhp2023
+AP_TG,Andhra Pradesh and Telangana,2020,3098.0,0.0,89977000.0,False,cases:den_opendengue;deaths:den_nhp2023
+AP_TG,Andhra Pradesh and Telangana,2021,11895.0,0.0,90512000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+AP_TG,Andhra Pradesh and Telangana,2022,15363.0,0.0,90879000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+AP_TG,Andhra Pradesh and Telangana,2023,14469.0,1.0,91246000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+AP_TG,Andhra Pradesh and Telangana,2024,15632.0,2.0,91612000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+AP_TG,Andhra Pradesh and Telangana,2025,11098.0,5.0,91978000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+AR,Arunachal Pradesh,2007,0.0,0.0,1269423.4,False,cases:den_nvbdcp;deaths:den_nvbdcp
+AR,Arunachal Pradesh,2008,0.0,0.0,1297999.3,False,cases:den_nvbdcp;deaths:den_nvbdcp
+AR,Arunachal Pradesh,2009,0.0,0.0,1326575.2,False,cases:den_nvbdcp;deaths:den_nvbdcp
+AR,Arunachal Pradesh,2010,0.0,0.0,1355151.1,False,cases:den_ar1415;deaths:den_ar1415
+AR,Arunachal Pradesh,2011,0.0,0.0,1383727.0,False,cases:den_ar1415;deaths:den_ar1415
+AR,Arunachal Pradesh,2012,346.0,0.0,1399000.0,False,cases:den_ar1415;deaths:den_ar1415
+AR,Arunachal Pradesh,2013,0.0,0.0,1414000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+AR,Arunachal Pradesh,2014,27.0,0.0,1429000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+AR,Arunachal Pradesh,2015,1933.0,1.0,1444000.0,False,cases:den_opendengue;deaths:den_nhp2019
+AR,Arunachal Pradesh,2016,13.0,0.0,1459000.0,False,cases:den_opendengue;deaths:den_nhp2021
+AR,Arunachal Pradesh,2017,18.0,0.0,1474000.0,False,cases:den_opendengue;deaths:den_nhp2021
+AR,Arunachal Pradesh,2018,1.0,0.0,1489000.0,False,cases:den_opendengue;deaths:den_nhp2023
+AR,Arunachal Pradesh,2019,123.0,0.0,1504000.0,False,cases:den_opendengue;deaths:den_nhp2023
+AR,Arunachal Pradesh,2020,1.0,0.0,1519000.0,False,cases:den_opendengue;deaths:den_nhp2023
+AR,Arunachal Pradesh,2021,7.0,0.0,1533000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+AR,Arunachal Pradesh,2022,114.0,0.0,1548000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+AR,Arunachal Pradesh,2023,130.0,0.0,1562000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+AR,Arunachal Pradesh,2024,20.0,0.0,1576000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+AR,Arunachal Pradesh,2025,170.0,0.0,1590000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+AS,Assam,2007,0.0,0.0,29385556.8,False,cases:den_nvbdcp;deaths:den_nvbdcp
+AS,Assam,2008,0.0,0.0,29840561.6,False,cases:den_nvbdcp;deaths:den_nvbdcp
+AS,Assam,2009,0.0,0.0,30295566.4,False,cases:den_nvbdcp;deaths:den_nvbdcp
+AS,Assam,2010,237.0,2.0,30750571.2,False,cases:den_ar1415;deaths:den_ar1415
+AS,Assam,2011,,0.0,31205576.0,False,cases:non_reporting;deaths:den_ar1415
+AS,Assam,2012,1058.0,5.0,31598000.0,False,cases:den_ar1415;deaths:den_ar1415
+AS,Assam,2013,4526.0,2.0,31991000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+AS,Assam,2014,85.0,0.0,32383000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+AS,Assam,2015,1076.0,1.0,32776000.0,False,cases:den_opendengue;deaths:den_nhp2019
+AS,Assam,2016,6157.0,4.0,33168000.0,False,cases:den_opendengue;deaths:den_nhp2021
+AS,Assam,2017,5024.0,1.0,33543000.0,False,cases:den_opendengue;deaths:den_nhp2021
+AS,Assam,2018,166.0,0.0,33918000.0,False,cases:den_opendengue;deaths:den_nhp2023
+AS,Assam,2019,196.0,0.0,34293000.0,False,cases:den_opendengue;deaths:den_nhp2023
+AS,Assam,2020,33.0,0.0,34668000.0,False,cases:den_opendengue;deaths:den_nhp2023
+AS,Assam,2021,103.0,0.0,35043000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+AS,Assam,2022,1826.0,2.0,35378000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+AS,Assam,2023,8208.0,7.0,35713000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+AS,Assam,2024,2271.0,0.0,36047000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+AS,Assam,2025,679.0,0.0,36382000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+BR,Bihar,2007,0.0,0.0,95659074.8,False,cases:den_nvbdcp;deaths:den_nvbdcp
+BR,Bihar,2008,1.0,0.0,97769169.1,False,cases:den_nvbdcp;deaths:den_nvbdcp
+BR,Bihar,2009,1.0,0.0,99879263.4,False,cases:den_nvbdcp;deaths:den_nvbdcp
+BR,Bihar,2010,510.0,0.0,101989357.7,False,cases:den_ar1415;deaths:den_ar1415
+BR,Bihar,2011,21.0,0.0,104099452.0,False,cases:den_ar1415;deaths:den_ar1415
+BR,Bihar,2012,872.0,3.0,106115000.0,False,cases:den_ar1415;deaths:den_ar1415
+BR,Bihar,2013,1246.0,5.0,108130000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+BR,Bihar,2014,297.0,0.0,110145000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+BR,Bihar,2015,1771.0,0.0,112161000.0,False,cases:den_opendengue;deaths:den_nhp2019
+BR,Bihar,2016,1912.0,0.0,114176000.0,False,cases:den_opendengue;deaths:den_nhp2021
+BR,Bihar,2017,1854.0,0.0,115957000.0,False,cases:den_opendengue;deaths:den_nhp2021
+BR,Bihar,2018,2142.0,0.0,117739000.0,False,cases:den_opendengue;deaths:den_nhp2023
+BR,Bihar,2019,6712.0,0.0,119520000.0,False,cases:den_opendengue;deaths:den_nhp2023
+BR,Bihar,2020,493.0,2.0,121302000.0,False,cases:den_opendengue;deaths:den_nhp2023
+BR,Bihar,2021,633.0,2.0,123083000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+BR,Bihar,2022,13972.0,32.0,124919000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+BR,Bihar,2023,20224.0,74.0,126756000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+BR,Bihar,2024,10157.0,16.0,128592000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+BR,Bihar,2025,3902.0,2.0,130429000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+CH,Chandigarh,2007,99.0,0.0,993524.0,False,cases:den_nvbdcp;deaths:den_nvbdcp
+CH,Chandigarh,2008,167.0,0.0,1009005.5,False,cases:den_nvbdcp;deaths:den_nvbdcp
+CH,Chandigarh,2009,25.0,0.0,1024487.0,False,cases:den_nvbdcp;deaths:den_nvbdcp
+CH,Chandigarh,2010,221.0,0.0,1039968.5,False,cases:den_ar1415;deaths:den_ar1415
+CH,Chandigarh,2011,73.0,0.0,1055450.0,False,cases:den_ar1415;deaths:den_ar1415
+CH,Chandigarh,2012,351.0,2.0,1072000.0,False,cases:den_ar1415;deaths:den_ar1415
+CH,Chandigarh,2013,107.0,0.0,1088000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+CH,Chandigarh,2014,13.0,0.0,1104000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+CH,Chandigarh,2015,966.0,1.0,1120000.0,False,cases:den_opendengue;deaths:den_nhp2019
+CH,Chandigarh,2016,1246.0,0.0,1136000.0,False,cases:den_opendengue;deaths:den_nhp2021
+CH,Chandigarh,2017,1125.0,0.0,1151000.0,False,cases:den_opendengue;deaths:den_nhp2021
+CH,Chandigarh,2018,301.0,0.0,1165000.0,False,cases:den_opendengue;deaths:den_nhp2023
+CH,Chandigarh,2019,286.0,0.0,1179000.0,False,cases:den_opendengue;deaths:den_nhp2023
+CH,Chandigarh,2020,265.0,0.0,1193000.0,False,cases:den_opendengue;deaths:den_nhp2023
+CH,Chandigarh,2021,1596.0,3.0,1208000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+CH,Chandigarh,2022,910.0,1.0,1219000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+CH,Chandigarh,2023,454.0,0.0,1231000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+CH,Chandigarh,2024,349.0,0.0,1243000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+CH,Chandigarh,2025,66.0,0.0,1255000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+CG,Chhattisgarh,2007,0.0,0.0,23660640.0,False,cases:den_nvbdcp;deaths:den_nvbdcp
+CG,Chhattisgarh,2008,0.0,0.0,24131779.5,False,cases:den_nvbdcp;deaths:den_nvbdcp
+CG,Chhattisgarh,2009,26.0,7.0,24602919.0,False,cases:den_nvbdcp;deaths:den_nvbdcp
+CG,Chhattisgarh,2010,4.0,0.0,25074058.5,False,cases:den_ar1415;deaths:den_ar1415
+CG,Chhattisgarh,2011,313.0,11.0,25545198.0,False,cases:den_ar1415;deaths:den_ar1415
+CG,Chhattisgarh,2012,45.0,0.0,25950000.0,False,cases:den_ar1415;deaths:den_ar1415
+CG,Chhattisgarh,2013,83.0,2.0,26356000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+CG,Chhattisgarh,2014,440.0,9.0,26761000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+CG,Chhattisgarh,2015,384.0,1.0,27166000.0,False,cases:den_opendengue;deaths:den_nhp2019
+CG,Chhattisgarh,2016,356.0,0.0,27571000.0,False,cases:den_opendengue;deaths:den_nhp2021
+CG,Chhattisgarh,2017,444.0,0.0,27956000.0,False,cases:den_opendengue;deaths:den_nhp2021
+CG,Chhattisgarh,2018,2674.0,10.0,28340000.0,False,cases:den_opendengue;deaths:den_nhp2023
+CG,Chhattisgarh,2019,722.0,0.0,28724000.0,False,cases:den_opendengue;deaths:den_nhp2023
+CG,Chhattisgarh,2020,57.0,0.0,29109000.0,False,cases:den_opendengue;deaths:den_nhp2023
+CG,Chhattisgarh,2021,1086.0,0.0,29493000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+CG,Chhattisgarh,2022,2679.0,10.0,29836000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+CG,Chhattisgarh,2023,2412.0,0.0,30180000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+CG,Chhattisgarh,2024,3523.0,2.0,30524000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+CG,Chhattisgarh,2025,513.0,0.0,30867000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2007,0.0,0.0,503651.2,False,cases:den_nvbdcp;deaths:den_nvbdcp
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2008,,0.0,524477.4,False,cases:non_reporting;deaths:den_nvbdcp
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2009,,0.0,545303.6,False,cases:non_reporting;deaths:den_nvbdcp
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2010,46.0,0.0,566129.8,False,cases:den_ar1415;deaths:den_ar1415
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2011,68.0,0.0,586956.0,False,cases:den_ar1415;deaths:den_ar1415
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2012,252.0,1.0,625000.0,False,cases:den_ar1415;deaths:den_ar1415
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2013,251.0,0.0,665000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2014,687.0,1.0,704000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2015,1319.0,0.0,743000.0,False,cases:den_opendengue;deaths:den_nhp2019
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2016,4250.0,2.0,781000.0,False,cases:den_opendengue;deaths:den_nhp2021
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2017,2123.0,0.0,840000.0,False,cases:den_opendengue;deaths:den_nhp2021
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2018,656.0,0.0,900000.0,False,cases:den_opendengue;deaths:den_nhp2023
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2019,2116.0,4.0,959000.0,False,cases:den_opendengue;deaths:den_nhp2023
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2020,319.0,0.0,1018000.0,False,cases:den_opendengue;deaths:den_nhp2023
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2021,826.0,0.0,1077000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2022,913.0,0.0,1170000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2023,1462.0,1.0,1263000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2024,681.0,0.0,1356000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,2025,344.0,0.0,1448000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+DL,Delhi,2007,548.0,1.0,15612967.4,False,cases:den_nvbdcp;deaths:den_nvbdcp
+DL,Delhi,2008,1312.0,2.0,15906710.8,False,cases:den_nvbdcp;deaths:den_nvbdcp
+DL,Delhi,2009,1153.0,3.0,16200454.2,False,cases:den_nvbdcp;deaths:den_nvbdcp
+DL,Delhi,2010,6259.0,8.0,16494197.6,False,cases:den_ar1415;deaths:den_ar1415
+DL,Delhi,2011,1131.0,8.0,16787941.0,False,cases:den_ar1415;deaths:den_ar1415
+DL,Delhi,2012,2093.0,4.0,17166000.0,False,cases:den_ar1415;deaths:den_ar1415
+DL,Delhi,2013,5574.0,6.0,17544000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+DL,Delhi,2014,995.0,3.0,17921000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+DL,Delhi,2015,15867.0,60.0,18299000.0,False,cases:den_opendengue;deaths:den_nhp2019
+DL,Delhi,2016,4431.0,10.0,18677000.0,False,cases:den_opendengue;deaths:den_nhp2021
+DL,Delhi,2017,9271.0,10.0,19056000.0,False,cases:den_opendengue;deaths:den_nhp2021
+DL,Delhi,2018,7136.0,4.0,19435000.0,False,cases:den_opendengue;deaths:den_nhp2023
+DL,Delhi,2019,5077.0,0.0,19814000.0,False,cases:den_opendengue;deaths:den_nhp2023
+DL,Delhi,2020,1269.0,0.0,20193000.0,False,cases:den_opendengue;deaths:den_nhp2023
+DL,Delhi,2021,13089.0,23.0,20571000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+DL,Delhi,2022,10183.0,9.0,20965000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+DL,Delhi,2023,16866.0,19.0,21359000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+DL,Delhi,2024,10585.0,11.0,21752000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+DL,Delhi,2025,4665.0,4.0,22146000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+GA,Goa,2007,36.0,0.0,1414194.2,False,cases:den_nvbdcp;deaths:den_nvbdcp
+GA,Goa,2008,43.0,0.0,1425281.9,False,cases:den_nvbdcp;deaths:den_nvbdcp
+GA,Goa,2009,277.0,5.0,1436369.6,False,cases:den_nvbdcp;deaths:den_nvbdcp
+GA,Goa,2010,242.0,0.0,1447457.3,False,cases:den_ar1415;deaths:den_ar1415
+GA,Goa,2011,26.0,0.0,1458545.0,False,cases:den_ar1415;deaths:den_ar1415
+GA,Goa,2012,39.0,0.0,1469000.0,False,cases:den_ar1415;deaths:den_ar1415
+GA,Goa,2013,198.0,2.0,1480000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+GA,Goa,2014,168.0,1.0,1491000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+GA,Goa,2015,293.0,0.0,1501000.0,False,cases:den_opendengue;deaths:den_nhp2019
+GA,Goa,2016,150.0,0.0,1512000.0,False,cases:den_opendengue;deaths:den_nhp2021
+GA,Goa,2017,235.0,0.0,1521000.0,False,cases:den_opendengue;deaths:den_nhp2021
+GA,Goa,2018,335.0,1.0,1531000.0,False,cases:den_opendengue;deaths:den_nhp2023
+GA,Goa,2019,992.0,0.0,1540000.0,False,cases:den_opendengue;deaths:den_nhp2023
+GA,Goa,2020,376.0,0.0,1549000.0,False,cases:den_opendengue;deaths:den_nhp2023
+GA,Goa,2021,649.0,0.0,1559000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+GA,Goa,2022,443.0,1.0,1567000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+GA,Goa,2023,512.0,3.0,1575000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+GA,Goa,2024,567.0,3.0,1583000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+GA,Goa,2025,105.0,0.0,1591000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+GJ,Gujarat,2007,570.0,2.0,56532222.0,False,cases:den_nvbdcp;deaths:den_nvbdcp
+GJ,Gujarat,2008,1065.0,2.0,57509089.5,False,cases:den_nvbdcp;deaths:den_nvbdcp
+GJ,Gujarat,2009,2461.0,2.0,58485957.0,False,cases:den_nvbdcp;deaths:den_nvbdcp
+GJ,Gujarat,2010,2568.0,1.0,59462824.5,False,cases:den_ar1415;deaths:den_ar1415
+GJ,Gujarat,2011,1693.0,9.0,60439692.0,False,cases:den_ar1415;deaths:den_ar1415
+GJ,Gujarat,2012,3067.0,6.0,61383000.0,False,cases:den_ar1415;deaths:den_ar1415
+GJ,Gujarat,2013,6272.0,15.0,62327000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+GJ,Gujarat,2014,2320.0,3.0,63271000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+GJ,Gujarat,2015,5590.0,9.0,64214000.0,False,cases:den_opendengue;deaths:den_nhp2019
+GJ,Gujarat,2016,8028.0,14.0,65158000.0,False,cases:den_opendengue;deaths:den_nhp2021
+GJ,Gujarat,2017,4753.0,6.0,66084000.0,False,cases:den_opendengue;deaths:den_nhp2021
+GJ,Gujarat,2018,7579.0,5.0,67010000.0,False,cases:den_opendengue;deaths:den_nhp2023
+GJ,Gujarat,2019,18219.0,17.0,67936000.0,False,cases:den_opendengue;deaths:den_nhp2023
+GJ,Gujarat,2020,1564.0,2.0,68862000.0,False,cases:den_opendengue;deaths:den_nhp2023
+GJ,Gujarat,2021,10983.0,14.0,69788000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+GJ,Gujarat,2022,6682.0,7.0,70648000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+GJ,Gujarat,2023,7222.0,7.0,71507000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+GJ,Gujarat,2024,7891.0,6.0,72367000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+GJ,Gujarat,2025,4233.0,0.0,73227000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+HR,Haryana,2007,365.0,11.0,23668702.8,False,cases:den_nvbdcp;deaths:den_nvbdcp
+HR,Haryana,2008,1137.0,9.0,24089392.6,False,cases:den_nvbdcp;deaths:den_nvbdcp
+HR,Haryana,2009,125.0,1.0,24510082.4,False,cases:den_nvbdcp;deaths:den_nvbdcp
+HR,Haryana,2010,866.0,20.0,24930772.2,False,cases:den_ar1415;deaths:den_ar1415
+HR,Haryana,2011,267.0,3.0,25351462.0,False,cases:den_ar1415;deaths:den_ar1415
+HR,Haryana,2012,768.0,2.0,25772000.0,False,cases:den_ar1415;deaths:den_ar1415
+HR,Haryana,2013,1784.0,5.0,26193000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+HR,Haryana,2014,214.0,2.0,26614000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+HR,Haryana,2015,9921.0,13.0,27034000.0,False,cases:den_opendengue;deaths:den_nhp2019
+HR,Haryana,2016,2493.0,0.0,27455000.0,False,cases:den_opendengue;deaths:den_nhp2021
+HR,Haryana,2017,4550.0,0.0,27861000.0,False,cases:den_opendengue;deaths:den_nhp2021
+HR,Haryana,2018,1898.0,0.0,28266000.0,False,cases:den_opendengue;deaths:den_nhp2023
+HR,Haryana,2019,1207.0,0.0,28672000.0,False,cases:den_opendengue;deaths:den_nhp2023
+HR,Haryana,2020,1377.0,0.0,29077000.0,False,cases:den_opendengue;deaths:den_nhp2023
+HR,Haryana,2021,11835.0,13.0,29483000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+HR,Haryana,2022,8996.0,18.0,29846000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+HR,Haryana,2023,8081.0,11.0,30209000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+HR,Haryana,2024,6469.0,9.0,30573000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+HR,Haryana,2025,2626.0,0.0,30936000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+HP,Himachal Pradesh,2007,0.0,0.0,6549921.2,False,cases:den_nvbdcp;deaths:den_nvbdcp
+HP,Himachal Pradesh,2008,0.0,0.0,6628591.4,False,cases:den_nvbdcp;deaths:den_nvbdcp
+HP,Himachal Pradesh,2009,0.0,0.0,6707261.6,False,cases:den_nvbdcp;deaths:den_nvbdcp
+HP,Himachal Pradesh,2010,3.0,0.0,6785931.8,False,cases:den_ar1415;deaths:den_ar1415
+HP,Himachal Pradesh,2011,0.0,0.0,6864602.0,False,cases:den_ar1415;deaths:den_ar1415
+HP,Himachal Pradesh,2012,73.0,0.0,6923000.0,False,cases:den_ar1415;deaths:den_ar1415
+HP,Himachal Pradesh,2013,89.0,2.0,6982000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+HP,Himachal Pradesh,2014,2.0,0.0,7041000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+HP,Himachal Pradesh,2015,19.0,1.0,7100000.0,False,cases:den_opendengue;deaths:den_nhp2019
+HP,Himachal Pradesh,2016,322.0,0.0,7158000.0,False,cases:den_opendengue;deaths:den_nhp2021
+HP,Himachal Pradesh,2017,452.0,0.0,7206000.0,False,cases:den_opendengue;deaths:den_nhp2021
+HP,Himachal Pradesh,2018,4672.0,7.0,7253000.0,False,cases:den_opendengue;deaths:den_nhp2023
+HP,Himachal Pradesh,2019,344.0,2.0,7300000.0,False,cases:den_opendengue;deaths:den_nhp2023
+HP,Himachal Pradesh,2020,21.0,0.0,7347000.0,False,cases:den_opendengue;deaths:den_nhp2023
+HP,Himachal Pradesh,2021,349.0,0.0,7394000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+HP,Himachal Pradesh,2022,3326.0,1.0,7431000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+HP,Himachal Pradesh,2023,1989.0,0.0,7468000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+HP,Himachal Pradesh,2024,3359.0,0.0,7505000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+HP,Himachal Pradesh,2025,229.0,0.0,7542000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+JK,Jammu and Kashmir (incl. Ladakh),2007,0.0,0.0,11582261.2,False,cases:den_nvbdcp;deaths:den_nvbdcp
+JK,Jammu and Kashmir (incl. Ladakh),2008,0.0,0.0,11822021.4,False,cases:den_nvbdcp;deaths:den_nvbdcp
+JK,Jammu and Kashmir (incl. Ladakh),2009,2.0,0.0,12061781.6,False,cases:den_nvbdcp;deaths:den_nvbdcp
+JK,Jammu and Kashmir (incl. Ladakh),2010,0.0,0.0,12301541.8,False,cases:den_ar1415;deaths:den_ar1415
+JK,Jammu and Kashmir (incl. Ladakh),2011,3.0,0.0,12541302.0,False,cases:den_ar1415;deaths:den_ar1415
+JK,Jammu and Kashmir (incl. Ladakh),2012,17.0,1.0,12670000.0,False,cases:den_ar1415;deaths:den_ar1415
+JK,Jammu and Kashmir (incl. Ladakh),2013,1837.0,3.0,12798000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+JK,Jammu and Kashmir (incl. Ladakh),2014,1.0,0.0,12927000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+JK,Jammu and Kashmir (incl. Ladakh),2015,153.0,0.0,13056000.0,False,cases:den_opendengue;deaths:den_nhp2019
+JK,Jammu and Kashmir (incl. Ladakh),2016,79.0,1.0,13184000.0,False,cases:den_opendengue;deaths:den_nhp2021
+JK,Jammu and Kashmir (incl. Ladakh),2017,488.0,0.0,13288000.0,False,cases:den_opendengue;deaths:den_nhp2021
+JK,Jammu and Kashmir (incl. Ladakh),2018,214.0,0.0,13392000.0,False,cases:den_opendengue;deaths:den_nhp2023
+JK,Jammu and Kashmir (incl. Ladakh),2019,439.0,0.0,13496000.0,False,cases:den_opendengue;deaths:den_nhp2023
+JK,Jammu and Kashmir (incl. Ladakh),2020,53.0,0.0,13600000.0,False,cases:den_opendengue;deaths:den_nhp2023
+JK,Jammu and Kashmir (incl. Ladakh),2021,1709.0,4.0,13705000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+JK,Jammu and Kashmir (incl. Ladakh),2022,8269.0,18.0,13804000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+JK,Jammu and Kashmir (incl. Ladakh),2023,6403.0,10.0,13903000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+JK,Jammu and Kashmir (incl. Ladakh),2024,6876.0,1.0,14003000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+JK,Jammu and Kashmir (incl. Ladakh),2025,3381.0,2.0,14102000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+JH,Jharkhand,2007,0.0,0.0,30571212.0,False,cases:den_nvbdcp;deaths:den_nvbdcp
+JH,Jharkhand,2008,0.0,0.0,31175442.5,False,cases:den_nvbdcp;deaths:den_nvbdcp
+JH,Jharkhand,2009,0.0,0.0,31779673.0,False,cases:den_nvbdcp;deaths:den_nvbdcp
+JH,Jharkhand,2010,27.0,0.0,32383903.5,False,cases:den_ar1415;deaths:den_ar1415
+JH,Jharkhand,2011,36.0,0.0,32988134.0,False,cases:den_ar1415;deaths:den_ar1415
+JH,Jharkhand,2012,42.0,0.0,33551000.0,False,cases:den_ar1415;deaths:den_ar1415
+JH,Jharkhand,2013,161.0,0.0,34113000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+JH,Jharkhand,2014,36.0,0.0,34675000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+JH,Jharkhand,2015,102.0,0.0,35238000.0,False,cases:den_opendengue;deaths:den_nhp2019
+JH,Jharkhand,2016,414.0,1.0,35800000.0,False,cases:den_opendengue;deaths:den_nhp2021
+JH,Jharkhand,2017,710.0,5.0,36334000.0,False,cases:den_opendengue;deaths:den_nhp2021
+JH,Jharkhand,2018,463.0,1.0,36869000.0,False,cases:den_opendengue;deaths:den_nhp2023
+JH,Jharkhand,2019,825.0,0.0,37403000.0,False,cases:den_opendengue;deaths:den_nhp2023
+JH,Jharkhand,2020,79.0,0.0,37937000.0,False,cases:den_opendengue;deaths:den_nhp2023
+JH,Jharkhand,2021,220.0,1.0,38471000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+JH,Jharkhand,2022,290.0,0.0,38969000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+JH,Jharkhand,2023,2578.0,4.0,39466000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+JH,Jharkhand,2024,1528.0,0.0,39963000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+JH,Jharkhand,2025,401.0,1.0,40461000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+KA,Karnataka,2007,230.0,0.0,57797403.0,False,cases:den_nvbdcp;deaths:den_nvbdcp
+KA,Karnataka,2008,339.0,3.0,58621876.5,False,cases:den_nvbdcp;deaths:den_nvbdcp
+KA,Karnataka,2009,1764.0,8.0,59446350.0,False,cases:den_nvbdcp;deaths:den_nvbdcp
+KA,Karnataka,2010,2285.0,7.0,60270823.5,False,cases:den_ar1415;deaths:den_ar1415
+KA,Karnataka,2011,405.0,5.0,61095297.0,False,cases:den_ar1415;deaths:den_ar1415
+KA,Karnataka,2012,3924.0,21.0,61722000.0,False,cases:den_ar1415;deaths:den_ar1415
+KA,Karnataka,2013,6408.0,12.0,62349000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+KA,Karnataka,2014,3358.0,2.0,62975000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+KA,Karnataka,2015,5077.0,9.0,63602000.0,False,cases:den_opendengue;deaths:den_nhp2019
+KA,Karnataka,2016,6083.0,8.0,64229000.0,False,cases:den_opendengue;deaths:den_nhp2021
+KA,Karnataka,2017,17844.0,10.0,64752000.0,False,cases:den_opendengue;deaths:den_nhp2021
+KA,Karnataka,2018,4427.0,4.0,65275000.0,False,cases:den_opendengue;deaths:den_nhp2023
+KA,Karnataka,2019,16986.0,13.0,65798000.0,False,cases:den_opendengue;deaths:den_nhp2023
+KA,Karnataka,2020,3823.0,0.0,66322000.0,False,cases:den_opendengue;deaths:den_nhp2023
+KA,Karnataka,2021,7393.0,7.0,66845000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+KA,Karnataka,2022,9889.0,9.0,67268000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+KA,Karnataka,2023,19300.0,11.0,67692000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+KA,Karnataka,2024,32886.0,27.0,68115000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+KA,Karnataka,2025,7325.0,0.0,68538000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+KL,Kerala,2007,603.0,11.0,32780186.2,False,cases:den_nvbdcp;deaths:den_nvbdcp
+KL,Kerala,2008,733.0,3.0,32936654.9,False,cases:den_nvbdcp;deaths:den_nvbdcp
+KL,Kerala,2009,1425.0,6.0,33093123.6,False,cases:den_nvbdcp;deaths:den_nvbdcp
+KL,Kerala,2010,2597.0,17.0,33249592.3,False,cases:den_ar1415;deaths:den_ar1415
+KL,Kerala,2011,1304.0,10.0,33406061.0,False,cases:den_ar1415;deaths:den_ar1415
+KL,Kerala,2012,4172.0,15.0,33641000.0,False,cases:den_ar1415;deaths:den_ar1415
+KL,Kerala,2013,7938.0,29.0,33875000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+KL,Kerala,2014,2575.0,11.0,34109000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+KL,Kerala,2015,4075.0,25.0,34344000.0,False,cases:den_opendengue;deaths:den_nhp2019
+KL,Kerala,2016,7439.0,13.0,34578000.0,False,cases:den_opendengue;deaths:den_nhp2021
+KL,Kerala,2017,19994.0,37.0,34761000.0,False,cases:den_opendengue;deaths:den_nhp2021
+KL,Kerala,2018,4083.0,32.0,34943000.0,False,cases:den_opendengue;deaths:den_nhp2023
+KL,Kerala,2019,4652.0,16.0,35125000.0,False,cases:den_opendengue;deaths:den_nhp2023
+KL,Kerala,2020,4399.0,5.0,35307000.0,False,cases:den_opendengue;deaths:den_nhp2023
+KL,Kerala,2021,3251.0,27.0,35489000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+KL,Kerala,2022,4432.0,29.0,35633000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+KL,Kerala,2023,17426.0,153.0,35776000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+KL,Kerala,2024,20674.0,128.0,35920000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+KL,Kerala,2025,10923.0,65.0,36063000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+LD,Lakshadweep,2007,,,62943.8,False,cases:non_reporting;deaths:non_reporting
+LD,Lakshadweep,2008,,,63326.1,False,cases:non_reporting;deaths:non_reporting
+LD,Lakshadweep,2009,,,63708.4,False,cases:non_reporting;deaths:non_reporting
+LD,Lakshadweep,2010,,,64090.7,False,cases:non_reporting;deaths:non_reporting
+LD,Lakshadweep,2011,,,64473.0,False,cases:non_reporting;deaths:non_reporting
+LD,Lakshadweep,2012,,,65000.0,False,cases:non_reporting;deaths:non_reporting
+LD,Lakshadweep,2013,0.0,0.0,65000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+LD,Lakshadweep,2014,0.0,0.0,66000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+LD,Lakshadweep,2015,0.0,0.0,66000.0,False,cases:den_opendengue;deaths:den_nhp2019
+LD,Lakshadweep,2016,0.0,0.0,67000.0,False,cases:den_opendengue;deaths:den_nhp2021
+LD,Lakshadweep,2017,0.0,0.0,67000.0,False,cases:den_opendengue;deaths:den_nhp2021
+LD,Lakshadweep,2018,0.0,0.0,67000.0,False,cases:den_opendengue;deaths:den_nhp2023
+LD,Lakshadweep,2019,0.0,0.0,68000.0,False,cases:den_opendengue;deaths:den_nhp2023
+LD,Lakshadweep,2020,0.0,0.0,68000.0,False,cases:den_opendengue;deaths:den_nhp2023
+LD,Lakshadweep,2021,1.0,0.0,68000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+LD,Lakshadweep,2022,67.0,0.0,68000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+LD,Lakshadweep,2023,445.0,0.0,69000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+LD,Lakshadweep,2024,513.0,0.0,69000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+LD,Lakshadweep,2025,125.0,0.0,69000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+MP,Madhya Pradesh,2007,51.0,2.0,67715294.6,False,cases:den_nvbdcp;deaths:den_nvbdcp
+MP,Madhya Pradesh,2008,3.0,0.0,68943173.2,False,cases:den_nvbdcp;deaths:den_nvbdcp
+MP,Madhya Pradesh,2009,1467.0,5.0,70171051.8,False,cases:den_nvbdcp;deaths:den_nvbdcp
+MP,Madhya Pradesh,2010,175.0,1.0,71398930.4,False,cases:den_ar1415;deaths:den_ar1415
+MP,Madhya Pradesh,2011,50.0,0.0,72626809.0,False,cases:den_ar1415;deaths:den_ar1415
+MP,Madhya Pradesh,2012,239.0,6.0,73863000.0,False,cases:den_ar1415;deaths:den_ar1415
+MP,Madhya Pradesh,2013,1255.0,9.0,75099000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+MP,Madhya Pradesh,2014,2131.0,13.0,76334000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+MP,Madhya Pradesh,2015,2108.0,8.0,77570000.0,False,cases:den_opendengue;deaths:den_nhp2019
+MP,Madhya Pradesh,2016,3150.0,12.0,78806000.0,False,cases:den_opendengue;deaths:den_nhp2021
+MP,Madhya Pradesh,2017,2666.0,6.0,79948000.0,False,cases:den_opendengue;deaths:den_nhp2021
+MP,Madhya Pradesh,2018,4506.0,5.0,81090000.0,False,cases:den_opendengue;deaths:den_nhp2023
+MP,Madhya Pradesh,2019,4189.0,2.0,82232000.0,False,cases:den_opendengue;deaths:den_nhp2023
+MP,Madhya Pradesh,2020,806.0,0.0,83374000.0,False,cases:den_opendengue;deaths:den_nhp2023
+MP,Madhya Pradesh,2021,15592.0,11.0,84516000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+MP,Madhya Pradesh,2022,3318.0,2.0,85548000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+MP,Madhya Pradesh,2023,6979.0,0.0,86579000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+MP,Madhya Pradesh,2024,10224.0,6.0,87610000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+MP,Madhya Pradesh,2025,1941.0,0.0,88641000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+MH,Maharashtra,2007,614.0,21.0,106176050.6,False,cases:den_nvbdcp;deaths:den_nvbdcp
+MH,Maharashtra,2008,743.0,22.0,107725621.2,False,cases:den_nvbdcp;deaths:den_nvbdcp
+MH,Maharashtra,2009,2255.0,20.0,109275191.8,False,cases:den_nvbdcp;deaths:den_nvbdcp
+MH,Maharashtra,2010,1489.0,5.0,110824762.4,False,cases:den_ar1415;deaths:den_ar1415
+MH,Maharashtra,2011,1138.0,25.0,112374333.0,False,cases:den_ar1415;deaths:den_ar1415
+MH,Maharashtra,2012,2931.0,59.0,113645000.0,False,cases:den_ar1415;deaths:den_ar1415
+MH,Maharashtra,2013,5610.0,48.0,114915000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+MH,Maharashtra,2014,8573.0,54.0,116186000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+MH,Maharashtra,2015,4936.0,23.0,117456000.0,False,cases:den_opendengue;deaths:den_nhp2019
+MH,Maharashtra,2016,6792.0,33.0,118727000.0,False,cases:den_opendengue;deaths:den_nhp2021
+MH,Maharashtra,2017,7829.0,65.0,119869000.0,False,cases:den_opendengue;deaths:den_nhp2021
+MH,Maharashtra,2018,11011.0,55.0,121011000.0,False,cases:den_opendengue;deaths:den_nhp2023
+MH,Maharashtra,2019,14907.0,29.0,122153000.0,False,cases:den_opendengue;deaths:den_nhp2023
+MH,Maharashtra,2020,3356.0,10.0,123295000.0,False,cases:den_opendengue;deaths:den_nhp2023
+MH,Maharashtra,2021,12720.0,42.0,124437000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+MH,Maharashtra,2022,8578.0,27.0,125411000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+MH,Maharashtra,2023,19034.0,55.0,126385000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+MH,Maharashtra,2024,19385.0,40.0,127360000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+MH,Maharashtra,2025,14168.0,24.0,128334000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+MN,Manipur,2007,51.0,1.0,2631034.8,False,cases:den_nvbdcp;deaths:den_nvbdcp
+MN,Manipur,2008,0.0,0.0,2687224.6,False,cases:den_nvbdcp;deaths:den_nvbdcp
+MN,Manipur,2009,0.0,0.0,2743414.4,False,cases:den_nvbdcp;deaths:den_nvbdcp
+MN,Manipur,2010,7.0,0.0,2799604.2,False,cases:den_ar1415;deaths:den_ar1415
+MN,Manipur,2011,220.0,0.0,2855794.0,False,cases:den_ar1415;deaths:den_ar1415
+MN,Manipur,2012,6.0,0.0,2887000.0,False,cases:den_ar1415;deaths:den_ar1415
+MN,Manipur,2013,9.0,0.0,2918000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+MN,Manipur,2014,,0.0,2949000.0,False,cases:non_reporting;deaths:den_nhp2019
+MN,Manipur,2015,52.0,0.0,2980000.0,False,cases:den_opendengue;deaths:den_nhp2019
+MN,Manipur,2016,51.0,1.0,3012000.0,False,cases:den_opendengue;deaths:den_nhp2021
+MN,Manipur,2017,193.0,1.0,3042000.0,False,cases:den_opendengue;deaths:den_nhp2021
+MN,Manipur,2018,14.0,0.0,3073000.0,False,cases:den_opendengue;deaths:den_nhp2023
+MN,Manipur,2019,359.0,0.0,3103000.0,False,cases:den_opendengue;deaths:den_nhp2023
+MN,Manipur,2020,37.0,0.0,3134000.0,False,cases:den_opendengue;deaths:den_nhp2023
+MN,Manipur,2021,203.0,0.0,3165000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+MN,Manipur,2022,503.0,4.0,3194000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+MN,Manipur,2023,2548.0,0.0,3223000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+MN,Manipur,2024,2463.0,5.0,3253000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+MN,Manipur,2025,5519.0,1.0,3282000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+ML,Meghalaya,2007,0.0,0.0,2707662.2,False,cases:den_nvbdcp;deaths:den_nvbdcp
+ML,Meghalaya,2008,0.0,0.0,2772468.9,False,cases:den_nvbdcp;deaths:den_nvbdcp
+ML,Meghalaya,2009,0.0,0.0,2837275.6,False,cases:den_nvbdcp;deaths:den_nvbdcp
+ML,Meghalaya,2010,1.0,0.0,2902082.3,False,cases:den_ar1415;deaths:den_ar1415
+ML,Meghalaya,2011,0.0,0.0,2966889.0,False,cases:den_ar1415;deaths:den_ar1415
+ML,Meghalaya,2012,27.0,2.0,2999000.0,False,cases:den_ar1415;deaths:den_ar1415
+ML,Meghalaya,2013,43.0,0.0,3032000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+ML,Meghalaya,2014,,0.0,3064000.0,False,cases:non_reporting;deaths:den_nhp2019
+ML,Meghalaya,2015,13.0,0.0,3096000.0,False,cases:den_opendengue;deaths:den_nhp2019
+ML,Meghalaya,2016,172.0,0.0,3129000.0,False,cases:den_opendengue;deaths:den_nhp2021
+ML,Meghalaya,2017,52.0,0.0,3161000.0,False,cases:den_opendengue;deaths:den_nhp2021
+ML,Meghalaya,2018,44.0,0.0,3192000.0,False,cases:den_opendengue;deaths:den_nhp2023
+ML,Meghalaya,2019,82.0,0.0,3224000.0,False,cases:den_opendengue;deaths:den_nhp2023
+ML,Meghalaya,2020,4.0,0.0,3256000.0,False,cases:den_opendengue;deaths:den_nhp2023
+ML,Meghalaya,2021,129.0,0.0,3288000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+ML,Meghalaya,2022,26.0,0.0,3318000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+ML,Meghalaya,2023,114.0,0.0,3349000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+ML,Meghalaya,2024,74.0,0.0,3379000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+ML,Meghalaya,2025,81.0,0.0,3410000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+MZ,Mizoram,2007,0.0,0.0,1013752.8,False,cases:den_nvbdcp;deaths:den_nvbdcp
+MZ,Mizoram,2008,0.0,0.0,1034616.1,False,cases:den_nvbdcp;deaths:den_nvbdcp
+MZ,Mizoram,2009,0.0,0.0,1055479.4,False,cases:den_nvbdcp;deaths:den_nvbdcp
+MZ,Mizoram,2010,0.0,0.0,1076342.7,False,cases:den_ar1415;deaths:den_ar1415
+MZ,Mizoram,2011,0.0,0.0,1097206.0,False,cases:den_ar1415;deaths:den_ar1415
+MZ,Mizoram,2012,6.0,0.0,1109000.0,False,cases:den_ar1415;deaths:den_ar1415
+MZ,Mizoram,2013,7.0,0.0,1121000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+MZ,Mizoram,2014,19.0,0.0,1133000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+MZ,Mizoram,2015,43.0,0.0,1145000.0,False,cases:den_opendengue;deaths:den_nhp2019
+MZ,Mizoram,2016,580.0,0.0,1157000.0,False,cases:den_opendengue;deaths:den_nhp2021
+MZ,Mizoram,2017,136.0,0.0,1169000.0,False,cases:den_opendengue;deaths:den_nhp2021
+MZ,Mizoram,2018,68.0,0.0,1181000.0,False,cases:den_opendengue;deaths:den_nhp2023
+MZ,Mizoram,2019,42.0,0.0,1192000.0,False,cases:den_opendengue;deaths:den_nhp2023
+MZ,Mizoram,2020,67.0,0.0,1204000.0,False,cases:den_opendengue;deaths:den_nhp2023
+MZ,Mizoram,2021,83.0,0.0,1216000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+MZ,Mizoram,2022,1868.0,5.0,1227000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+MZ,Mizoram,2023,2060.0,2.0,1238000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+MZ,Mizoram,2024,744.0,1.0,1250000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+MZ,Mizoram,2025,1482.0,0.0,1261000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+NL,Nagaland,2007,0.0,0.0,1983115.6,False,cases:den_nvbdcp;deaths:den_nvbdcp
+NL,Nagaland,2008,0.0,0.0,1981962.2,False,cases:den_nvbdcp;deaths:den_nvbdcp
+NL,Nagaland,2009,25.0,0.0,1980808.8,False,cases:den_nvbdcp;deaths:den_nvbdcp
+NL,Nagaland,2010,0.0,0.0,1979655.4,False,cases:den_ar1415;deaths:den_ar1415
+NL,Nagaland,2011,3.0,0.0,1978502.0,False,cases:den_ar1415;deaths:den_ar1415
+NL,Nagaland,2012,0.0,0.0,2000000.0,False,cases:den_ar1415;deaths:den_ar1415
+NL,Nagaland,2013,0.0,0.0,2022000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+NL,Nagaland,2014,0.0,0.0,2043000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+NL,Nagaland,2015,21.0,1.0,2065000.0,False,cases:den_opendengue;deaths:den_nhp2019
+NL,Nagaland,2016,142.0,0.0,2086000.0,False,cases:den_opendengue;deaths:den_nhp2021
+NL,Nagaland,2017,357.0,0.0,2108000.0,False,cases:den_opendengue;deaths:den_nhp2021
+NL,Nagaland,2018,369.0,0.0,2129000.0,False,cases:den_opendengue;deaths:den_nhp2023
+NL,Nagaland,2019,8.0,0.0,2150000.0,False,cases:den_opendengue;deaths:den_nhp2023
+NL,Nagaland,2020,1.0,0.0,2171000.0,False,cases:den_opendengue;deaths:den_nhp2023
+NL,Nagaland,2021,24.0,0.0,2192000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+NL,Nagaland,2022,154.0,0.0,2213000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+NL,Nagaland,2023,4943.0,2.0,2233000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+NL,Nagaland,2024,42.0,0.0,2253000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+NL,Nagaland,2025,97.0,0.0,2274000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+OD,Odisha,2007,4.0,0.0,39906394.8,False,cases:den_nvbdcp;deaths:den_nvbdcp
+OD,Odisha,2008,0.0,0.0,40423350.6,False,cases:den_nvbdcp;deaths:den_nvbdcp
+OD,Odisha,2009,0.0,0.0,40940306.4,False,cases:den_nvbdcp;deaths:den_nvbdcp
+OD,Odisha,2010,29.0,5.0,41457262.2,False,cases:den_ar1415;deaths:den_ar1415
+OD,Odisha,2011,1816.0,33.0,41974218.0,False,cases:den_ar1415;deaths:den_ar1415
+OD,Odisha,2012,2255.0,6.0,42205000.0,False,cases:den_ar1415;deaths:den_ar1415
+OD,Odisha,2013,7132.0,6.0,42436000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+OD,Odisha,2014,6433.0,9.0,42667000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+OD,Odisha,2015,2450.0,2.0,42897000.0,False,cases:den_opendengue;deaths:den_nhp2019
+OD,Odisha,2016,8380.0,11.0,43128000.0,False,cases:den_opendengue;deaths:den_nhp2021
+OD,Odisha,2017,4158.0,6.0,43309000.0,False,cases:den_opendengue;deaths:den_nhp2021
+OD,Odisha,2018,5198.0,5.0,43490000.0,False,cases:den_opendengue;deaths:den_nhp2023
+OD,Odisha,2019,3758.0,4.0,43671000.0,False,cases:den_opendengue;deaths:den_nhp2023
+OD,Odisha,2020,496.0,0.0,43852000.0,False,cases:den_opendengue;deaths:den_nhp2023
+OD,Odisha,2021,7548.0,0.0,44033000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+OD,Odisha,2022,7063.0,0.0,44162000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+OD,Odisha,2023,12845.0,1.0,44291000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+OD,Odisha,2024,9892.0,0.0,44420000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+OD,Odisha,2025,2635.0,0.0,44548000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+PY,Puducherry,2007,274.0,0.0,1138509.8,False,cases:den_nvbdcp;deaths:den_nvbdcp
+PY,Puducherry,2008,35.0,0.0,1165870.6,False,cases:den_nvbdcp;deaths:den_nvbdcp
+PY,Puducherry,2009,66.0,0.0,1193231.4,False,cases:den_nvbdcp;deaths:den_nvbdcp
+PY,Puducherry,2010,96.0,0.0,1220592.2,False,cases:den_ar1415;deaths:den_ar1415
+PY,Puducherry,2011,463.0,3.0,1247953.0,False,cases:den_ar1415;deaths:den_ar1415
+PY,Puducherry,2012,3506.0,5.0,1279000.0,False,cases:den_ar1415;deaths:den_ar1415
+PY,Puducherry,2013,2215.0,0.0,1310000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+PY,Puducherry,2014,1322.0,1.0,1340000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+PY,Puducherry,2015,771.0,0.0,1371000.0,False,cases:den_opendengue;deaths:den_nhp2019
+PY,Puducherry,2016,490.0,2.0,1402000.0,False,cases:den_opendengue;deaths:den_nhp2021
+PY,Puducherry,2017,4568.0,7.0,1436000.0,False,cases:den_opendengue;deaths:den_nhp2021
+PY,Puducherry,2018,592.0,2.0,1470000.0,False,cases:den_opendengue;deaths:den_nhp2023
+PY,Puducherry,2019,2030.0,2.0,1504000.0,False,cases:den_opendengue;deaths:den_nhp2023
+PY,Puducherry,2020,633.0,1.0,1537000.0,False,cases:den_opendengue;deaths:den_nhp2023
+PY,Puducherry,2021,1625.0,1.0,1571000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+PY,Puducherry,2022,1673.0,3.0,1608000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+PY,Puducherry,2023,2790.0,2.0,1646000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+PY,Puducherry,2024,2128.0,0.0,1683000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+PY,Puducherry,2025,902.0,1.0,1720000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+PB,Punjab,2007,28.0,0.0,26389602.4,False,cases:den_nvbdcp;deaths:den_nvbdcp
+PB,Punjab,2008,4349.0,21.0,26728036.3,False,cases:den_nvbdcp;deaths:den_nvbdcp
+PB,Punjab,2009,245.0,1.0,27066470.2,False,cases:den_nvbdcp;deaths:den_nvbdcp
+PB,Punjab,2010,4012.0,15.0,27404904.1,False,cases:den_ar1415;deaths:den_ar1415
+PB,Punjab,2011,3921.0,33.0,27743338.0,False,cases:den_ar1415;deaths:den_ar1415
+PB,Punjab,2012,770.0,9.0,28023000.0,False,cases:den_ar1415;deaths:den_ar1415
+PB,Punjab,2013,4117.0,25.0,28302000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+PB,Punjab,2014,472.0,8.0,28581000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+PB,Punjab,2015,14128.0,18.0,28861000.0,False,cases:den_opendengue;deaths:den_nhp2019
+PB,Punjab,2016,10439.0,15.0,29140000.0,False,cases:den_opendengue;deaths:den_nhp2021
+PB,Punjab,2017,15398.0,18.0,29380000.0,False,cases:den_opendengue;deaths:den_nhp2021
+PB,Punjab,2018,14980.0,9.0,29619000.0,False,cases:den_opendengue;deaths:den_nhp2023
+PB,Punjab,2019,10289.0,14.0,29859000.0,False,cases:den_opendengue;deaths:den_nhp2023
+PB,Punjab,2020,8435.0,22.0,30099000.0,False,cases:den_opendengue;deaths:den_nhp2023
+PB,Punjab,2021,23389.0,55.0,30339000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+PB,Punjab,2022,11030.0,41.0,30535000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+PB,Punjab,2023,13687.0,39.0,30730000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+PB,Punjab,2024,6260.0,13.0,30926000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+PB,Punjab,2025,4981.0,8.0,31122000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+RJ,Rajasthan,2007,540.0,10.0,63731937.4,False,cases:den_nvbdcp;deaths:den_nvbdcp
+RJ,Rajasthan,2008,682.0,4.0,64936062.3,False,cases:den_nvbdcp;deaths:den_nvbdcp
+RJ,Rajasthan,2009,1389.0,18.0,66140187.2,False,cases:den_nvbdcp;deaths:den_nvbdcp
+RJ,Rajasthan,2010,1823.0,9.0,67344312.1,False,cases:den_ar1415;deaths:den_ar1415
+RJ,Rajasthan,2011,1072.0,4.0,68548437.0,False,cases:den_ar1415;deaths:den_ar1415
+RJ,Rajasthan,2012,1295.0,10.0,69687000.0,False,cases:den_ar1415;deaths:den_ar1415
+RJ,Rajasthan,2013,4413.0,10.0,70825000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+RJ,Rajasthan,2014,1243.0,7.0,71963000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+RJ,Rajasthan,2015,4043.0,7.0,73102000.0,False,cases:den_opendengue;deaths:den_nhp2019
+RJ,Rajasthan,2016,5292.0,16.0,74240000.0,False,cases:den_opendengue;deaths:den_nhp2021
+RJ,Rajasthan,2017,8427.0,14.0,75248000.0,False,cases:den_opendengue;deaths:den_nhp2021
+RJ,Rajasthan,2018,9587.0,10.0,76256000.0,False,cases:den_opendengue;deaths:den_nhp2023
+RJ,Rajasthan,2019,13706.0,17.0,77264000.0,False,cases:den_opendengue;deaths:den_nhp2023
+RJ,Rajasthan,2020,2023.0,7.0,78273000.0,False,cases:den_opendengue;deaths:den_nhp2023
+RJ,Rajasthan,2021,20749.0,96.0,79281000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+RJ,Rajasthan,2022,13491.0,10.0,80153000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+RJ,Rajasthan,2023,13924.0,14.0,81025000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+RJ,Rajasthan,2024,12514.0,5.0,81897000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+RJ,Rajasthan,2025,4348.0,3.0,82770000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+SK,Sikkim,2007,0.0,0.0,582686.6,False,cases:den_nvbdcp;deaths:den_nvbdcp
+SK,Sikkim,2008,0.0,0.0,589659.2,False,cases:den_nvbdcp;deaths:den_nvbdcp
+SK,Sikkim,2009,0.0,0.0,596631.8,False,cases:den_nvbdcp;deaths:den_nvbdcp
+SK,Sikkim,2010,0.0,0.0,603604.4,False,cases:den_ar1415;deaths:den_ar1415
+SK,Sikkim,2011,2.0,0.0,610577.0,False,cases:den_ar1415;deaths:den_ar1415
+SK,Sikkim,2012,2.0,0.0,617000.0,False,cases:den_ar1415;deaths:den_ar1415
+SK,Sikkim,2013,38.0,0.0,624000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+SK,Sikkim,2014,5.0,0.0,631000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+SK,Sikkim,2015,21.0,0.0,637000.0,False,cases:den_opendengue;deaths:den_nhp2019
+SK,Sikkim,2016,82.0,0.0,644000.0,False,cases:den_opendengue;deaths:den_nhp2021
+SK,Sikkim,2017,312.0,0.0,650000.0,False,cases:den_opendengue;deaths:den_nhp2021
+SK,Sikkim,2018,320.0,0.0,657000.0,False,cases:den_opendengue;deaths:den_nhp2023
+SK,Sikkim,2019,444.0,0.0,664000.0,False,cases:den_opendengue;deaths:den_nhp2023
+SK,Sikkim,2020,11.0,0.0,670000.0,False,cases:den_opendengue;deaths:den_nhp2023
+SK,Sikkim,2021,243.0,1.0,677000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+SK,Sikkim,2022,264.0,0.0,683000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+SK,Sikkim,2023,311.0,0.0,689000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+SK,Sikkim,2024,374.0,0.0,695000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+SK,Sikkim,2025,169.0,0.0,702000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+TN,Tamil Nadu,2007,707.0,2.0,68250489.6,False,cases:den_nvbdcp;deaths:den_nvbdcp
+TN,Tamil Nadu,2008,530.0,3.0,69224624.7,False,cases:den_nvbdcp;deaths:den_nvbdcp
+TN,Tamil Nadu,2009,1072.0,7.0,70198759.8,False,cases:den_nvbdcp;deaths:den_nvbdcp
+TN,Tamil Nadu,2010,2051.0,8.0,71172894.9,False,cases:den_ar1415;deaths:den_ar1415
+TN,Tamil Nadu,2011,2501.0,9.0,72147030.0,False,cases:den_ar1415;deaths:den_ar1415
+TN,Tamil Nadu,2012,12826.0,66.0,72645000.0,False,cases:den_ar1415;deaths:den_ar1415
+TN,Tamil Nadu,2013,6122.0,0.0,73142000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+TN,Tamil Nadu,2014,2804.0,3.0,73640000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+TN,Tamil Nadu,2015,4535.0,12.0,74137000.0,False,cases:den_opendengue;deaths:den_nhp2019
+TN,Tamil Nadu,2016,2531.0,5.0,74635000.0,False,cases:den_opendengue;deaths:den_nhp2021
+TN,Tamil Nadu,2017,23294.0,65.0,74989000.0,False,cases:den_opendengue;deaths:den_nhp2021
+TN,Tamil Nadu,2018,4486.0,13.0,75342000.0,False,cases:den_opendengue;deaths:den_nhp2023
+TN,Tamil Nadu,2019,8527.0,5.0,75695000.0,False,cases:den_opendengue;deaths:den_nhp2023
+TN,Tamil Nadu,2020,2410.0,0.0,76049000.0,False,cases:den_opendengue;deaths:den_nhp2023
+TN,Tamil Nadu,2021,6039.0,8.0,76402000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+TN,Tamil Nadu,2022,6430.0,8.0,76631000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+TN,Tamil Nadu,2023,9121.0,12.0,76860000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+TN,Tamil Nadu,2024,27378.0,13.0,77089000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+TN,Tamil Nadu,2025,23407.0,12.0,77317000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+TR,Tripura,2007,0.0,0.0,3484031.4,False,cases:den_nvbdcp;deaths:den_nvbdcp
+TR,Tripura,2008,0.0,0.0,3531502.8,False,cases:den_nvbdcp;deaths:den_nvbdcp
+TR,Tripura,2009,0.0,0.0,3578974.2,False,cases:den_nvbdcp;deaths:den_nvbdcp
+TR,Tripura,2010,0.0,0.0,3626445.6,False,cases:den_ar1415;deaths:den_ar1415
+TR,Tripura,2011,0.0,0.0,3673917.0,False,cases:den_ar1415;deaths:den_ar1415
+TR,Tripura,2012,9.0,0.0,3714000.0,False,cases:den_ar1415;deaths:den_ar1415
+TR,Tripura,2013,8.0,0.0,3754000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+TR,Tripura,2014,6.0,0.0,3794000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+TR,Tripura,2015,40.0,0.0,3834000.0,False,cases:den_opendengue;deaths:den_nhp2019
+TR,Tripura,2016,102.0,0.0,3874000.0,False,cases:den_opendengue;deaths:den_nhp2021
+TR,Tripura,2017,127.0,0.0,3914000.0,False,cases:den_opendengue;deaths:den_nhp2021
+TR,Tripura,2018,100.0,0.0,3953000.0,False,cases:den_opendengue;deaths:den_nhp2023
+TR,Tripura,2019,114.0,0.0,3992000.0,False,cases:den_opendengue;deaths:den_nhp2023
+TR,Tripura,2020,24.0,0.0,4032000.0,False,cases:den_opendengue;deaths:den_nhp2023
+TR,Tripura,2021,349.0,0.0,4071000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+TR,Tripura,2022,56.0,0.0,4109000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+TR,Tripura,2023,1447.0,0.0,4147000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+TR,Tripura,2024,1198.0,0.0,4184000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+TR,Tripura,2025,741.0,0.0,4222000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+UP,Uttar Pradesh,2007,132.0,2.0,186366573.0,False,cases:den_nvbdcp;deaths:den_nvbdcp
+UP,Uttar Pradesh,2008,51.0,2.0,189728015.0,False,cases:den_nvbdcp;deaths:den_nvbdcp
+UP,Uttar Pradesh,2009,168.0,2.0,193089457.0,False,cases:den_nvbdcp;deaths:den_nvbdcp
+UP,Uttar Pradesh,2010,960.0,8.0,196450899.0,False,cases:den_ar1415;deaths:den_ar1415
+UP,Uttar Pradesh,2011,155.0,5.0,199812341.0,False,cases:den_ar1415;deaths:den_ar1415
+UP,Uttar Pradesh,2012,342.0,4.0,203067000.0,False,cases:den_ar1415;deaths:den_ar1415
+UP,Uttar Pradesh,2013,1414.0,5.0,206322000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+UP,Uttar Pradesh,2014,200.0,0.0,209577000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+UP,Uttar Pradesh,2015,2892.0,9.0,212832000.0,False,cases:den_opendengue;deaths:den_nhp2019
+UP,Uttar Pradesh,2016,15033.0,42.0,216087000.0,False,cases:den_opendengue;deaths:den_nhp2021
+UP,Uttar Pradesh,2017,3092.0,28.0,219051000.0,False,cases:den_opendengue;deaths:den_nhp2021
+UP,Uttar Pradesh,2018,3829.0,4.0,222015000.0,False,cases:den_opendengue;deaths:den_nhp2023
+UP,Uttar Pradesh,2019,10557.0,26.0,224979000.0,False,cases:den_opendengue;deaths:den_nhp2023
+UP,Uttar Pradesh,2020,3715.0,6.0,227943000.0,False,cases:den_opendengue;deaths:den_nhp2023
+UP,Uttar Pradesh,2021,29750.0,29.0,230907000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+UP,Uttar Pradesh,2022,19821.0,33.0,233297000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+UP,Uttar Pradesh,2023,35402.0,36.0,235687000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+UP,Uttar Pradesh,2024,15868.0,9.0,238078000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+UP,Uttar Pradesh,2025,9206.0,3.0,240468000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+UK,Uttarakhand,2007,,0.0,9447514.8,False,cases:non_reporting;deaths:den_nvbdcp
+UK,Uttarakhand,2008,20.0,0.0,9607209.1,False,cases:den_nvbdcp;deaths:den_nvbdcp
+UK,Uttarakhand,2009,,0.0,9766903.4,False,cases:non_reporting;deaths:den_nvbdcp
+UK,Uttarakhand,2010,178.0,0.0,9926597.7,False,cases:den_ar1415;deaths:den_ar1415
+UK,Uttarakhand,2011,454.0,5.0,10086292.0,False,cases:den_ar1415;deaths:den_ar1415
+UK,Uttarakhand,2012,110.0,2.0,10220000.0,False,cases:den_ar1415;deaths:den_ar1415
+UK,Uttarakhand,2013,54.0,0.0,10354000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+UK,Uttarakhand,2014,106.0,0.0,10487000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+UK,Uttarakhand,2015,1655.0,1.0,10621000.0,False,cases:den_opendengue;deaths:den_nhp2019
+UK,Uttarakhand,2016,2146.0,4.0,10755000.0,False,cases:den_opendengue;deaths:den_nhp2021
+UK,Uttarakhand,2017,849.0,0.0,10884000.0,False,cases:den_opendengue;deaths:den_nhp2021
+UK,Uttarakhand,2018,689.0,3.0,11013000.0,False,cases:den_opendengue;deaths:den_nhp2023
+UK,Uttarakhand,2019,10622.0,8.0,11141000.0,False,cases:den_opendengue;deaths:den_nhp2023
+UK,Uttarakhand,2020,76.0,1.0,11270000.0,False,cases:den_opendengue;deaths:den_nhp2023
+UK,Uttarakhand,2021,738.0,2.0,11399000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+UK,Uttarakhand,2022,2337.0,0.0,11518000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+UK,Uttarakhand,2023,4320.0,17.0,11637000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+UK,Uttarakhand,2024,494.0,0.0,11755000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+UK,Uttarakhand,2025,992.0,0.0,11874000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+WB,West Bengal,2007,95.0,4.0,86836147.8,False,cases:den_nvbdcp;deaths:den_nvbdcp
+WB,West Bengal,2008,1038.0,7.0,87946139.6,False,cases:den_nvbdcp;deaths:den_nvbdcp
+WB,West Bengal,2009,399.0,0.0,89056131.4,False,cases:den_nvbdcp;deaths:den_nvbdcp
+WB,West Bengal,2010,805.0,1.0,90166123.2,False,cases:den_ar1415;deaths:den_ar1415
+WB,West Bengal,2011,510.0,0.0,91276115.0,False,cases:den_ar1415;deaths:den_ar1415
+WB,West Bengal,2012,6456.0,11.0,92037000.0,False,cases:den_ar1415;deaths:den_ar1415
+WB,West Bengal,2013,5920.0,6.0,92797000.0,False,cases:den_nhp2018;deaths:den_nhp2018
+WB,West Bengal,2014,3934.0,4.0,93558000.0,False,cases:den_nhp2019;deaths:den_nhp2019
+WB,West Bengal,2015,8516.0,14.0,94318000.0,False,cases:den_opendengue;deaths:den_nhp2019
+WB,West Bengal,2016,22865.0,45.0,95079000.0,False,cases:den_opendengue;deaths:den_nhp2021
+WB,West Bengal,2017,37746.0,46.0,95688000.0,False,cases:den_opendengue;deaths:den_nhp2021
+WB,West Bengal,2018,23301.0,86.0,96297000.0,False,cases:den_nhp2023;deaths:den_nhp2023
+WB,West Bengal,2019,47928.0,27.0,96906000.0,False,cases:den_nhp2023;deaths:den_nhp2023
+WB,West Bengal,2020,5166.0,10.0,97516000.0,False,cases:den_opendengue;deaths:den_nhp2023
+WB,West Bengal,2021,8264.0,7.0,98125000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+WB,West Bengal,2022,67271.0,30.0,98604000.0,False,cases:den_ncvbdc;deaths:den_ncvbdc
+WB,West Bengal,2023,,,99084000.0,False,cases:masked;deaths:masked
+WB,West Bengal,2024,,,99563000.0,False,cases:masked;deaths:masked
+WB,West Bengal,2025,,,100042000.0,False,cases:non_reporting;deaths:non_reporting

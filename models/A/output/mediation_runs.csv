@@ -1,0 +1,7 @@
+Mediator,Exposure,Unit-years,Resamples (B),Successful,Failed,Bootstrap flag,Proportion flag,Total effect c (95% CI),Direct effect c' (95% CI),Seed
+rain_jjas_dep_pct,oni_jjas,732,1000,1000,0,ok,opposite_signs,0.128 (95% CI 0.057–0.200),0.135 (95% CI 0.042–0.224),20261115
+rain_jjas_dep_pct_lag1,oni_jjas_lag1,732,1000,1000,0,ok,ok,0.053 (95% CI 0.003–0.113),0.041 (95% CI −0.024 to 0.120),20261215
+spi3_sep,oni_jjas,732,1000,1000,0,ok,opposite_signs,0.128 (95% CI 0.056–0.203),0.138 (95% CI 0.053–0.224),20261315
+spi3_sep_lag1,oni_jjas_lag1,732,1000,1000,0,ok,opposite_signs,0.053 (95% CI 0.002–0.112),0.056 (95% CI −0.001 to 0.121),20261415
+tmax_mamj_anom,oni_jjas,782,1000,1000,0,ok,opposite_signs,0.133 (95% CI 0.065–0.198),0.133 (95% CI 0.061–0.198),20261515
+tmax_mamj_anom_lag1,oni_jjas_lag1,782,1000,1000,0,ok,opposite_signs,0.064 (95% CI 0.013–0.125),0.087 (95% CI 0.034–0.151),20261615

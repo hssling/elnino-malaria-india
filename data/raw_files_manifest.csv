@@ -1,0 +1,173 @@
+path,url,retrieved_utc,sha256,bytes,deleted
+data/raw/imd/tmin_1981.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=1981,2026-10-14T07:12:27Z,b7164314bef24bd4df436f13bcf3962e7046b647a478401b651bae5414da1b3d,1403060,0
+data/raw/imd/tmax_1981.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=1981,2026-10-14T07:12:27Z,539b8147d96017d2cb7144a6c4d8b518e7bc71e2d6296e7cf3960f89d7801011,1403060,0
+data/raw/imd/tmax_1982.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=1982,2026-10-14T07:12:27Z,ac208c74053d5903d533fb603af5a56919c00de52a18e2d5b7701142b191d279,1403060,0
+data/raw/imd/tmin_1983.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=1983,2026-10-14T07:12:27Z,5ddbd097e9310d5dcefb05e40bf675f3537dc2b020193fb30849cd2d7bc49240,1403060,0
+data/raw/imd/tmax_1984.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=1984,2026-10-14T07:12:27Z,64491557d96a7ffa1f2f45ac261df31544d8d1d28414469c0c215732316b8b25,1406904,0
+data/raw/imd/tmax_1985.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=1985,2026-10-14T07:12:27Z,dac7e753bdd23158c011db6f132ff5908100131dbac49abd9e3ba021e4d7a8a6,1403060,0
+data/raw/imd/tmin_1985.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=1985,2026-10-14T07:12:27Z,6f003eb5ae0c89d4d003223f6e2be93657c258487274e8a7240909321fb4dbcc,1403060,0
+data/raw/imd/tmin_1984.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=1984,2026-10-14T07:12:27Z,ec76375a8b374964f41cf26cc1e8db8a64e2842fe219128bdf7a975f7d72bb46,1406904,0
+data/raw/imd/tmax_1986.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=1986,2026-10-14T07:12:27Z,2fd3b08a5be436f7eeedf2d0826f38ad818750a146804baeef7b3ab0b5f51a73,1403060,0
+data/raw/imd/tmin_1986.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=1986,2026-10-14T07:12:27Z,629b4580c4c997d8a692c9da252e2c53505a98eadded944da62bc380d60162dd,1403060,0
+data/raw/imd/tmax_1987.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=1987,2026-10-14T07:12:27Z,21762f623eafb7cfe27e84a218a52bb5f8523e6a834c8cf1b5484f96bf232ee6,1403060,0
+data/raw/imd/tmax_1983.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=1983,2026-10-14T07:12:27Z,a447e32c9ab7f61d0ca2e383d3a5351ae1c8d97854e603662f37916aacaae84e,1403060,0
+data/raw/imd/tmax_1988.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=1988,2026-10-14T07:12:27Z,eb21a1353954dbfa88819a474d78c60bb7af2d212202e0af5fb58ad8be01e4f7,1406904,0
+data/raw/imd/tmin_1988.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=1988,2026-10-14T07:12:27Z,82df413583c563ed6a898ad84f06fd8f3a3b34c1412cbdffeadf7c415f8a2aa5,1406904,0
+data/raw/imd/tmin_1982.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=1982,2026-10-14T07:12:27Z,b6ce77e4390425fc304d8c27af9bfdfcd7d9b9e199c809bce245230fa1893ec1,1403060,0
+data/raw/imd/tmax_1989.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=1989,2026-10-14T07:12:27Z,bfe4eb6fcdb4ec6bf681e56001b532f91c611a672997b05217c7bb6662be86c6,1403060,0
+data/raw/imd/tmin_1989.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=1989,2026-10-14T07:12:27Z,6838ad2bfe90c27ac90ba710a6dd881fbae10f143d78e8c140676f9881b13fd5,1403060,0
+data/raw/imd/tmax_1991.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=1991,2026-10-14T07:12:27Z,9ce94878b133f26f46e8e3d0359a4c9608dfaae3400aeaa6705868aa9546c3e5,1403060,0
+data/raw/imd/tmin_1991.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=1991,2026-10-14T07:12:27Z,df868a641a134341574a8f16d0fa3a82e7f5c5ed91f01ca857985b062e540435,1403060,0
+data/raw/imd/tmax_1990.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=1990,2026-10-14T07:12:27Z,1096eb63dbe96a7d91bf2e3f018f0d5336ca4a47a32e1103de940babaf9935ec,1403060,0
+data/raw/imd/tmax_1992.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=1992,2026-10-14T07:12:27Z,b72e8fc7c22230026fcc939d0d34818bc8eba1d5826cb84be69ddb57d422bf5d,1406904,0
+data/raw/imd/tmin_1987.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=1987,2026-10-14T07:12:27Z,0608eb497818ecdbc7dd0bae423d5d3e40187eba97e6330707eea3fa9ce6d058,1403060,0
+data/raw/imd/tmin_1992.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=1992,2026-10-14T07:12:27Z,7371ea43b4719dc4a2c17c309b0115898189e161976541afa101fdd4d231a4aa,1406904,0
+data/raw/imd/tmax_1993.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=1993,2026-10-14T07:12:27Z,0ec8ea408f4fc78ea9cc0ef4249e6e1946f2a782b2d301a34a10bdb8fbdf47b5,1403060,0
+data/raw/imd/tmax_1994.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=1994,2026-10-14T07:12:27Z,061ff05414464b436e883610c65be13e1feed7706517d8e654a50f02a8b66a0b,1403060,0
+data/raw/imd/tmin_1994.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=1994,2026-10-14T07:12:27Z,4bcff08eaea67b8c77008eac5091572bfbaa0191a9d5586374e2054f7d280aad,1403060,0
+data/raw/imd/tmin_1995.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=1995,2026-10-14T07:12:27Z,f270a7d3b4c9e061f8e5f767ed02d1b14b0a29121c8783b8b8217227e4362cbf,1403060,0
+data/raw/imd/tmax_1996.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=1996,2026-10-14T07:12:28Z,19e36d1464b03d53f683edc0eba16a4b1fbf3946502deb95862e34b041ad4217,1406904,0
+data/raw/imd/tmin_1996.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=1996,2026-10-14T07:12:28Z,2062e0877a4e24c0f521b33e459359959bd98e9851c95d0e23dfd3555063d602,1406904,0
+data/raw/imd/tmax_1997.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=1997,2026-10-14T07:12:28Z,afc7d81131af18d0f451877ec6d21bdac2bb39a5344a652dc89f63be9bff4e41,1403060,0
+data/raw/imd/tmin_1990.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=1990,2026-10-14T07:12:28Z,5f00104f404a1f3239a133d2dc585f7650e1f6d591e20a3192badfb99dbc1815,1403060,0
+data/raw/imd/tmin_1993.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=1993,2026-10-14T07:12:28Z,237025317a6f5a5a7ae7d8f85d321f86258110723ba965e8169a97cfabe06f5e,1403060,0
+data/raw/imd/tmax_1998.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=1998,2026-10-14T07:12:28Z,e0bc505889ccb4049188e94745cef667c6c3b678c890635d9ac2ac2798ffcfaa,1403060,0
+data/raw/imd/tmin_1998.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=1998,2026-10-14T07:12:28Z,cfa3a6888eb786524f3edb5047a661968a9a106116c8d90dec0d5efeeb40a68d,1403060,0
+data/raw/imd/tmax_1999.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=1999,2026-10-14T07:12:28Z,eb9c2bcd85c838ff351226b46aadf214c5cee867b3607bdc29737add4739595b,1403060,0
+data/raw/imd/tmin_1999.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=1999,2026-10-14T07:12:28Z,5ed063b6ca6a8bbef2021465c7dcd0f13cae1d8b8f23ce9126ecdc928753d6bc,1403060,0
+data/raw/imd/tmax_2000.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2000,2026-10-14T07:12:28Z,9c959ec9129b4edf3952da1b6a9cecdd26bc4307bab88a1e8521494faddd2565,1406904,0
+data/raw/imd/tmin_2000.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2000,2026-10-14T07:12:28Z,d7009431e9fbbb8fa894f6b339ec7745e8e7a743d378724425120186bcb5083f,1406904,0
+data/raw/imd/tmax_1995.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=1995,2026-10-14T07:12:28Z,adb862f37e89c92ead264fabb8fc0d93f168ac755291d25ca34dd337e05e881e,1403060,0
+data/raw/imd/tmax_2001.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2001,2026-10-14T07:12:28Z,e8565453a49fe0741b3159b774724f319680e38411de29a15af40ff6e97759a8,1403060,0
+data/raw/imd/tmin_2001.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2001,2026-10-14T07:12:28Z,182c5a9bd0240abe38326e5d5b5c37482c9e227fa683a3e8fd24d4354af35c01,1403060,0
+data/raw/imd/tmax_2002.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2002,2026-10-14T07:12:28Z,7c5086161618c597f088ae99bd1bdba3e9099216fdd55354513901b467377dd4,1403060,0
+data/raw/imd/tmax_2003.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2003,2026-10-14T07:12:28Z,12ce3042e4809b25fd0267cd3024dcc5c08f97ff4ed5be4732d28c6059c96fbb,1403060,0
+data/raw/imd/tmin_2003.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2003,2026-10-14T07:12:28Z,d7659b4c455545e2187c7f119a4d3f2fd623de7b2a4e4becde529a8c928b9af4,1403060,0
+data/raw/imd/tmin_2002.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2002,2026-10-14T07:12:28Z,15cdd934348053aedc8afc8234187f1fc0694fff5e1094c5489f30ceb74b6cd7,1403060,0
+data/raw/imd/tmax_2004.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2004,2026-10-14T07:12:28Z,a66a1adad12f5cb6d132a956f70dbd6cdec2d87a7eceff8554c1116540e43d0e,1406904,0
+data/raw/imd/tmin_2004.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2004,2026-10-14T07:12:28Z,22307a1716941c117c9269045ee18b21ba49b97b89027e565e8260687af4a441,1406904,0
+data/raw/imd/tmin_2005.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2005,2026-10-14T07:12:28Z,63f031727cfb59dd8a5f3c180eeb1678b16e1d0d344cd5569f2bf430e45e724c,1403060,0
+data/raw/imd/tmax_2005.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2005,2026-10-14T07:12:28Z,7b96f31dcb61b7c849a8e503c0bf1ef0e61b360d4f0341e0569fdda18804dde7,1403060,0
+data/raw/imd/tmax_2006.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2006,2026-10-14T07:12:28Z,7926666aae02b20aa1e9bc244d3d5115bd548a0d6df9a94754d4f67d00c41d5c,1403060,0
+data/raw/imd/tmin_1997.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=1997,2026-10-14T07:12:29Z,5bf751f9cdc83abe4385623f1e9ff7485da01fd5a96a2deab120656fb611ce82,1403060,0
+data/raw/imd/tmin_2006.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2006,2026-10-14T07:12:29Z,274516511bfc6c2557490b7e7f576935e627af37ff13299af534a9750de41a94,1403060,0
+data/raw/imd/tmin_2007.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2007,2026-10-14T07:12:29Z,de96b35cba2c921078b89729720345b9177c8585d1c1eb3441a394c325997239,1403060,0
+data/raw/imd/tmax_2007.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2007,2026-10-14T07:12:29Z,1b4a760583bae5a9979f18a4ca82d03f2ea321d21b5035df9cc8de66762fb1a9,1403060,0
+data/raw/imd/tmax_2008.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2008,2026-10-14T07:12:29Z,a80bfd892b2a471d1044faa24414bc9dc93b491fae51de000c010538d3b4f729,1406904,0
+data/raw/imd/tmin_2008.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2008,2026-10-14T07:12:29Z,a34d248a0df4d6235c51abfc573184ace762f9c8ed12b2e5fb45275722e27442,1406904,0
+data/raw/imd/tmin_2009.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2009,2026-10-14T07:12:29Z,1a9a3795b4591ee91920ba72b35ffc48f0f5dc34b3c818eb06cf50eed4035e3f,1403060,0
+data/raw/imd/tmax_2009.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2009,2026-10-14T07:12:29Z,13db294a906e25cbf484b01e294a3c089bae441353cee2b39a5e4dd26ff8bab1,1403060,0
+data/raw/imd/tmin_2010.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2010,2026-10-14T07:12:29Z,55b3e996c652fa5ebd17a920a538dfa3216fcc0c5aaa48e65ba190831bb1de95,1403060,0
+data/raw/imd/tmax_2010.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2010,2026-10-14T07:12:29Z,7d82ecb95f82a4606f115c6674b18a34e906a479805f021fc0b324a5b3bd3795,1403060,0
+data/raw/imd/tmin_2011.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2011,2026-10-14T07:12:29Z,72cfc0ffbe88da7c56834d7ad096c8d336620505623e46093d291c9900ebba38,1403060,0
+data/raw/imd/tmax_2011.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2011,2026-10-14T07:12:29Z,642d337d4aa4ab0c4b167d04b923b3ec285a29d79920d5a8d3e5747953b7ccf2,1403060,0
+data/raw/imd/tmin_2012.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2012,2026-10-14T07:12:29Z,2d70c8debb4833463e272a60e793538d81e295dcddddb2fc009cf956a1a24668,1406904,0
+data/raw/imd/tmax_2012.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2012,2026-10-14T07:12:29Z,0f55a48c4ca1b6558e60bbb2047e0a7cfb5ff720c43c7cc39fca892b4754ef3c,1406904,0
+data/raw/imd/tmax_2013.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2013,2026-10-14T07:12:29Z,80c0e0162343cb6808db7bde56eab3222322a64d69bc493078fe05a9fb38af77,1403060,0
+data/raw/imd/tmax_2014.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2014,2026-10-14T07:12:29Z,68f6b0b7a6e4ed4e12ac13fd3e0884244b5d6b330fedee1ac43a4bd419ec9fd7,1403060,0
+data/raw/imd/tmin_2014.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2014,2026-10-14T07:12:29Z,6fde6cdaf1c53919d32d11326340440cd16feb735b1a34ba0b050c3e67e744e1,1403060,0
+data/raw/imd/tmax_2016.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2016,2026-10-14T07:12:29Z,4cb547522de59e6af4a93b5a50810de406004b2553921337270f499db4e0c12e,1406904,0
+data/raw/imd/tmin_2016.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2016,2026-10-14T07:12:29Z,015c455543de61b4ea6aefcecdfd2218c99b8c60d8c3301a024aa63313d7ab7b,1406904,0
+data/raw/imd/tmax_2017.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2017,2026-10-14T07:12:29Z,ab6f1602d4bf3d2fb72af1c95123135715d03363ffcff2edba290460be348aa2,1403060,0
+data/raw/imd/tmin_2017.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2017,2026-10-14T07:12:29Z,8eba57d8306167936170d952b618681b0bf2d69d2a18b26f92e5ddb371ccf182,1403060,0
+data/raw/imd/tmax_2015.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2015,2026-10-14T07:12:29Z,1f59cb38f0412c31f00ed5b0283ce3c8d4aecb33f7c798037b23eda7a2da1fc9,1403060,0
+data/raw/imd/tmin_2015.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2015,2026-10-14T07:12:29Z,4aab466ad7c3df41d9d78b8f77a305555590959e2963de9e2d37d1dd1ea11e5c,1403060,0
+data/raw/imd/tmax_2018.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2018,2026-10-14T07:12:29Z,d3177ec1a2f39235834a7ab5fa5120866bb9106f1fc2c06d8eba0d5bcdf7e555,1403060,0
+data/raw/imd/tmin_2018.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2018,2026-10-14T07:12:30Z,aad48cb4bd39b8f9495b8cce50d228893bac7ef9b55b6f8c7526a82ebe0a2ea9,1403060,0
+data/raw/imd/tmin_2019.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2019,2026-10-14T07:12:30Z,5c188d132b748c454fda878216fd5d2e2c06e5fa313b7fb2231050c90306c147,1403060,0
+data/raw/imd/tmax_2019.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2019,2026-10-14T07:12:30Z,562086409f4db9ca32b6d554e2cb209926c4caf9892d7b5385195b254e0576ab,1403060,0
+data/raw/imd/tmin_2013.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2013,2026-10-14T07:12:30Z,e10e2fcc9a8ca6a6de8b8ccb3b20837a076bd4b45fd106175136e3ccbc9f9977,1403060,0
+data/raw/imd/tmin_2020.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2020,2026-10-14T07:12:30Z,2f3f6530b06eb24ae54612528011b97e1f6b38cacbe742fc51c1b3a8f3cf6be4,1406904,0
+data/raw/imd/tmin_2021.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2021,2026-10-14T07:12:30Z,b1f1a4c0246783c56b3f1117353aa167458e6f140c969ee7453b76cec830cd4d,1403060,0
+data/raw/imd/tmax_2021.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2021,2026-10-14T07:12:30Z,d869f0277dcc3b2038421f3a20a2ebf82cd7889dd553742577eda8f7603036dc,1403060,0
+data/raw/imd/tmax_2022.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2022,2026-10-14T07:12:30Z,b8340004e3c13e7b1b0a9ff14d03771bbfe048b64db92fb7e23260c2f52ca214,1403060,0
+data/raw/imd/tmin_2022.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2022,2026-10-14T07:12:30Z,59c9e294e2b8c59e58bd9ef241bc47604f83f54a2807398bb48137a92b5e8225,1403060,0
+data/raw/imd/tmax_2023.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2023,2026-10-14T07:12:30Z,3279af28be8f222970dc0a48cb9530228ca55ae136a26020291de59d618d982b,1403060,0
+data/raw/imd/tmin_2023.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2023,2026-10-14T07:12:30Z,d52d47893ff1286e433d21b91160cb39a5b8f39398c625a997eb48132891a45c,1403060,0
+data/raw/imd/tmax_2024.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2024,2026-10-14T07:12:30Z,de50b8732a3e0fd7dea29a9c5604ca78b5c02e78b8164fb20ad2f6e00ed4c017,1406904,0
+data/raw/imd/tmax_2020.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2020,2026-10-14T07:12:30Z,f77b8b50582c400eca0510a1738050ab10bf628b648f5a7a9e9d3c7842637ba8,1406904,0
+data/raw/imd/tmin_2024.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2024,2026-10-14T07:12:30Z,31bcc5cbaca7ccf8da69ec5e6801ad036214dce850c1c50fcda9f1af1e77addd,1406904,0
+data/raw/imd/tmax_2025.grd,https://imdpune.gov.in/cmpg/Griddata/maxtemp.php POST maxtemp=2025,2026-10-14T07:12:30Z,673775eafe685d180c5d7a19018287599697a3f6800332470ab27ca512bd4b88,1403060,0
+data/raw/imd/tmin_2025.grd,https://imdpune.gov.in/cmpg/Griddata/mintemp.php POST mintemp=2025,2026-10-14T07:12:30Z,371bc1866e4c3d9455902ed22ef6e9c66ceaf2dcad3d274f45768d2b81249258,1403060,0
+data/raw/imd/rain_1984.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=1984,2026-10-14T16:58:13Z,eaed86f9bfd2e65fd3bea9ceb32c4e067473b62b61d4c1594386ce6d9d606945,25495560,1
+data/raw/imd/rain_1983.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=1983,2026-10-14T16:58:13Z,bd24f975f5d2c64fe3f4062fceaa154e928a374e4e1ec25d389f86861cf2a92c,25425900,1
+data/raw/imd/rain_1982.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=1982,2026-10-14T16:58:13Z,0c5cd53892cbea7e66b030a8bf432c7095503137e35e75979124a9c581e9aa10,25425900,1
+data/raw/imd/rain_1981.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=1981,2026-10-14T16:58:13Z,78060465e12dacbf3de473045d72fd60a0dcc7a3278dfc48a0b54f5c13512f85,25425900,1
+data/raw/imd/rain_1986.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=1986,2026-10-14T16:58:13Z,73eb61027f0373e4140fea9a8195f99208fbe7c076fc9bdc0440e137ba4b320c,25425900,1
+data/raw/imd/rain_1988.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=1988,2026-10-14T16:58:13Z,34445bd00b098c85221114e490f707fa623958f48e66ebebdb877fb3e5c831c5,25495560,1
+data/raw/imd/rain_1987.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=1987,2026-10-14T16:58:13Z,a3cf9d4dd08ac5042d5d118baa88389deca25e7db78edb4a4fbc59cfe46e7aa4,25425900,1
+data/raw/imd/rain_1985.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=1985,2026-10-14T16:58:13Z,23119ee55f78cd4b0cd0007a308467c9b34087925700386325197fe38f4327ee,25425900,1
+data/raw/imd/rain_1991.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=1991,2026-10-14T16:58:13Z,ae11b700154013b3d629d911197a432ca30b883b8bf79d7b8b1e2d1ae187f82a,25425900,1
+data/raw/imd/rain_1992.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=1992,2026-10-14T16:58:14Z,5b8f542bd1ae1792025dc38eb67023327dc6f1af2f1122832e7128cba34cb4c7,25495560,1
+data/raw/imd/rain_1989.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=1989,2026-10-14T16:58:14Z,b41b0c095335638f2747f72960ed4e9518cc8b08cf4bde4db9ce3bf69f437d97,25425900,1
+data/raw/imd/rain_1990.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=1990,2026-10-14T16:58:14Z,405e89cc3c835b399e6f135d545225bc1a045a6fc0a47f0389f4c3d4ee86a074,25425900,1
+data/raw/imd/rain_1995.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=1995,2026-10-14T16:58:14Z,0b8f4b5884f6e9e51b8027a0727ea8c8a1cf94ef3bd7439d046a2787141d1302,25425900,1
+data/raw/imd/rain_1997.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=1997,2026-10-14T16:58:14Z,b1cb4b43da4434b833ad60e02ee63fd78734cd4b3d5eda9f21a9acfb2bb9bd44,25425900,1
+data/raw/imd/rain_1996.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=1996,2026-10-14T16:58:14Z,28ddc49f8af38bd9b6297f986a894d0a724cb6d9f00444ffd8daa4f9012baed1,25495560,1
+data/raw/imd/rain_1998.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=1998,2026-10-14T16:58:14Z,f481d8619e16438133899140a8d4bf40b552a2815f3f5ced28919f553d1b813a,25425900,1
+data/raw/imd/rain_1994.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=1994,2026-10-14T16:58:14Z,ea431a0940e329e7ca607885d475a5350a0810076ac5846eaa303faa46576e6b,25425900,1
+data/raw/imd/rain_1993.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=1993,2026-10-14T16:58:14Z,acf30d074c16b4404c3dccc2f4be6a4bb812eda06acc86f70161bea7d7b37a8e,25425900,1
+data/raw/imd/rain_2001.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2001,2026-10-14T16:58:14Z,83185ebbab190a95c87bee058f36835de5758c24908805f85f2b3394a127fd37,25425900,1
+data/raw/imd/rain_2002.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2002,2026-10-14T16:58:15Z,b138efce173261e6ede0ba06cbb90c1a21462222c44fd3dc46f6a85c24a1ca8b,25425900,1
+data/raw/imd/rain_2004.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2004,2026-10-14T16:58:15Z,8d671a7b4eeeb21802599d8b48ce34576093a2df46030ab2fac32228e62d4bc7,25495560,1
+data/raw/imd/rain_2005.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2005,2026-10-14T16:58:15Z,8e22a50a30c92d9cb948cbcce8faa678b49c00f881e2c0eca77a353fb6670bd2,25425900,1
+data/raw/imd/rain_1999.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=1999,2026-10-14T16:58:15Z,a13672034666d04bbaa25f2248acb78f711c9faf58e1d412dd389a14854dfa68,25425900,1
+data/raw/imd/rain_2006.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2006,2026-10-14T16:58:15Z,79d1d9acb4da5614dc00991c03c114fa9031fa4e3bca9e9e32150472043f4cba,25425900,1
+data/raw/imd/rain_2003.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2003,2026-10-14T16:58:15Z,5542e3441278325c038d7933fc294087afb1acc75cd8d37c51e76ce4d6462d08,25425900,1
+data/raw/imd/rain_2008.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2008,2026-10-14T16:58:15Z,8c22bbde0d4753cdb9c142536d9498b3b21b2cb3fdbe48da29a20951fb9d3799,25495560,1
+data/raw/imd/rain_2010.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2010,2026-10-14T16:58:15Z,1db12d8eb5a471d3623ff448bdd72a25a3afc577c0b979233083e0c183a143d0,25425900,1
+data/raw/imd/rain_2009.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2009,2026-10-14T16:58:15Z,1023548bcc409d95541e4b52f86ac37e7648cf2cd9c34ed42bf8ce0a45eb108e,25425900,1
+data/raw/imd/rain_2012.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2012,2026-10-14T16:58:15Z,3f007292029a212edde5ee1ee618242c8f2a64062d80e196d20f9576e8f77381,25495560,1
+data/raw/imd/rain_2011.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2011,2026-10-14T16:58:15Z,1f656dc6498b8bcb8423ed8713b4b8469c0d66771b67bd2e985a3071240ac67b,25425900,1
+data/raw/imd/rain_2000.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2000,2026-10-14T16:58:15Z,2f2b20a58c883e117467beb1767cd4bce4e517fef9d53f4b00318eea4ba2de25,25495560,1
+data/raw/imd/rain_2013.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2013,2026-10-14T16:58:16Z,81bbab9f686bcd0c487e52a4fb54e4623efea198e74a742df5159a0977a8a02b,25425900,1
+data/raw/imd/rain_2015.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2015,2026-10-14T16:58:16Z,72a9c97f58fb12d82d06ecdd821a9724865e48683c15a34d72f8804d244b9202,25425900,1
+data/raw/imd/rain_2014.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2014,2026-10-14T16:58:16Z,1e89531d9772acbdd2e83fa8bb8972ef09a52f0e4ec6adbeb408b1d98a167b22,25425900,1
+data/raw/imd/rain_2016.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2016,2026-10-14T16:58:16Z,7d47dd937eb68d3e64e77f20d40597eeebb4d5329704857f604c4c4618dbf838,25495560,1
+data/raw/imd/rain_2017.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2017,2026-10-14T16:58:16Z,dc9109fc3c4c2dbcf8eea97114fa53a814ce677a8e64b567389f7d3da076c23a,25425900,1
+data/raw/imd/rain_2019.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2019,2026-10-14T16:58:16Z,dfb714184e16624cd43af8e932e3245c0d6cf1bacd9556e2cf44d962c9733f3f,25425900,1
+data/raw/imd/rain_2018.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2018,2026-10-14T16:58:16Z,78ae74184b0ece2a9a03bb16cca6f7361abcae1e772ce3e6d685110b2af18c33,25425900,1
+data/raw/imd/rain_2020.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2020,2026-10-14T16:58:16Z,e19532760221e68711132c98f05cc3ceb7b399e55dbe9bd35b02589bbf2e46ff,25495560,1
+data/raw/imd/rain_2022.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2022,2026-10-14T16:58:16Z,9cd1654631ed918f55fbe12e08ef7c0593019c4a3399e695f0b0398283fcbb3e,25425900,1
+data/raw/imd/rain_2021.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2021,2026-10-14T16:58:16Z,7f5128e82aa6d362b165898f7f5902d5edd12cb8265c71e2304f89053d5a2678,25425900,1
+data/raw/imd/rain_2023.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2023,2026-10-14T16:58:16Z,f308b916a4a2a57a66ce9d4987c60bb7756041434baed31f4342122dc3800ced,25425900,1
+data/raw/imd/rain_2024.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2024,2026-10-14T16:58:17Z,09d3c89a084f13f3ec534170ce9d98fafc6ff8c29b87d1c83cc2fcd82b495601,25495560,1
+data/raw/imd/rain_2025.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2025,2026-10-14T16:58:17Z,b4fa5ffb389496c0fa7d5a468d1cb47e4db0bcabcd11be4f273c0e6cfa7d611d,25425900,1
+data/raw/imd/rain_2007.grd,https://imdpune.gov.in/cmpg/Griddata/rainfall.php POST rain=2007,2026-10-14T17:04:18Z,6056e795aaa11f261ad2c4c781f1c5fe303c9d05cfc8f0afabd47d2fc49c5da8,25425900,1
+data/external/imd_subdivision/Sub_Division_IMD_2017.csv,https://data.gov.in/sites/default/files/datafile/Sub_Division_IMD_2017.csv (data.gov.in resource: https://data.gov.in/resource/sub-divisional-monthly-rainfall-1901-2017; IMD Pune),2026-10-14T19:26:17Z,5d19d1517ef4b3aee4490635ca542d96f333b0c163e5da2da0aa1b14d923b9c4,445369,0
+data/external/imd_subdivision/IMD_district_rainfall_distribution_20261014.pdf,"https://mausam.imd.gov.in/Rainfall/DISTRICT_RAINFALL_DISTRIBUTION_COUNTRY_INDIA_cd.pdf (IMD Hydromet Division, district list grouped by met. subdivision; DAY 14-10-2026)",2026-10-14T19:29:43Z,84c114cd56bf63f50f252b6fcae0651a17404523d1e1e4c8943b76d468d26b3e,2991848,0
+data/raw/enso/oni.ascii.txt,https://www.cpc.ncep.noaa.gov/data/indices/oni.ascii.txt,2026-10-14T20:54:34Z,5d6fa3a2f857d916550d39c2c686e94cb942430195c82518e6a5d0f5ffbd0665,23025,0
+data/raw/enso/ersst5.nino.mth.91-20.ascii,https://www.cpc.ncep.noaa.gov/data/indices/ersst5.nino.mth.91-20.ascii,2026-10-14T20:54:36Z,bedcd0683c07f7ccb2ae358a90cb39d57413dcc8881027e0c30a1811f6d58012,67087,0
+data/raw/enso/dmi.had.long.data,https://psl.noaa.gov/gcos_wgsp/Timeseries/Data/dmi.had.long.data,2026-10-14T20:54:38Z,42c1000e221addacac4451b8b9ddfbc5ee732b99ee69b0be5105e69ebe881e05,19861,0
+data/raw/enso/RONI.ascii.txt,https://www.cpc.ncep.noaa.gov/data/indices/RONI.ascii.txt,2026-10-14T20:54:39Z,24d79a53c8c30aaf32200c08447291655fc1d693f11165793ba6d3aa378d98ff,14736,0
+data/raw/outcomes/rgi_proj2020/Report_Population_Projection_2019.pdf,https://nhm.gov.in/New_Updates_2018/Report_Population_Projection_2019.pdf,2026-10-14T20:57:50Z,9a9031c9c75d609e03ab94ce0ac6115cb9d8a9ab82d1b18a47b78e90ae01331b,11543351,0
+data/raw/outcomes/census_a02/00_A2_India.xls,https://web.archive.org/web/2024id_/https://censusindia.gov.in/nada/index.php/catalog/43333/download/47001/00%20A%202-India.xls,2026-10-14T21:03:59Z,56023511381e6fd632242f9a1a28c9faca5c403314bc34da78393534fbd23afc,100352,0
+data/raw/outcomes/mal_upto2011/Malaria-situation-upto2011(P).pdf,https://ncvbdc.mohfw.gov.in/Doc/Malaria-situation-upto2011(P).pdf,2026-10-14T21:07:34Z,d0c5f688e8b8c488f6ab9ead9916ec5e35648e1cf16f8c0d8ee820eb62f9941e,7659,0
+data/raw/outcomes/mal_sit_1519/Malaria-Situation-Oct19.pdf,https://ncvbdc.mohfw.gov.in/WriteReadData/l892s/Malaria-Situation-Oct19.pdf,2026-10-14T21:07:40Z,a76de9d419f14fd35287a65c2219c5fc72a608c1cebe7041065b7d142788831d,76268,0
+data/raw/outcomes/mal_ar_2010/Malaria-Annual-Report-2010.pdf,https://ncvbdc.mohfw.gov.in/Doc/Malaria-Annual-Report-2010.pdf,2026-10-14T21:08:59Z,cf0ad56b97057841c36d382a91845821e8bee5f26efe6e5e6c532cb629450a24,232172,0
+data/raw/outcomes/mal_ar_2011/Malaria-Annual-Report-2011.pdf,https://ncvbdc.mohfw.gov.in/Doc/Malaria-Annual-Report-2011.pdf,2026-10-14T21:08:59Z,686819c96294c9539e2eee246a585db560192aea776730a505a3a20946940cf3,232204,0
+data/raw/outcomes/mal_ar_2012/Malaria-Annual-Report-2012.pdf,https://ncvbdc.mohfw.gov.in/Doc/Malaria-Annual-Report-2012.pdf,2026-10-14T21:09:00Z,ac7ad7335917f57a38e4d034942fb72ff290a1a0640345ca75b08a6eb3f953aa,234046,0
+data/raw/outcomes/mal_ar_2013/Malaria-Annual-Report-2013.pdf,https://ncvbdc.mohfw.gov.in/Doc/Malaria-Annual-Report-2013.pdf,2026-10-14T21:09:01Z,98a6ba7e419df6ef8a9f72a3988cdc90224ab7cd3ec134762fe4100b5bdbea8a,235204,0
+data/raw/outcomes/mal_ar_2014/Malaria-Annual-Report-2014.pdf,https://ncvbdc.mohfw.gov.in/Doc/Malaria-Annual-Report-2014.pdf,2026-10-14T21:09:01Z,119bb6380dcbbbf7a69369339b7bb113102887ee752a14083c00dd0235228da2,237469,0
+data/raw/outcomes/mal_ar_2015/Malaria-Annual-Report-2015.pdf,https://ncvbdc.mohfw.gov.in/Doc/Malaria-Annual-Report-2015.pdf,2026-10-14T21:09:02Z,8beb7b6d7a4a4177142e3162994f80e5d9730813e3f7e3f7a6d012cd47b069c5,236870,0
+data/raw/outcomes/mal_ar_2016/Malaria-Annual-Report-2016.pdf,https://ncvbdc.mohfw.gov.in/Doc/Malaria-Annual-Report-2016.pdf,2026-10-14T21:09:03Z,f693c19f224f681faafd839a731b0a616aee97dee6dbf563e12bb8c1d9900e91,236804,0
+data/raw/outcomes/mal_ar_2017/Annual-Report-2017.pdf,https://ncvbdc.mohfw.gov.in/Doc/Annual-Report-2017.pdf,2026-10-14T21:09:12Z,4622637c4bc6561ffc7f0fa5f4b66c9dbcbe33d0f0e4041c5ab47a85bde5fcab,793890,0
+data/raw/outcomes/mal_sit_2022/Malaria_Situation_India_from_2022.pdf,https://ncvbdc.mohfw.gov.in/WriteReadData/l892s/25134454981790683579.pdf,2026-10-14T21:26:09Z,a2a3808e4e015465aa893983cc01d5058b1fd4b4fa9eac9811ef9600a766053f,193525,0
+data/raw/outcomes/mal_ar_2019/Malaria_Annual_Report_2019.pdf,https://ncvbdc.mohfw.gov.in/Doc/Malaria-AnnualReport-2019.pdf,2026-10-14T21:26:26Z,0ca92fe55fc6114497464215dcf1635b72d29bf07ed7d624206c878a93861ed0,229641,0
+data/raw/outcomes/mal_ar_2020/Malaria_Annual_Report_2020.pdf,https://ncvbdc.mohfw.gov.in/Doc/Malaria-AnnualReport-2020.pdf,2026-10-14T21:26:30Z,4274a770a146e571ab6fc9e99cdf6cb357aad4cbc5bf7d325f9076a2f6010210,272450,0
+data/raw/outcomes/mal_ar_2021/Malaria_Annual_Report_2021.pdf,https://ncvbdc.mohfw.gov.in/Doc/Malaria-AnnualReport-2021.pdf,2026-10-14T21:26:35Z,8d0febc38c13329a2a33b2e3fef6090e5663a9a9af41aa564ced9d8b7bca1726,337611,0
+data/raw/outcomes/mal_ar_2022/Malaria_Annual_Report_2022.pdf,https://ncvbdc.mohfw.gov.in/Doc/Malaria-AnnualReport-2022.pdf,2026-10-14T21:26:42Z,3736738ca183938947f6206fd366272c0d3bbe4f59d89ee0ce924fdd08cfafd3,275842,0
+data/raw/outcomes/mal_ar_2023/Malaria_Annual_Report_2023.pdf,https://ncvbdc.mohfw.gov.in/Doc/Malaria-AnnualReport-2023.pdf,2026-10-14T21:26:48Z,b9acc1568317fc4cfb107f2ab8a0d3f16ced77cfa7ddfc5daf35be1aa1db5f2d,261114,0
+data/raw/outcomes/mal_ar_2024/Malaria_Annual_Report_2024.pdf,https://ncvbdc.mohfw.gov.in/Doc/Malaria-Annual-Report-2024.pdf,2026-10-14T21:26:52Z,ac15c6af6654d49ba857df54a766ab36cba690d08ab25051f3bee2c78536baab,323707,0
+data/raw/outcomes/mal_ar_2025/Malaria_Annual_Report_2025.pdf,https://ncvbdc.mohfw.gov.in/WriteReadData/l892s/87226817751785920429.pdf,2026-10-14T21:27:00Z,8e322071213338eaad7033c772a807fda757d934dfb381d2ad6a2459c4ca3b10,250271,0
+data/raw/outcomes/mal_ar_2018/Malaria_Annual_Report_2018.pdf,https://ncvbdc.mohfw.gov.in/Doc/Annual-Report-2018.pdf,2026-10-14T21:28:32Z,eac520f386bffa9bb8768a430482e690f6ccc64c1a9bbf97e0895cca7abffd3e,773696,0
+data/raw/outcomes/mal_sit_0206/Malaria%20Situation.pdf,https://ncvbdc.mohfw.gov.in/Doc/Malaria%20Situation.pdf,2026-10-14T21:38:18Z,545c11a4e0495b907a412ed62cc6fdda4056c64a7b9350f710ab33257011a8ed,8503,1
+data/raw/outcomes/mal_sit_0206/Malaria Situation.pdf,https://ncvbdc.mohfw.gov.in/Doc/Malaria%20Situation.pdf,2026-10-14T22:27:14Z,545c11a4e0495b907a412ed62cc6fdda4056c64a7b9350f710ab33257011a8ed,8503,0
+data/raw/outcomes/den_nvbdcp/den-cd_2013.html,https://web.archive.org/web/20131115224117/http://nvbdcp.gov.in/den-cd.html (copy retrieved by Phase 2 research probe 2026-10-15),2026-10-14T23:04:18Z,8fb658999fd34cb9593c5522fae38792f15c3d0df790d8e08921854b99eb0db7,29637,0
+data/raw/outcomes/den_nhp2018/National-health-2018-chapter3_0.pdf,https://cbhidghs.mohfw.gov.in/sites/default/files/NHP/National-health-2018-chapter3_0.pdf,2026-10-14T23:07:07Z,bb75f8f8b976d20053752caf47c02d52b219bff6022d854a91ef776c6e0dcee8,3308235,0
+data/raw/outcomes/den_ncvbdc/Dengue-Cases-deaths-2021-2026-till-April.pdf,https://ncvbdc.mohfw.gov.in/Doc/Dengue-Cases-deaths-2021-2026-till-April.pdf,2026-10-14T23:07:25Z,6710130ff7d224e2cb0dfe4a2863da039312e67dcbf3e2888c0fcbed8414cc12,78319,0
+data/raw/outcomes/den_ar1415/Annual-report-NVBDCP-2014-15.pdf,https://ncvbdc.mohfw.gov.in/Doc/Annual-report-NVBDCP-2014-15.pdf,2026-10-14T23:34:12Z,df7b6080af233e60131e8f1db39ea1e601ae45db4495c74802b3b4f99132a677,1555284,0
+data/raw/outcomes/den_nhp2019/National-health-2019.pdf,https://cbhidghs.mohfw.gov.in/sites/default/files/NHP/National-health-2019.pdf,2026-10-14T23:34:15Z,a02cf37542f7e451b4441733ba946983d4e6860f9fc8b2d5119bd7e38e0a25da,4759317,0
+data/raw/outcomes/den_nhp2021/National-health-2021.pdf,https://cbhidghs.mohfw.gov.in/sites/default/files/NHP/National-health-2021.pdf,2026-10-14T23:34:20Z,06b6c02b83073a28abb5f8e53f34e81eaef221c80ee83768201b508c363d782c,7980921,0
+data/raw/outcomes/den_nhp2023/NHP-2023-Last-Final.pdf,https://cbhidghs.mohfw.gov.in/sites/default/files/NHP/NHP-2023-Last-Final.pdf,2026-10-14T23:34:28Z,360a06a7824f885bcde81529771694103fb4a260ebff41891b08b5243be35296,9640994,0
+data/raw/outcomes/den_nvbdcp12/den-cd_2012.html,https://web.archive.org/web/2012id_/http://nvbdcp.gov.in/den-cd.html,2026-10-14T23:35:11Z,d3c0c34bca2b595bbf42025c387a0d83a95491188feafb0a385e54ea7f9799f4,28231,0

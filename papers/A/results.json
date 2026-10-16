@@ -1,0 +1,1148 @@
+{
+  "A.abstract.conclusion_sentence": {
+    "value": "A higher ONI was associated with more same-year malaria but added no forecast skill beyond local weather.",
+    "display": "A higher ONI was associated with more same-year malaria but added no forecast skill beyond local weather.",
+    "script": "models/A/run_all.R",
+    "description": "Author-approved interpretation sentence written from the verdict keys and the C/B result (not computed)"
+  },
+  "A.conclusion.sentence": {
+    "value": "Malaria incidence in Indian states was modestly higher in years with a warmer June–September ONI, without a clear rebound in the following year or a detectable difference in sensitivity between states. Neither local rainfall and temperature nor ONI materially improved out-of-sample malaria predictions over trend, testing effort and previous-year cases.",
+    "display": "Malaria incidence in Indian states was modestly higher in years with a warmer June–September ONI, without a clear rebound in the following year or a detectable difference in sensitivity between states. Neither local rainfall and temperature nor ONI materially improved out-of-sample malaria predictions over trend, testing effort and previous-year cases.",
+    "script": "models/A/run_all.R",
+    "description": "Author-approved principal conclusion written from the verdict keys and the C/B result (not computed)"
+  },
+  "A.data.dengue_deaths_total": {
+    "value": 3961,
+    "display": "3,961",
+    "script": "models/A/run_all.R",
+    "description": "Dengue deaths over dengue primary-model unit-years (non-NaN)"
+  },
+  "A.data.dengue_inc_2007": {
+    "value": 0.490386552933637,
+    "display": "0.5",
+    "script": "models/A/run_all.R",
+    "description": "National dengue incidence 2007 per 100,000 (units with non-NaN cases)"
+  },
+  "A.data.dengue_inc_2025": {
+    "value": 9.29263280583749,
+    "display": "9.3",
+    "script": "models/A/run_all.R",
+    "description": "National dengue incidence 2025 per 100,000 (units with non-NaN cases)"
+  },
+  "A.data.dengue_n_missing_counts": {
+    "value": 16,
+    "display": "16",
+    "script": "models/A/run_all.R",
+    "description": "Dengue panel unit-years (of 646) with cases NaN"
+  },
+  "A.data.dengue_n_unit_years": {
+    "value": 630,
+    "display": "630",
+    "script": "models/A/run_all.R",
+    "description": "Unit-years in the dengue primary model"
+  },
+  "A.data.dengue_total_cases": {
+    "value": 2079134,
+    "display": "2,079,134",
+    "script": "models/A/run_all.R",
+    "description": "Sum of dengue cases over dengue primary-model unit-years"
+  },
+  "A.data.el_nino_developing_years_dengue": {
+    "value": "3 (2009, 2015, 2023)",
+    "display": "3 (2009, 2015, 2023)",
+    "script": "models/A/run_all.R",
+    "description": "El Nino-developing years 2007-2025 (enso_annual.csv)"
+  },
+  "A.data.el_nino_developing_years_malaria": {
+    "value": "5 (2002, 2004, 2009, 2015, 2023)",
+    "display": "5 (2002, 2004, 2009, 2015, 2023)",
+    "script": "models/A/run_all.R",
+    "description": "El Nino-developing years 2002-2025 (enso_annual.csv)"
+  },
+  "A.data.malaria_aber_median_iqr": {
+    "value": 10.4933965452355,
+    "display": "10.5 (5.0–14.3)",
+    "script": "models/A/run_all.R",
+    "description": "Median (IQR) unit ABER (%) over primary-model unit-years"
+  },
+  "A.data.malaria_api_2002": {
+    "value": 1.75866127736737,
+    "display": "1.76",
+    "script": "models/A/run_all.R",
+    "description": "National malaria incidence 2002 per 1,000 (units with non-NaN cases)"
+  },
+  "A.data.malaria_api_2025": {
+    "value": 0.165779126530103,
+    "display": "0.17",
+    "script": "models/A/run_all.R",
+    "description": "National malaria incidence 2025 per 1,000 (units with non-NaN cases)"
+  },
+  "A.data.malaria_deaths_total": {
+    "value": 12287,
+    "display": "12,287",
+    "script": "models/A/run_all.R",
+    "description": "Malaria deaths over primary-model unit-years (non-NaN)"
+  },
+  "A.data.malaria_n_dropped": {
+    "value": 34,
+    "display": "34",
+    "script": "models/A/run_all.R",
+    "description": "Malaria unit-years dropped by complete_rows for the primary model (list in Supplementary Table S2)"
+  },
+  "A.data.malaria_n_missing_counts": {
+    "value": 34,
+    "display": "34",
+    "script": "models/A/run_all.R",
+    "description": "Malaria panel unit-years (of 816) with cases NaN"
+  },
+  "A.data.malaria_n_unit_years": {
+    "value": 782,
+    "display": "782",
+    "script": "models/A/run_all.R",
+    "description": "Unit-years in the malaria primary model (fit_nb n)"
+  },
+  "A.data.malaria_pf_share": {
+    "value": 52.6005522963831,
+    "display": "52.6",
+    "script": "models/A/run_all.R",
+    "description": "Pf share of malaria cases (%), unit-years with both non-NaN"
+  },
+  "A.data.malaria_total_cases": {
+    "value": 23114763,
+    "display": "23,114,763",
+    "script": "models/A/run_all.R",
+    "description": "Sum of malaria cases over primary-model unit-years"
+  },
+  "A.data.oni_jjas_max": {
+    "value": 1.595,
+    "display": "+1.59",
+    "script": "models/A/run_all.R",
+    "description": "Maximum JJAS ONI 2002-2025"
+  },
+  "A.data.oni_jjas_max_dengue": {
+    "value": 1.595,
+    "display": "+1.59",
+    "script": "models/A/run_all.R",
+    "description": "Maximum JJAS ONI 2007-2025"
+  },
+  "A.data.oni_jjas_min": {
+    "value": -1.0775,
+    "display": "−1.08",
+    "script": "models/A/run_all.R",
+    "description": "Minimum JJAS ONI 2002-2025"
+  },
+  "A.data.oni_jjas_min_dengue": {
+    "value": -1.0775,
+    "display": "−1.08",
+    "script": "models/A/run_all.R",
+    "description": "Minimum JJAS ONI 2007-2025"
+  },
+  "A.dengue.h2.lrt_p": {
+    "value": 0.0512268412033539,
+    "display": "p = 0.051",
+    "script": "models/A/run_all.R",
+    "description": "Dengue random-slope LRT p (chi-square 11.01 on 5 df)"
+  },
+  "A.dengue.h2.sd_slope_lag0": {
+    "value": 0.401382830811409,
+    "display": "0.401",
+    "script": "models/A/run_all.R",
+    "description": "Dengue unit slope SD"
+  },
+  "A.dengue.h2.sd_slope_lag1": {
+    "value": 0.0493011657429526,
+    "display": "0.049",
+    "script": "models/A/run_all.R",
+    "description": "Dengue unit slope SD"
+  },
+  "A.dengue.loeo.B.coverage": {
+    "value": 0.941935483870968,
+    "display": "94.2%",
+    "script": "models/A/run_all.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model B (n_draws 1000, seed 20261018)"
+  },
+  "A.dengue.loeo.B.logscore": {
+    "value": 8.27249513729441,
+    "display": "8.272",
+    "script": "models/A/run_all.R",
+    "description": "NB log score, Model B"
+  },
+  "A.dengue.loeo.B.male": {
+    "value": 1.35871505154405,
+    "display": "1.359",
+    "script": "models/A/run_all.R",
+    "description": "MALE, Model B"
+  },
+  "A.dengue.loeo.B.rmse": {
+    "value": 1.80575040983164,
+    "display": "1.806",
+    "script": "models/A/run_all.R",
+    "description": "RMSE log1p, Model B"
+  },
+  "A.dengue.loeo.C.coverage": {
+    "value": 0.941935483870968,
+    "display": "94.2%",
+    "script": "models/A/run_all.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model C (n_draws 1000, seed 20261018)"
+  },
+  "A.dengue.loeo.C.logscore": {
+    "value": 8.25702937063418,
+    "display": "8.257",
+    "script": "models/A/run_all.R",
+    "description": "NB log score, Model C"
+  },
+  "A.dengue.loeo.C.male": {
+    "value": 1.3767041846923,
+    "display": "1.377",
+    "script": "models/A/run_all.R",
+    "description": "MALE, Model C"
+  },
+  "A.dengue.loeo.C.rmse": {
+    "value": 1.77867422175858,
+    "display": "1.779",
+    "script": "models/A/run_all.R",
+    "description": "RMSE log1p, Model C"
+  },
+  "A.dengue.loeo.c_vs_b.male_ratio": {
+    "value": 1.01323981295991,
+    "display": "1.013",
+    "script": "models/A/run_all.R",
+    "description": "MALE ratio Model C / Model B, same rows"
+  },
+  "A.dengue.loeo.nested.common_n": {
+    "value": 310,
+    "display": "310",
+    "script": "models/A/run_all.R",
+    "description": "LOEO scored unit-years common to A, B, C"
+  },
+  "A.dengue.loeo.nested.n_folds": {
+    "value": 4,
+    "display": "4",
+    "script": "models/A/run_all.R",
+    "description": "LOEO folds with scored rows in the nested comparison (lag buffer, ruling P6)"
+  },
+  "A.dengue.primary.irr_covid2020_21": {
+    "value": 0.315941850198512,
+    "display": "0.32 (95% CI 0.20–0.49)",
+    "script": "models/A/run_all.R",
+    "description": "Dengue IRR, COVID2020_21"
+  },
+  "A.dengue.primary.irr_oni_lag0": {
+    "value": 1.2812952127443,
+    "display": "1.28 (95% CI 1.01–1.62)",
+    "script": "models/A/run_all.R",
+    "description": "Dengue IRR per 1 C oni_jjas"
+  },
+  "A.dengue.primary.irr_oni_lag1": {
+    "value": 1.13301941805853,
+    "display": "1.13 (95% CI 0.93–1.38)",
+    "script": "models/A/run_all.R",
+    "description": "Dengue IRR per 1 C oni_jjas_lag1"
+  },
+  "A.dengue.primary.n": {
+    "value": 630,
+    "display": "630",
+    "script": "models/A/run_all.R",
+    "description": "Unit-years in the dengue primary model"
+  },
+  "A.dengue.primary.n_units": {
+    "value": 34,
+    "display": "34",
+    "script": "models/A/run_all.R",
+    "description": "Units, dengue model"
+  },
+  "A.dengue.primary.re_used": {
+    "value": "us",
+    "display": "correlated random intercepts and slopes",
+    "script": "models/A/run_all.R",
+    "description": "Dengue random-effect structure used (attempts: us)"
+  },
+  "A.dengue.roll.B.coverage": {
+    "value": 0.9164265129683,
+    "display": "91.6%",
+    "script": "models/A/run_all.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model B (n_draws 1000, seed 20261019)"
+  },
+  "A.dengue.roll.B.logscore": {
+    "value": 9.69285871650306,
+    "display": "9.693",
+    "script": "models/A/run_all.R",
+    "description": "NB log score, Model B"
+  },
+  "A.dengue.roll.B.male": {
+    "value": 1.59899410154115,
+    "display": "1.599",
+    "script": "models/A/run_all.R",
+    "description": "MALE, Model B"
+  },
+  "A.dengue.roll.B.rmse": {
+    "value": 1.99258712726062,
+    "display": "1.993",
+    "script": "models/A/run_all.R",
+    "description": "RMSE log1p, Model B"
+  },
+  "A.dengue.roll.C.coverage": {
+    "value": 0.92507204610951,
+    "display": "92.5%",
+    "script": "models/A/run_all.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model C (n_draws 1000, seed 20261019)"
+  },
+  "A.dengue.roll.C.logscore": {
+    "value": 13.8145630646255,
+    "display": "13.815",
+    "script": "models/A/run_all.R",
+    "description": "NB log score, Model C"
+  },
+  "A.dengue.roll.C.male": {
+    "value": 1.6960482685969,
+    "display": "1.696",
+    "script": "models/A/run_all.R",
+    "description": "MALE, Model C"
+  },
+  "A.dengue.roll.C.rmse": {
+    "value": 2.12803298585179,
+    "display": "2.128",
+    "script": "models/A/run_all.R",
+    "description": "RMSE log1p, Model C"
+  },
+  "A.dengue.roll.c_vs_b.male_ratio": {
+    "value": 1.06069701380524,
+    "display": "1.061",
+    "script": "models/A/run_all.R",
+    "description": "MALE ratio Model C / Model B, same rows"
+  },
+  "A.dengue.roll.common_n": {
+    "value": 347,
+    "display": "347",
+    "script": "models/A/run_all.R",
+    "description": "Rolling-origin scored unit-years common to A, B, C"
+  },
+  "A.dengue.roll.n_origins": {
+    "value": 11,
+    "display": "11",
+    "script": "models/A/run_all.R",
+    "description": "Rolling-origin splits scored"
+  },
+  "A.malaria.asym.irr_neg_lag0": {
+    "value": 1.12442649461202,
+    "display": "1.12 (95% CI 0.89–1.42)",
+    "script": "models/A/run_all.R",
+    "description": "IRR per 1 C of pmin(oni_jjas, 0); structure diag"
+  },
+  "A.malaria.asym.irr_neg_lag1": {
+    "value": 1.11614329121446,
+    "display": "1.12 (95% CI 0.90–1.38)",
+    "script": "models/A/run_all.R",
+    "description": "IRR per 1 C of pmin(oni_jjas_lag1, 0); structure diag"
+  },
+  "A.malaria.asym.irr_pos_lag0": {
+    "value": 1.15299019775391,
+    "display": "1.15 (95% CI 0.95–1.39)",
+    "script": "models/A/run_all.R",
+    "description": "IRR per 1 C of pmax(oni_jjas, 0); structure diag"
+  },
+  "A.malaria.asym.irr_pos_lag1": {
+    "value": 1.02824979703929,
+    "display": "1.03 (95% CI 0.86–1.23)",
+    "script": "models/A/run_all.R",
+    "description": "IRR per 1 C of pmax(oni_jjas_lag1, 0); structure diag"
+  },
+  "A.malaria.h1.verdict": {
+    "value": "not consistent with",
+    "display": "not consistent with",
+    "script": "models/A/run_all.R",
+    "description": "H1 rule: lag-1 IRR lower 95% limit > 1"
+  },
+  "A.malaria.h2.lrt_chisq": {
+    "value": -1.37697679747362e-06,
+    "display": "0.00",
+    "script": "models/A/run_all.R",
+    "description": "LRT statistic, primary structure vs random intercepts"
+  },
+  "A.malaria.h2.lrt_df": {
+    "value": 2,
+    "display": "2",
+    "script": "models/A/run_all.R",
+    "description": "LRT degrees of freedom"
+  },
+  "A.malaria.h2.lrt_p": {
+    "value": 1,
+    "display": "p = 1.000",
+    "script": "models/A/run_all.R",
+    "description": "LRT p (naive chi-square reference; conservative at the boundary)"
+  },
+  "A.malaria.h2.sd_slope_lag0": {
+    "value": 6.576202825059e-05,
+    "display": "0.000",
+    "script": "models/A/run_all.R",
+    "description": "SD of the unit random slope on oni_jjas (log-rate per C), structure diag"
+  },
+  "A.malaria.h2.sd_slope_lag1": {
+    "value": 4.93818680204032e-05,
+    "display": "0.000",
+    "script": "models/A/run_all.R",
+    "description": "SD of the unit random slope on oni_jjas_lag1 (log-rate per C), structure diag"
+  },
+  "A.malaria.h2.verdict": {
+    "value": "not supported",
+    "display": "not supported",
+    "script": "models/A/run_all.R",
+    "description": "H2 rule: LRT p < 0.05"
+  },
+  "A.malaria.index.best_text": {
+    "value": "oni;oni;oni",
+    "display": "ONI had the lowest out-of-sample error in both schemes and the lowest AIC",
+    "script": "models/A/run_all.R",
+    "description": "Index with the lowest LOEO MALE, rolling-origin MALE and AIC (Supplementary Table S4)"
+  },
+  "A.malaria.iod.irr_interaction_lag0": {
+    "value": 0.728040239001621,
+    "display": "0.73 (95% CI 0.46–1.15)",
+    "script": "models/A/run_all.R",
+    "description": "IRR for oni_jjas x dmi_jjas; structure diag"
+  },
+  "A.malaria.iod.irr_interaction_lag1": {
+    "value": 0.867264747241595,
+    "display": "0.87 (95% CI 0.58–1.29)",
+    "script": "models/A/run_all.R",
+    "description": "IRR for oni_jjas_lag1 x dmi_jjas_lag1; structure diag"
+  },
+  "A.malaria.loeo.A.coverage": {
+    "value": 0.923076923076923,
+    "display": "92.3%",
+    "script": "models/A/run_all.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model A (n_draws 1000, seed 20261016)"
+  },
+  "A.malaria.loeo.A.logscore": {
+    "value": 9.03004351509925,
+    "display": "9.030",
+    "script": "models/A/run_all.R",
+    "description": "NB log score, Model A"
+  },
+  "A.malaria.loeo.A.male": {
+    "value": 0.482369337970366,
+    "display": "0.482",
+    "script": "models/A/run_all.R",
+    "description": "MALE, Model A"
+  },
+  "A.malaria.loeo.A.rmse": {
+    "value": 0.643770727015225,
+    "display": "0.644",
+    "script": "models/A/run_all.R",
+    "description": "RMSE log1p, Model A"
+  },
+  "A.malaria.loeo.B.coverage": {
+    "value": 0.920673076923077,
+    "display": "92.1%",
+    "script": "models/A/run_all.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model B (n_draws 1000, seed 20261016)"
+  },
+  "A.malaria.loeo.B.logscore": {
+    "value": 9.01510421080806,
+    "display": "9.015",
+    "script": "models/A/run_all.R",
+    "description": "NB log score, Model B"
+  },
+  "A.malaria.loeo.B.male": {
+    "value": 0.47688044125021,
+    "display": "0.477",
+    "script": "models/A/run_all.R",
+    "description": "MALE, Model B"
+  },
+  "A.malaria.loeo.B.rmse": {
+    "value": 0.63843480950994,
+    "display": "0.638",
+    "script": "models/A/run_all.R",
+    "description": "RMSE log1p, Model B"
+  },
+  "A.malaria.loeo.C.coverage": {
+    "value": 0.923076923076923,
+    "display": "92.3%",
+    "script": "models/A/run_all.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model C (n_draws 1000, seed 20261016)"
+  },
+  "A.malaria.loeo.C.logscore": {
+    "value": 9.0156618956297,
+    "display": "9.016",
+    "script": "models/A/run_all.R",
+    "description": "NB log score, Model C"
+  },
+  "A.malaria.loeo.C.male": {
+    "value": 0.487482248540551,
+    "display": "0.487",
+    "script": "models/A/run_all.R",
+    "description": "MALE, Model C"
+  },
+  "A.malaria.loeo.C.rmse": {
+    "value": 0.644877568090315,
+    "display": "0.645",
+    "script": "models/A/run_all.R",
+    "description": "RMSE log1p, Model C"
+  },
+  "A.malaria.loeo.c_vs_b.logscore_diff": {
+    "value": 0.00055768482164531,
+    "display": "0.001",
+    "script": "models/A/run_all.R",
+    "description": "Mean log score, Model C minus Model B"
+  },
+  "A.malaria.loeo.c_vs_b.male_ratio": {
+    "value": 1.02223158337664,
+    "display": "1.022",
+    "script": "models/A/run_all.R",
+    "description": "MALE ratio Model C / Model B, same rows"
+  },
+  "A.malaria.loeo.c_vs_b.n_folds_better": {
+    "value": 1,
+    "display": "1 of 6",
+    "script": "models/A/run_all.R",
+    "description": "LOEO folds with Model C MALE < Model B MALE"
+  },
+  "A.malaria.loeo.nested.common_n": {
+    "value": 416,
+    "display": "416",
+    "script": "models/A/run_all.R",
+    "description": "LOEO scored unit-years common to A, B, C"
+  },
+  "A.malaria.loeo.nested.n_folds": {
+    "value": 6,
+    "display": "6",
+    "script": "models/A/run_all.R",
+    "description": "LOEO folds with scored rows in the nested comparison (lag buffer, ruling P6)"
+  },
+  "A.malaria.loeo.primary.male_ratio": {
+    "value": 1.00555597205545,
+    "display": "1.006",
+    "script": "models/A/run_all.R",
+    "description": "LOEO MALE ratio, primary / same model without ONI terms (7 folds)"
+  },
+  "A.malaria.med.n": {
+    "value": 732,
+    "display": "732",
+    "script": "models/A/run_all.R",
+    "description": "Unit-years in the mediation models (minimum of the six; all in Table S2)"
+  },
+  "A.malaria.med.rain.lag0.a": {
+    "value": -9.11119793486858,
+    "display": "−9.111",
+    "script": "models/A/run_all.R",
+    "description": "a-path, rain_jjas_dep_pct on oni_jjas"
+  },
+  "A.malaria.med.rain.lag0.b": {
+    "value": 0.000902801497932622,
+    "display": "0.0009",
+    "script": "models/A/run_all.R",
+    "description": "b-path, rain_jjas_dep_pct"
+  },
+  "A.malaria.med.rain.lag0.indirect": {
+    "value": -0.00822560314355996,
+    "display": "−0.008 (95% CI −0.053 to 0.034)",
+    "script": "models/A/run_all.R",
+    "description": "Indirect effect a*b, cluster bootstrap percentile CI (B = 1000, 1000 ok, seed 20261115)"
+  },
+  "A.malaria.med.rain.lag0.prop": {
+    "value": -0.0644949208071502,
+    "display": "not estimable",
+    "script": "models/A/run_all.R",
+    "description": "Proportion mediated indirect/c_total (prop_flag = opposite_signs; c_total 0.1275, bootstrap CI 0.0567 to 0.2005)"
+  },
+  "A.malaria.med.rain.lag1.a": {
+    "value": -9.01493359207312,
+    "display": "−9.015",
+    "script": "models/A/run_all.R",
+    "description": "a-path, rain_jjas_dep_pct_lag1 on oni_jjas_lag1"
+  },
+  "A.malaria.med.rain.lag1.b": {
+    "value": -0.00146901567867227,
+    "display": "−0.0015",
+    "script": "models/A/run_all.R",
+    "description": "b-path, rain_jjas_dep_pct_lag1"
+  },
+  "A.malaria.med.rain.lag1.indirect": {
+    "value": 0.0132430787889447,
+    "display": "0.013 (95% CI −0.031 to 0.048)",
+    "script": "models/A/run_all.R",
+    "description": "Indirect effect a*b, cluster bootstrap percentile CI (B = 1000, 1000 ok, seed 20261215)"
+  },
+  "A.malaria.med.rain.lag1.prop": {
+    "value": 0.24968542699432,
+    "display": "25% (95% CI −70% to 218%)",
+    "script": "models/A/run_all.R",
+    "description": "Proportion mediated indirect/c_total (prop_flag = ok; c_total 0.0530, bootstrap CI 0.0030 to 0.1129)"
+  },
+  "A.malaria.med.spi3.lag0.a": {
+    "value": -0.301434168723125,
+    "display": "−0.301",
+    "script": "models/A/run_all.R",
+    "description": "a-path, spi3_sep on oni_jjas"
+  },
+  "A.malaria.med.spi3.lag0.b": {
+    "value": 0.041343717791751,
+    "display": "0.0413",
+    "script": "models/A/run_all.R",
+    "description": "b-path, spi3_sep"
+  },
+  "A.malaria.med.spi3.lag0.indirect": {
+    "value": -0.0124624092044799,
+    "display": "−0.012 (95% CI −0.043 to 0.019)",
+    "script": "models/A/run_all.R",
+    "description": "Indirect effect a*b, cluster bootstrap percentile CI (B = 1000, 1000 ok, seed 20261315)"
+  },
+  "A.malaria.med.spi3.lag0.prop": {
+    "value": -0.0977146697550708,
+    "display": "not estimable",
+    "script": "models/A/run_all.R",
+    "description": "Proportion mediated indirect/c_total (prop_flag = opposite_signs; c_total 0.1275, bootstrap CI 0.0558 to 0.2030)"
+  },
+  "A.malaria.med.spi3.lag1.a": {
+    "value": -0.290580573469137,
+    "display": "−0.291",
+    "script": "models/A/run_all.R",
+    "description": "a-path, spi3_sep_lag1 on oni_jjas_lag1"
+  },
+  "A.malaria.med.spi3.lag1.b": {
+    "value": 0.011077678299371,
+    "display": "0.0111",
+    "script": "models/A/run_all.R",
+    "description": "b-path, spi3_sep_lag1"
+  },
+  "A.malaria.med.spi3.lag1.indirect": {
+    "value": -0.00321895811293783,
+    "display": "−0.003 (95% CI −0.029 to 0.021)",
+    "script": "models/A/run_all.R",
+    "description": "Indirect effect a*b, cluster bootstrap percentile CI (B = 1000, 1000 ok, seed 20261415)"
+  },
+  "A.malaria.med.spi3.lag1.prop": {
+    "value": -0.0606903382298579,
+    "display": "not estimable",
+    "script": "models/A/run_all.R",
+    "description": "Proportion mediated indirect/c_total (prop_flag = opposite_signs; c_total 0.0530, bootstrap CI 0.0022 to 0.1123)"
+  },
+  "A.malaria.med.tmax.lag0.a": {
+    "value": -0.23726158327094,
+    "display": "−0.237",
+    "script": "models/A/run_all.R",
+    "description": "a-path, tmax_mamj_anom on oni_jjas"
+  },
+  "A.malaria.med.tmax.lag0.b": {
+    "value": 0.00466500353633125,
+    "display": "0.0047",
+    "script": "models/A/run_all.R",
+    "description": "b-path, tmax_mamj_anom"
+  },
+  "A.malaria.med.tmax.lag0.indirect": {
+    "value": -0.00110682612499449,
+    "display": "−0.001 (95% CI −0.021 to 0.022)",
+    "script": "models/A/run_all.R",
+    "description": "Indirect effect a*b, cluster bootstrap percentile CI (B = 1000, 1000 ok, seed 20261515)"
+  },
+  "A.malaria.med.tmax.lag0.prop": {
+    "value": -0.00834464471819878,
+    "display": "not estimable",
+    "script": "models/A/run_all.R",
+    "description": "Proportion mediated indirect/c_total (prop_flag = opposite_signs; c_total 0.1326, bootstrap CI 0.0651 to 0.1982)"
+  },
+  "A.malaria.med.tmax.lag1.a": {
+    "value": -0.208332467099256,
+    "display": "−0.208",
+    "script": "models/A/run_all.R",
+    "description": "a-path, tmax_mamj_anom_lag1 on oni_jjas_lag1"
+  },
+  "A.malaria.med.tmax.lag1.b": {
+    "value": 0.092837588887501,
+    "display": "0.0928",
+    "script": "models/A/run_all.R",
+    "description": "b-path, tmax_mamj_anom_lag1"
+  },
+  "A.malaria.med.tmax.lag1.indirect": {
+    "value": -0.0193410839324795,
+    "display": "−0.019 (95% CI −0.036 to −0.007)",
+    "script": "models/A/run_all.R",
+    "description": "Indirect effect a*b, cluster bootstrap percentile CI (B = 1000, 1000 ok, seed 20261615)"
+  },
+  "A.malaria.med.tmax.lag1.prop": {
+    "value": -0.30097703738877,
+    "display": "not estimable",
+    "script": "models/A/run_all.R",
+    "description": "Proportion mediated indirect/c_total (prop_flag = opposite_signs; c_total 0.0643, bootstrap CI 0.0131 to 0.1249)"
+  },
+  "A.malaria.pi.nominal_level": {
+    "value": 0.95,
+    "display": "95%",
+    "script": "models/A/run_all.R",
+    "description": "Nominal level of the prediction intervals (2.5%-97.5% draw quantiles)"
+  },
+  "A.malaria.primary.irr_covid2020_21": {
+    "value": 0.738691406025541,
+    "display": "0.74 (95% CI 0.56–0.98)",
+    "script": "models/A/run_all.R",
+    "description": "IRR, COVID2020_21 indicator"
+  },
+  "A.malaria.primary.irr_log_aber": {
+    "value": 1.48043589715453,
+    "display": "1.48 (95% CI 1.27–1.73)",
+    "script": "models/A/run_all.R",
+    "description": "IRR per unit log ABER"
+  },
+  "A.malaria.primary.irr_nfme2016": {
+    "value": 1.71718966175833,
+    "display": "1.72 (95% CI 1.12–2.63)",
+    "script": "models/A/run_all.R",
+    "description": "IRR, NFME2016 indicator"
+  },
+  "A.malaria.primary.irr_oni_lag0": {
+    "value": 1.14183619635196,
+    "display": "1.14 (95% CI 1.01–1.29)",
+    "script": "models/A/run_all.R",
+    "description": "Malaria primary model IRR per 1 C oni_jjas, Wald 95% CI"
+  },
+  "A.malaria.primary.irr_oni_lag1": {
+    "value": 1.06637447372148,
+    "display": "1.07 (95% CI 0.96–1.18)",
+    "script": "models/A/run_all.R",
+    "description": "Malaria primary model IRR per 1 C oni_jjas_lag1, Wald 95% CI"
+  },
+  "A.malaria.primary.n": {
+    "value": 782,
+    "display": "782",
+    "script": "models/A/run_all.R",
+    "description": "Unit-years in the malaria primary model"
+  },
+  "A.malaria.primary.p_oni_lag0": {
+    "value": 0.0280942702397892,
+    "display": "p = 0.028",
+    "script": "models/A/run_all.R",
+    "description": "Wald p, oni_jjas"
+  },
+  "A.malaria.primary.p_oni_lag1": {
+    "value": 0.2210345836922,
+    "display": "p = 0.221",
+    "script": "models/A/run_all.R",
+    "description": "Wald p, oni_jjas_lag1"
+  },
+  "A.malaria.primary.re_used": {
+    "value": "diag",
+    "display": "uncorrelated random intercepts and slopes",
+    "script": "models/A/run_all.R",
+    "description": "Random-effect structure used (attempts: us -> diag)"
+  },
+  "A.malaria.roll.A.coverage": {
+    "value": 0.880681818181818,
+    "display": "88.1%",
+    "script": "models/A/run_all.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model A (n_draws 1000, seed 20261017)"
+  },
+  "A.malaria.roll.A.logscore": {
+    "value": 8.57310975173591,
+    "display": "8.573",
+    "script": "models/A/run_all.R",
+    "description": "NB log score, Model A"
+  },
+  "A.malaria.roll.A.male": {
+    "value": 0.545191990071526,
+    "display": "0.545",
+    "script": "models/A/run_all.R",
+    "description": "MALE, Model A"
+  },
+  "A.malaria.roll.A.rmse": {
+    "value": 0.707940551125449,
+    "display": "0.708",
+    "script": "models/A/run_all.R",
+    "description": "RMSE log1p, Model A"
+  },
+  "A.malaria.roll.B.coverage": {
+    "value": 0.872159090909091,
+    "display": "87.2%",
+    "script": "models/A/run_all.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model B (n_draws 1000, seed 20261017)"
+  },
+  "A.malaria.roll.B.logscore": {
+    "value": 8.63675064490539,
+    "display": "8.637",
+    "script": "models/A/run_all.R",
+    "description": "NB log score, Model B"
+  },
+  "A.malaria.roll.B.male": {
+    "value": 0.550385757991233,
+    "display": "0.550",
+    "script": "models/A/run_all.R",
+    "description": "MALE, Model B"
+  },
+  "A.malaria.roll.B.rmse": {
+    "value": 0.702277902879873,
+    "display": "0.702",
+    "script": "models/A/run_all.R",
+    "description": "RMSE log1p, Model B"
+  },
+  "A.malaria.roll.C.coverage": {
+    "value": 0.866477272727273,
+    "display": "86.6%",
+    "script": "models/A/run_all.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model C (n_draws 1000, seed 20261017)"
+  },
+  "A.malaria.roll.C.logscore": {
+    "value": 8.67011203403179,
+    "display": "8.670",
+    "script": "models/A/run_all.R",
+    "description": "NB log score, Model C"
+  },
+  "A.malaria.roll.C.male": {
+    "value": 0.558341672043012,
+    "display": "0.558",
+    "script": "models/A/run_all.R",
+    "description": "MALE, Model C"
+  },
+  "A.malaria.roll.C.rmse": {
+    "value": 0.709233431380879,
+    "display": "0.709",
+    "script": "models/A/run_all.R",
+    "description": "RMSE log1p, Model C"
+  },
+  "A.malaria.roll.c_vs_b.logscore_diff": {
+    "value": 0.0333613891264051,
+    "display": "0.033",
+    "script": "models/A/run_all.R",
+    "description": "Mean log score, Model C minus Model B"
+  },
+  "A.malaria.roll.c_vs_b.male_ratio": {
+    "value": 1.01445515974253,
+    "display": "1.014",
+    "script": "models/A/run_all.R",
+    "description": "MALE ratio Model C / Model B, same rows"
+  },
+  "A.malaria.roll.common_n": {
+    "value": 352,
+    "display": "352",
+    "script": "models/A/run_all.R",
+    "description": "Rolling-origin scored unit-years common to A, B, C"
+  },
+  "A.malaria.roll.n_origins": {
+    "value": 11,
+    "display": "11",
+    "script": "models/A/run_all.R",
+    "description": "Rolling-origin splits scored"
+  },
+  "A.malaria.sens.deaths.irr_lag0": {
+    "value": 1.09965567777632,
+    "display": "1.10 (95% CI 0.88–1.37)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 0, sensitivity deaths; structure diag"
+  },
+  "A.malaria.sens.deaths.irr_lag1": {
+    "value": 1.05589739044946,
+    "display": "1.06 (95% CI 0.88–1.27)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 1, sensitivity deaths; structure diag"
+  },
+  "A.malaria.sens.deaths.n": {
+    "value": 782,
+    "display": "782",
+    "script": "models/A/run_all.R",
+    "description": "Unit-years, sensitivity deaths"
+  },
+  "A.malaria.sens.excl_2005.irr_lag0": {
+    "value": 1.13817004858956,
+    "display": "1.14 (95% CI 1.01–1.28)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 0, sensitivity excl_2005; structure diag"
+  },
+  "A.malaria.sens.excl_2005.irr_lag1": {
+    "value": 1.06800025167785,
+    "display": "1.07 (95% CI 0.96–1.19)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 1, sensitivity excl_2005; structure diag"
+  },
+  "A.malaria.sens.excl_2005.n": {
+    "value": 748,
+    "display": "748",
+    "script": "models/A/run_all.R",
+    "description": "Unit-years, sensitivity excl_2005"
+  },
+  "A.malaria.sens.excl_2020_2025.irr_lag0": {
+    "value": 1.09472322087598,
+    "display": "1.09 (95% CI 0.95–1.26)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 0, sensitivity excl_2020_2025; structure diag"
+  },
+  "A.malaria.sens.excl_2020_2025.irr_lag1": {
+    "value": 1.04737764957198,
+    "display": "1.05 (95% CI 0.94–1.17)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 1, sensitivity excl_2020_2025; structure diag"
+  },
+  "A.malaria.sens.excl_2020_2025.n": {
+    "value": 578,
+    "display": "578",
+    "script": "models/A/run_all.R",
+    "description": "Unit-years, sensitivity excl_2020_2025"
+  },
+  "A.malaria.sens.excl_2020_21.irr_lag0": {
+    "value": 1.16759490160474,
+    "display": "1.17 (95% CI 1.03–1.32)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 0, sensitivity excl_2020_21; structure diag"
+  },
+  "A.malaria.sens.excl_2020_21.irr_lag1": {
+    "value": 1.09281212030604,
+    "display": "1.09 (95% CI 0.99–1.21)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 1, sensitivity excl_2020_21; structure diag"
+  },
+  "A.malaria.sens.excl_2020_21.n": {
+    "value": 714,
+    "display": "714",
+    "script": "models/A/run_all.R",
+    "description": "Unit-years, sensitivity excl_2020_21"
+  },
+  "A.malaria.sens.excl_dnhdd.irr_lag0": {
+    "value": 1.15657538525061,
+    "display": "1.16 (95% CI 1.03–1.30)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 0, sensitivity excl_dnhdd; structure diag"
+  },
+  "A.malaria.sens.excl_dnhdd.irr_lag1": {
+    "value": 1.0755412595103,
+    "display": "1.08 (95% CI 0.97–1.19)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 1, sensitivity excl_dnhdd; structure diag"
+  },
+  "A.malaria.sens.excl_dnhdd.n": {
+    "value": 759,
+    "display": "759",
+    "script": "models/A/run_all.R",
+    "description": "Unit-years, sensitivity excl_dnhdd"
+  },
+  "A.malaria.sens.excl_jh2022.irr_lag0": {
+    "value": 1.13900920151935,
+    "display": "1.14 (95% CI 1.01–1.28)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 0, sensitivity excl_jh2022; structure diag"
+  },
+  "A.malaria.sens.excl_jh2022.irr_lag1": {
+    "value": 1.06564293181235,
+    "display": "1.07 (95% CI 0.96–1.18)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 1, sensitivity excl_jh2022; structure diag"
+  },
+  "A.malaria.sens.excl_jh2022.n": {
+    "value": 781,
+    "display": "781",
+    "script": "models/A/run_all.R",
+    "description": "Unit-years, sensitivity excl_jh2022"
+  },
+  "A.malaria.sens.excl_missing25.irr_lag0": {
+    "value": 1.14183619635196,
+    "display": "1.14 (95% CI 1.01–1.29)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 0, sensitivity excl_missing25; structure diag"
+  },
+  "A.malaria.sens.excl_missing25.irr_lag1": {
+    "value": 1.06637447372148,
+    "display": "1.07 (95% CI 0.96–1.18)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 1, sensitivity excl_missing25; structure diag"
+  },
+  "A.malaria.sens.excl_missing25.n": {
+    "value": 782,
+    "display": "782",
+    "script": "models/A/run_all.R",
+    "description": "Unit-years, sensitivity excl_missing25"
+  },
+  "A.malaria.sens.irr_lag1_range": {
+    "value": 0.0511317272593228,
+    "display": "1.04 to 1.09",
+    "script": "models/A/run_all.R",
+    "description": "Range of the 13 sensitivity lag-1 IRR point estimates"
+  },
+  "A.malaria.sens.pf.irr_lag0": {
+    "value": 1.14447081249212,
+    "display": "1.14 (95% CI 0.98–1.33)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 0, sensitivity pf; structure diag"
+  },
+  "A.malaria.sens.pf.irr_lag1": {
+    "value": 1.06377747653282,
+    "display": "1.06 (95% CI 0.93–1.22)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 1, sensitivity pf; structure diag"
+  },
+  "A.malaria.sens.pf.n": {
+    "value": 782,
+    "display": "782",
+    "script": "models/A/run_all.R",
+    "description": "Unit-years, sensitivity pf"
+  },
+  "A.malaria.sens.rain_adjusted.irr_lag0": {
+    "value": 1.15070076207508,
+    "display": "1.15 (95% CI 1.02–1.30)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 0, sensitivity rain_adjusted; structure diag"
+  },
+  "A.malaria.sens.rain_adjusted.irr_lag1": {
+    "value": 1.04529607011679,
+    "display": "1.05 (95% CI 0.94–1.16)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 1, sensitivity rain_adjusted; structure diag"
+  },
+  "A.malaria.sens.rain_adjusted.n": {
+    "value": 730,
+    "display": "730",
+    "script": "models/A/run_all.R",
+    "description": "Unit-years, sensitivity rain_adjusted"
+  },
+  "A.malaria.sens.rain_adjusted_excl_jk_ar.irr_lag0": {
+    "value": 1.14941358908046,
+    "display": "1.15 (95% CI 1.02–1.30) (random intercepts only)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 0, sensitivity rain_adjusted_excl_jk_ar; structure int"
+  },
+  "A.malaria.sens.rain_adjusted_excl_jk_ar.irr_lag1": {
+    "value": 1.04927128858045,
+    "display": "1.05 (95% CI 0.94–1.17) (random intercepts only)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 1, sensitivity rain_adjusted_excl_jk_ar; structure int"
+  },
+  "A.malaria.sens.rain_adjusted_excl_jk_ar.n": {
+    "value": 684,
+    "display": "684",
+    "script": "models/A/run_all.R",
+    "description": "Unit-years, sensitivity rain_adjusted_excl_jk_ar"
+  },
+  "A.malaria.sens.roni.irr_lag0": {
+    "value": 1.1333896263674,
+    "display": "1.13 (95% CI 1.00–1.28)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 0, sensitivity roni; structure diag"
+  },
+  "A.malaria.sens.roni.irr_lag1": {
+    "value": 1.06127748188943,
+    "display": "1.06 (95% CI 0.96–1.17)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 1, sensitivity roni; structure diag"
+  },
+  "A.malaria.sens.roni.n": {
+    "value": 782,
+    "display": "782",
+    "script": "models/A/run_all.R",
+    "description": "Unit-years, sensitivity roni"
+  },
+  "A.malaria.sens.tested_def2022.irr_lag0": {
+    "value": 1.10555054402308,
+    "display": "1.11 (95% CI 0.98–1.25)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 0, sensitivity tested_def2022; structure diag"
+  },
+  "A.malaria.sens.tested_def2022.irr_lag1": {
+    "value": 1.04865991990123,
+    "display": "1.05 (95% CI 0.95–1.16)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 1, sensitivity tested_def2022; structure diag"
+  },
+  "A.malaria.sens.tested_def2022.n": {
+    "value": 782,
+    "display": "782",
+    "script": "models/A/run_all.R",
+    "description": "Unit-years, sensitivity tested_def2022"
+  },
+  "A.malaria.sens.y2010_2025.irr_lag0": {
+    "value": 1.15412680331524,
+    "display": "1.15 (95% CI 1.00–1.34)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 0, sensitivity y2010_2025; structure diag"
+  },
+  "A.malaria.sens.y2010_2025.irr_lag1": {
+    "value": 1.04168039304672,
+    "display": "1.04 (95% CI 0.93–1.16)",
+    "script": "models/A/run_all.R",
+    "description": "IRR lag 1, sensitivity y2010_2025; structure diag"
+  },
+  "A.malaria.sens.y2010_2025.n": {
+    "value": 544,
+    "display": "544",
+    "script": "models/A/run_all.R",
+    "description": "Unit-years, sensitivity y2010_2025"
+  },
+  "A.malaria.units.irr_lag0_range": {
+    "value": 6.81683081094064e-08,
+    "display": "1.14 in every unit",
+    "script": "models/A/run_all.R",
+    "description": "Range of unit-specific IRRs, ONI lag 0 (exp(fixef + conditional mode))"
+  },
+  "A.malaria.units.irr_lag1_range": {
+    "value": 2.51800469364127e-08,
+    "display": "1.07 in every unit",
+    "script": "models/A/run_all.R",
+    "description": "Range of unit-specific IRRs, ONI lag 1 (exp(fixef + conditional mode))"
+  },
+  "A.malaria.units.n_neg_lag0_pos_lag1": {
+    "value": 0,
+    "display": "0",
+    "script": "models/A/run_all.R",
+    "description": "Units with unit IRR < 1 at lag 0 and > 1 at lag 1"
+  },
+  "A.malaria.units.n_units": {
+    "value": 34,
+    "display": "34",
+    "script": "models/A/run_all.R",
+    "description": "Units in the malaria primary model"
+  },
+  "A.malaria.units.top_lag1": {
+    "value": "UK;OD;UP",
+    "display": "no unit differed from the fixed effect (1.07 in every unit)",
+    "script": "models/A/run_all.R",
+    "description": "Three units with the largest unit-specific lag-1 IRRs"
+  },
+  "A.outlook.excess_2026_total": {
+    "value": 71516.7339545178,
+    "display": "71,517 (nominal 95% interval 8,417–159,102)",
+    "script": "models/A/run_all.R",
+    "description": "All-unit expected excess malaria cases 2026, ONI model; mean and 2.5-97.5 percentiles of 1000 joint draws (seed 20261022)"
+  },
+  "A.outlook.excess_2027_total": {
+    "value": 35012.5081523101,
+    "display": "35,013 (nominal 95% interval −18,511 to 98,212)",
+    "script": "models/A/run_all.R",
+    "description": "All-unit expected excess malaria cases 2027, ONI model; mean and 2.5-97.5 percentiles of 1000 joint draws (seed 20261022)"
+  },
+  "A.outlook.extrapolation_text": {
+    "value": true,
+    "display": "lay outside",
+    "script": "models/A/run_all.R",
+    "description": "project()$extrapolation (exposure range); 2026 oni_jjas 1.783 vs fitted range -1.077 to 1.595; trend extrapolation TRUE"
+  },
+  "A.outlook.oni_2026": {
+    "value": 1.78333333333333,
+    "display": "+1.78",
+    "script": "models/A/run_all.R",
+    "description": "JJAS ONI 2026 (MJJ, JJA, JAS)"
+  },
+  "A.outlook.oni_2026_basis": {
+    "value": false,
+    "display": "provisional: mean of the May–July, June–August and July–September 2026 seasons, published before August–October",
+    "script": "models/A/run_all.R",
+    "description": "Basis of the 2026 JJAS value"
+  },
+  "A.outlook.roni.excess_2026_total": {
+    "value": 53700.2507238782,
+    "display": "53,700 (nominal 95% interval 3,659–125,507)",
+    "script": "models/A/run_all.R",
+    "description": "All-unit expected excess malaria cases 2026, RONI model"
+  },
+  "A.outlook.roni.excess_2027_total": {
+    "value": 27473.2203333414,
+    "display": "27,473 (nominal 95% interval −15,641 to 81,360)",
+    "script": "models/A/run_all.R",
+    "description": "All-unit expected excess malaria cases 2027, RONI model"
+  },
+  "A.outlook.roni_2026": {
+    "value": 1.34,
+    "display": "+1.34",
+    "script": "models/A/run_all.R",
+    "description": "JJAS RONI 2026 (MJJ, JJA, JAS)"
+  },
+  "A.outlook.top_units_2027": {
+    "value": "OD;CG;JH",
+    "display": "Odisha (8,332), Chhattisgarh (4,570) and Jharkhand (4,456)",
+    "script": "models/A/run_all.R",
+    "description": "Three units with the largest 2027 excess"
+  }
+}

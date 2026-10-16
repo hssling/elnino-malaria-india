@@ -1,0 +1,4 @@
+Index,Unit-years,RE structure,AIC,LOEO MALE,"LOEO MALE, no ENSO",LOEO ratio,Rolling MALE,"Rolling MALE, no ENSO",Rolling ratio,LOEO scored unit-years,Rolling scored unit-years
+ONI,782,diag,14272.0,0.767,0.763,1.006,0.949,0.948,1.001,510,374
+RONI,782,diag,14273.3,0.772,0.763,1.013,0.966,0.948,1.019,510,374
+Niño-3.4 anomaly,782,diag,14272.8,0.768,0.763,1.007,0.959,0.948,1.012,510,374
