@@ -1,0 +1,35 @@
+unit_id,unit_name,tmax_clim_1981_2010,n_years,tercile
+AN,Andaman and Nicobar Islands,32.2753785104764,30,middle
+AP_TG,Andhra Pradesh and Telangana,37.1749297463726,30,hot
+AR,Arunachal Pradesh,29.8717465903876,30,cool
+AS,Assam,29.4612137835409,30,cool
+BR,Bihar,35.1334129865831,30,middle
+CG,Chhattisgarh,37.3490427922753,30,hot
+CH,Chandigarh,33.138293393453,30,middle
+DL,Delhi,36.7364887930608,30,hot
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,35.4558654176891,30,middle
+GA,Goa,32.9704493355812,30,middle
+GJ,Gujarat,36.2350647198373,30,hot
+HP,Himachal Pradesh,28.4467337476685,30,cool
+HR,Haryana,35.8153136686437,30,hot
+JH,Jharkhand,36.0379594165647,30,hot
+JK,Jammu and Kashmir (incl. Ladakh),24.7697550012848,30,cool
+KA,Karnataka,34.1485257714957,30,middle
+KL,Kerala,31.5194706077365,30,cool
+LD,Lakshadweep,32.0392865472961,30,middle
+MH,Maharashtra,37.0871257239955,30,hot
+ML,Meghalaya,29.4758882464116,30,cool
+MN,Manipur,29.4361324146403,30,cool
+MP,Madhya Pradesh,37.9254758361447,30,hot
+MZ,Mizoram,29.4593724167947,30,cool
+NL,Nagaland,29.826848335509,30,cool
+OD,Odisha,36.1637682065804,30,hot
+PB,Punjab,34.3586944112326,30,middle
+PY,Puducherry,34.631770159179,30,middle
+RJ,Rajasthan,37.626072550009,30,hot
+SK,Sikkim,28.6082795399264,30,cool
+TN,Tamil Nadu,34.8520661871901,30,middle
+TR,Tripura,29.7162077852062,30,cool
+UK,Uttarakhand,30.0734730291595,30,cool
+UP,Uttar Pradesh,36.6096949696537,30,hot
+WB,West Bengal,33.8975627724666,30,middle

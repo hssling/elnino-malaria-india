@@ -44,4 +44,4 @@ episode_id,phase,start_season,start_year,end_season,end_year,n_seasons,peak_anom
 43,la_nina,ASO,2020,MAM,2021,8,-1.1,moderate,False,False
 44,la_nina,JAS,2021,DJF,2023,18,-0.9,weak,False,False
 45,el_nino,AMJ,2023,MAM,2024,12,2.0,very_strong,False,False
-46,el_nino,MAM,2026,JAS,2026,5,2.2,very_strong,False,True
+46,el_nino,MAM,2026,ASO,2026,6,2.5,very_strong,False,True

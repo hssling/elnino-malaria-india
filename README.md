@@ -1,11 +1,13 @@
 # El Niño and malaria across Indian states, 2002–2025
 
-Data and code for the study of the El Niño–Southern Oscillation (ENSO) and annual malaria (and dengue) counts in 34 Indian state-level units, 2002–2025, with an outlook for 2026–27.
+Data and code for the study of the El Niño–Southern Oscillation (ENSO) and annual malaria (and dengue) counts in 34 Indian state-level units, 2002–2025: association, out-of-sample forecast skill and conditional scenarios for 2026–27.
+
+**Version 1.1.0 (17 November 2026)** adds the analyses made in response to peer review (Acta Tropica, manuscript ACTROP-D-26-02276, major revision) and the final August–October 2026 ENSO update. The revision analyses were fixed in `papers/A/revision/revision_plan.md` before they were run: shared temporal dependence (year random effects, cluster-robust inference by year, a moving-block year bootstrap, residual diagnostics, leave-one-ENSO-episode-out refits), alternative trend and testing-effort specifications, spatial autocorrelation and state trends, ONI × zone and unit-by-unit models, climate splines, an early-warning validation with pre-season information only, and conditional scenarios across ONI values. Under the plan's decision rule the same-year ONI association is not robust to shared temporal dependence (its 95% interval includes 1 under the block bootstrap). Version 1.0.0 (the first submission) is unchanged in its archive.
 
 Repository: https://github.com/hssling/elnino-malaria-india
 
 **Paper (manuscript under review):**
-Siddalingaiah H S. El Niño and malaria in Indian states, 2002–2025, with a 2026–27 outlook. Manuscript under review.
+Siddalingaiah H S. El Niño and malaria in Indian states, 2002–2025: association and out-of-sample forecast skill. Manuscript under review (revised; first submitted as "El Niño and malaria in Indian states, 2002–2025, with a 2026–27 outlook").
 
 Please cite the paper once it is published, and this repository through `CITATION.cff`.
 
@@ -22,12 +24,15 @@ Please cite the paper once it is published, and this repository through `CITATIO
 │       └── enso_{monthly,annual,episodes}.csv
 ├── models/                            R analysis (renv-locked)
 │   ├── common/                        shared model functions (glmmTMB negative binomial) and testthat suite
-│   ├── A/                             the analysis of this study (run_all.R, steps 01–06)
-│   │   └── output/                    supplementary tables written by the analysis (CSV)
+│   ├── A/                             the analysis of this study (run_all.R, steps 01–06; 07_revision.R and
+│   │   │                              revision_a.R for the peer-review analyses)
+│   │   └── output/                    supplementary tables written by the analysis (CSV; rev_*.csv from the revision)
 │   ├── renv.lock, renv/, .Rprofile, DESCRIPTION, setup.R
 ├── papers/A/
 │   ├── results.json                   every number reported in the paper (value, display string, script, description)
-│   └── figures/                       figure data (CSV) and the plotting script
+│   ├── figures/                       figure data (CSV) and the plotting script
+│   └── revision/                      revision analysis plan, spatial and trend analysis (Python), its outputs, and
+│                                      the display tables of the revised supplement (supp/)
 ├── pipeline/                          Python pipeline: raw sources -> derived tables
 │   ├── outcomes/                      parsers, source precedence, gates for the outcome panels
 │   └── reference/                     unit frame, source list, reviewed exceptions, QC reviews
@@ -110,6 +115,8 @@ Malaria `tested` is "B.S.E." to 2019, "Total (BSE+RDT)" in 2020–21 and "Tested
 
 `papers/A/results.json` holds every number reported in the paper as `{"<key>": {"value", "display", "script", "description"}}`. `models/A/output/` holds the supplementary tables: `table_S1_sources.csv` (sources), `dropped_rows.csv`, `compare_per_split_*.csv` (validation per split), `mediation_runs.csv`, `model_fits.csv`, `asym_iod.csv`, `index_comparison.csv`, `outlook_by_unit*.csv`, `unit_slopes_malaria.csv`, and `sessionInfo.txt` / `session_packages.csv`. `papers/A/figures/data/` holds the data behind each figure.
 
+Revision (v1.1.0): the 286 keys with prefix `A.rev.` in `results.json` (the 191 original keys are unchanged); `models/A/output/rev_*.csv` (inference variants, bootstrap replicates, residual diagnostics, episodes and leave-one-episode-out, trend and testing-effort variants, climate splines and Tmax terciles, zone and unpooled unit models, early-warning validation, conditional scenarios); `papers/A/revision/` (Moran's I, local clusters, standardised incidence ratios, modified Mann–Kendall trends, contiguity weights, and `supp/` with the display tables of Supplementary Tables S3, S4 and S7–S9); figure data `papers/A/figures/data/figure_S6.csv`–`figure_S10.csv`.
+
 ## Missing-data rules
 
 - Missing is NaN, never 0. In NVBDCP/NCVBDC tables "-", "NR" or blank means not reported (NaN). A printed 0 is kept as 0 in `outcome_records_all.csv.gz`; whether it reaches a panel as 0 or NaN follows the reviewed rules below.
@@ -156,6 +163,21 @@ Rscript A/run_all.R      # full analysis
 The full run takes about 10 hours (1,000 validation and projection draws, B = 1,000 mediation bootstrap resamples). It uses 6 parallel (PSOCK) workers by default; on a 16 GB machine keep `--cores` at 6 or fewer (`Rscript A/run_all.R --cores=4`). Results do not depend on the number of workers (fixed seeds). `--reuse` reuses finished steps from `models/A/_cache/`; `--step=fits|validation|mediation|outlook|results` runs one step.
 
 The analysis reads only `data/derived/` (model inputs, ENSO tables, outcome provenance files), `pipeline/reference/` (unit frame, source list, NCVBDC URLs) and `data/raw_files_manifest.csv` (retrieval dates for Table S1). It writes `papers/A/results.json`, `models/A/output/*.csv` and `papers/A/figures/data/*.csv`; figures are then drawn with `python papers/A/figures/make_figures.py` (Supplementary Figure S1 also needs the GADM file in `data/external/`).
+
+### (a2) The revision analyses
+
+After `A/run_all.R` has filled `models/A/_cache/`:
+
+```
+cd models
+Rscript A/07_revision.R            # fits, block bootstrap, early-warning validation, results (about 30 minutes, 4 workers)
+cd ..
+python -I papers/A/revision/spatial_trends.py --unit-irr models/A/output/rev_unit_irr_unpooled.csv   # needs GADM in data/external/
+python -I papers/A/revision/merge_spatial_keys.py     # appends the spatial and trend keys to results.json
+python -I papers/A/revision/make_supp_tables.py       # display tables of the revised supplement
+```
+
+`A/07_revision.R --step=results` rebuilds the 191 original keys from the cached original fits and adds the `A.rev.` keys; run `merge_spatial_keys.py` after it.
 
 Shared R functions have a testthat suite: `cd models && Rscript common/tests/run.R` (or `python -m pytest -m r` from the repository root).
 

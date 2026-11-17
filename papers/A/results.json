@@ -1092,14 +1092,14 @@
     "description": "Three units with the largest unit-specific lag-1 IRRs"
   },
   "A.outlook.excess_2026_total": {
-    "value": 71516.7339545178,
-    "display": "71,517 (nominal 95% interval 8,417–159,102)",
+    "value": 79453.845347015,
+    "display": "79,454 (nominal 95% interval 9,228–178,611)",
     "script": "models/A/run_all.R",
     "description": "All-unit expected excess malaria cases 2026, ONI model; mean and 2.5-97.5 percentiles of 1000 joint draws (seed 20261022)"
   },
   "A.outlook.excess_2027_total": {
-    "value": 35012.5081523101,
-    "display": "35,013 (nominal 95% interval −18,511 to 98,212)",
+    "value": 38690.9435461691,
+    "display": "38,691 (nominal 95% interval −20,198 to 109,260)",
     "script": "models/A/run_all.R",
     "description": "All-unit expected excess malaria cases 2027, ONI model; mean and 2.5-97.5 percentiles of 1000 joint draws (seed 20261022)"
   },
@@ -1107,42 +1107,1829 @@
     "value": true,
     "display": "lay outside",
     "script": "models/A/run_all.R",
-    "description": "project()$extrapolation (exposure range); 2026 oni_jjas 1.783 vs fitted range -1.077 to 1.595; trend extrapolation TRUE"
+    "description": "project()$extrapolation (exposure range); 2026 oni_jjas 1.953 vs fitted range -1.077 to 1.595; trend extrapolation TRUE"
   },
   "A.outlook.oni_2026": {
-    "value": 1.78333333333333,
-    "display": "+1.78",
+    "value": 1.9525,
+    "display": "+1.95",
     "script": "models/A/run_all.R",
-    "description": "JJAS ONI 2026 (MJJ, JJA, JAS)"
+    "description": "JJAS ONI 2026 (MJJ, JJA, JAS, ASO)"
   },
   "A.outlook.oni_2026_basis": {
-    "value": false,
-    "display": "provisional: mean of the May–July, June–August and July–September 2026 seasons, published before August–October",
+    "value": true,
+    "display": "final: mean of the May–July to August–October 2026 seasons",
     "script": "models/A/run_all.R",
     "description": "Basis of the 2026 JJAS value"
   },
   "A.outlook.roni.excess_2026_total": {
-    "value": 53700.2507238782,
-    "display": "53,700 (nominal 95% interval 3,659–125,507)",
+    "value": 60802.1351872854,
+    "display": "60,802 (nominal 95% interval 4,093–142,912)",
     "script": "models/A/run_all.R",
     "description": "All-unit expected excess malaria cases 2026, RONI model"
   },
   "A.outlook.roni.excess_2027_total": {
-    "value": 27473.2203333414,
-    "display": "27,473 (nominal 95% interval −15,641 to 81,360)",
+    "value": 30958.5851749041,
+    "display": "30,959 (nominal 95% interval −17,421 to 91,976)",
     "script": "models/A/run_all.R",
     "description": "All-unit expected excess malaria cases 2027, RONI model"
   },
   "A.outlook.roni_2026": {
-    "value": 1.34,
-    "display": "+1.34",
+    "value": 1.4975,
+    "display": "+1.50",
     "script": "models/A/run_all.R",
-    "description": "JJAS RONI 2026 (MJJ, JJA, JAS)"
+    "description": "JJAS RONI 2026 (MJJ, JJA, JAS, ASO)"
   },
   "A.outlook.top_units_2027": {
     "value": "OD;CG;JH",
-    "display": "Odisha (8,332), Chhattisgarh (4,570) and Jharkhand (4,456)",
+    "display": "Odisha (9,207), Chhattisgarh (5,050) and Jharkhand (4,924)",
     "script": "models/A/run_all.R",
     "description": "Three units with the largest 2027 excess"
+  },
+  "A.rev.aber.irr_lag0_range": {
+    "value": 0.0296758453543966,
+    "display": "1.12 to 1.15",
+    "script": "models/A/07_revision.R",
+    "description": "Range of ONI lag-0 IRR point estimates across the alternative diagnostic-effort adjustments"
+  },
+  "A.rev.aber.irr_lag1_range": {
+    "value": 0.0224154963553278,
+    "display": "1.06 to 1.08",
+    "script": "models/A/07_revision.R",
+    "description": "Range of ONI lag-1 IRR point estimates across the alternative diagnostic-effort adjustments"
+  },
+  "A.rev.aber.lag1.irr_lag0": {
+    "value": 1.11996097002381,
+    "display": "1.12 (95% CI 0.99–1.27)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, diagnostic-effort variant: log ABER of the previous year; structure diag"
+  },
+  "A.rev.aber.lag1.irr_lag1": {
+    "value": 1.05820240265994,
+    "display": "1.06 (95% CI 0.94–1.19)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, diagnostic-effort variant: log ABER of the previous year; structure diag"
+  },
+  "A.rev.aber.lag1.n": {
+    "value": 714,
+    "display": "714",
+    "script": "models/A/07_revision.R",
+    "description": "Unit-years, log ABER of the previous year"
+  },
+  "A.rev.aber.none.irr_lag0": {
+    "value": 1.14590096090176,
+    "display": "1.15 (95% CI 1.02–1.29)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, diagnostic-effort variant: No ABER term; structure diag"
+  },
+  "A.rev.aber.none.irr_lag1": {
+    "value": 1.06107543844172,
+    "display": "1.06 (95% CI 0.96–1.18)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, diagnostic-effort variant: No ABER term; structure diag"
+  },
+  "A.rev.aber.none.n": {
+    "value": 782,
+    "display": "782",
+    "script": "models/A/07_revision.R",
+    "description": "Unit-years, No ABER term"
+  },
+  "A.rev.aber.ns3.irr_lag0": {
+    "value": 1.14963681537821,
+    "display": "1.15 (95% CI 1.02–1.29)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, diagnostic-effort variant: ns(log ABER, 3); structure diag"
+  },
+  "A.rev.aber.ns3.irr_lag1": {
+    "value": 1.08061789901527,
+    "display": "1.08 (95% CI 0.98–1.20)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, diagnostic-effort variant: ns(log ABER, 3); structure diag"
+  },
+  "A.rev.aber.ns3.n": {
+    "value": 782,
+    "display": "782",
+    "script": "models/A/07_revision.R",
+    "description": "Unit-years, ns(log ABER, 3)"
+  },
+  "A.rev.aber.positivity.irr_lag0": {
+    "value": 1.12755877672234,
+    "display": "1.13 (95% CI 1.00–1.27)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, diagnostic-effort variant: Test positivity (offset log persons tested, no ABER term); structure diag"
+  },
+  "A.rev.aber.positivity.irr_lag1": {
+    "value": 1.069779285646,
+    "display": "1.07 (95% CI 0.96–1.19)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, diagnostic-effort variant: Test positivity (offset log persons tested, no ABER term); structure diag"
+  },
+  "A.rev.aber.positivity.n": {
+    "value": 782,
+    "display": "782",
+    "script": "models/A/07_revision.R",
+    "description": "Unit-years, Test positivity (offset log persons tested, no ABER term)"
+  },
+  "A.rev.episodes.list": {
+    "value": "en2002;ln2007;en2009;ln2010;ln2011;en2014;en2018;ln2020;en2023",
+    "display": "El Niño 2002–03 (peak +1.20), La Niña 2007–08 (peak −1.80), El Niño 2009–10 (peak +1.50), La Niña 2010–11 (peak −1.60), La Niña 2011–12 (peak −1.00), El Niño 2014–16 (peak +2.60), El Niño 2018–19 (peak +1.10), La Niña 2020–21 (peak −1.10) and El Niño 2023–24 (peak +2.00)",
+    "script": "models/A/07_revision.R",
+    "description": "Episodes used for leave-one-episode-out (rev_episodes.csv)"
+  },
+  "A.rev.episodes.n": {
+    "value": 9,
+    "display": "9",
+    "script": "models/A/07_revision.R",
+    "description": "Moderate or stronger ENSO episodes (NOAA rule, peak |ONI| >= 1.0 C) removing at least one 2002-2025 year"
+  },
+  "A.rev.ew.dengue.loeo.A.coverage": {
+    "value": 0.941935483870968,
+    "display": "94.2%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model A_ew (n_draws 1000, seed 20261018)"
+  },
+  "A.rev.ew.dengue.loeo.A.coverage_yearvar": {
+    "value": 0.945161290322581,
+    "display": "94.5%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% intervals adding the year-level variance (iid year-effect refit per split), Model A_ew; 310 rows"
+  },
+  "A.rev.ew.dengue.loeo.A.logscore": {
+    "value": 8.31614439056602,
+    "display": "8.316",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning NB log score, Model A_ew"
+  },
+  "A.rev.ew.dengue.loeo.A.male": {
+    "value": 1.43039436486854,
+    "display": "1.430",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning MALE, Model A_ew"
+  },
+  "A.rev.ew.dengue.loeo.B.coverage": {
+    "value": 0.941935483870968,
+    "display": "94.2%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model B_ew (n_draws 1000, seed 20261018)"
+  },
+  "A.rev.ew.dengue.loeo.B.coverage_yearvar": {
+    "value": 0.951612903225806,
+    "display": "95.2%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% intervals adding the year-level variance (iid year-effect refit per split), Model B_ew; 310 rows"
+  },
+  "A.rev.ew.dengue.loeo.B.logscore": {
+    "value": 8.26810160412653,
+    "display": "8.268",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning NB log score, Model B_ew"
+  },
+  "A.rev.ew.dengue.loeo.B.male": {
+    "value": 1.36167165054819,
+    "display": "1.362",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning MALE, Model B_ew"
+  },
+  "A.rev.ew.dengue.loeo.C.coverage": {
+    "value": 0.941935483870968,
+    "display": "94.2%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model C_ew (n_draws 1000, seed 20261018)"
+  },
+  "A.rev.ew.dengue.loeo.C.coverage_yearvar": {
+    "value": 0.954838709677419,
+    "display": "95.5%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% intervals adding the year-level variance (iid year-effect refit per split), Model C_ew; 310 rows"
+  },
+  "A.rev.ew.dengue.loeo.C.logscore": {
+    "value": 8.28260234598563,
+    "display": "8.283",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning NB log score, Model C_ew"
+  },
+  "A.rev.ew.dengue.loeo.C.male": {
+    "value": 1.36829925036022,
+    "display": "1.368",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning MALE, Model C_ew"
+  },
+  "A.rev.ew.dengue.loeo.b_vs_a.male_ratio": {
+    "value": 0.951955407537791,
+    "display": "0.952",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning MALE ratio B_ew / A_ew, same rows"
+  },
+  "A.rev.ew.dengue.loeo.c_vs_b.logscore_diff": {
+    "value": 0.0145007418591003,
+    "display": "0.015",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning mean log score, C_ew minus B_ew"
+  },
+  "A.rev.ew.dengue.loeo.c_vs_b.male_ratio": {
+    "value": 1.004867252549,
+    "display": "1.005",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning MALE ratio C_ew / B_ew, same rows"
+  },
+  "A.rev.ew.dengue.loeo.c_vs_b.n_folds_better": {
+    "value": 3,
+    "display": "3 of 4",
+    "script": "models/A/07_revision.R",
+    "description": "LOEO folds with C_ew MALE < B_ew MALE"
+  },
+  "A.rev.ew.dengue.loeo.common_n": {
+    "value": 310,
+    "display": "310",
+    "script": "models/A/07_revision.R",
+    "description": "Scored unit-years common to A_ew, B_ew, C_ew"
+  },
+  "A.rev.ew.dengue.loeo.n_splits": {
+    "value": 4,
+    "display": "4",
+    "script": "models/A/07_revision.R",
+    "description": "Folds (LOEO) or origins (rolling) with scored rows"
+  },
+  "A.rev.ew.dengue.roll.A.coverage": {
+    "value": 0.887608069164265,
+    "display": "88.8%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model A_ew (n_draws 1000, seed 20261019)"
+  },
+  "A.rev.ew.dengue.roll.A.coverage_yearvar": {
+    "value": 0.896253602305475,
+    "display": "89.6%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% intervals adding the year-level variance (iid year-effect refit per split), Model A_ew; 347 rows"
+  },
+  "A.rev.ew.dengue.roll.A.logscore": {
+    "value": 10.019446205278,
+    "display": "10.019",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning NB log score, Model A_ew"
+  },
+  "A.rev.ew.dengue.roll.A.male": {
+    "value": 1.74463544426632,
+    "display": "1.745",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning MALE, Model A_ew"
+  },
+  "A.rev.ew.dengue.roll.B.coverage": {
+    "value": 0.904899135446686,
+    "display": "90.5%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model B_ew (n_draws 1000, seed 20261019)"
+  },
+  "A.rev.ew.dengue.roll.B.coverage_yearvar": {
+    "value": 0.910662824207493,
+    "display": "91.1%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% intervals adding the year-level variance (iid year-effect refit per split), Model B_ew; 347 rows"
+  },
+  "A.rev.ew.dengue.roll.B.logscore": {
+    "value": 9.7642599978293,
+    "display": "9.764",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning NB log score, Model B_ew"
+  },
+  "A.rev.ew.dengue.roll.B.male": {
+    "value": 1.61326236861203,
+    "display": "1.613",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning MALE, Model B_ew"
+  },
+  "A.rev.ew.dengue.roll.C.coverage": {
+    "value": 0.919308357348703,
+    "display": "91.9%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model C_ew (n_draws 1000, seed 20261019)"
+  },
+  "A.rev.ew.dengue.roll.C.coverage_yearvar": {
+    "value": 0.927953890489914,
+    "display": "92.8%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% intervals adding the year-level variance (iid year-effect refit per split), Model C_ew; 347 rows"
+  },
+  "A.rev.ew.dengue.roll.C.logscore": {
+    "value": 9.97614651249919,
+    "display": "9.976",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning NB log score, Model C_ew"
+  },
+  "A.rev.ew.dengue.roll.C.male": {
+    "value": 1.86579294570816,
+    "display": "1.866",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning MALE, Model C_ew"
+  },
+  "A.rev.ew.dengue.roll.b_vs_a.male_ratio": {
+    "value": 0.924698838324053,
+    "display": "0.925",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning MALE ratio B_ew / A_ew, same rows"
+  },
+  "A.rev.ew.dengue.roll.c_vs_b.logscore_diff": {
+    "value": 0.211886514669887,
+    "display": "0.212",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning mean log score, C_ew minus B_ew"
+  },
+  "A.rev.ew.dengue.roll.c_vs_b.male_ratio": {
+    "value": 1.1565341025796,
+    "display": "1.157",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning MALE ratio C_ew / B_ew, same rows"
+  },
+  "A.rev.ew.dengue.roll.common_n": {
+    "value": 347,
+    "display": "347",
+    "script": "models/A/07_revision.R",
+    "description": "Scored unit-years common to A_ew, B_ew, C_ew"
+  },
+  "A.rev.ew.dengue.roll.n_splits": {
+    "value": 11,
+    "display": "11",
+    "script": "models/A/07_revision.R",
+    "description": "Folds (LOEO) or origins (rolling) with scored rows"
+  },
+  "A.rev.ew.malaria.loeo.A.coverage": {
+    "value": 0.90625,
+    "display": "90.6%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model A_ew (n_draws 1000, seed 20261016)"
+  },
+  "A.rev.ew.malaria.loeo.A.coverage_yearvar": {
+    "value": 0.911057692307692,
+    "display": "91.1%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% intervals adding the year-level variance (iid year-effect refit per split), Model A_ew; 416 rows"
+  },
+  "A.rev.ew.malaria.loeo.A.logscore": {
+    "value": 9.05842969565083,
+    "display": "9.058",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning NB log score, Model A_ew"
+  },
+  "A.rev.ew.malaria.loeo.A.male": {
+    "value": 0.484262039747669,
+    "display": "0.484",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning MALE, Model A_ew"
+  },
+  "A.rev.ew.malaria.loeo.B.coverage": {
+    "value": 0.911057692307692,
+    "display": "91.1%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model B_ew (n_draws 1000, seed 20261016)"
+  },
+  "A.rev.ew.malaria.loeo.B.coverage_yearvar": {
+    "value": 0.911057692307692,
+    "display": "91.1%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% intervals adding the year-level variance (iid year-effect refit per split), Model B_ew; 416 rows"
+  },
+  "A.rev.ew.malaria.loeo.B.logscore": {
+    "value": 9.05539834174647,
+    "display": "9.055",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning NB log score, Model B_ew"
+  },
+  "A.rev.ew.malaria.loeo.B.male": {
+    "value": 0.481990983726635,
+    "display": "0.482",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning MALE, Model B_ew"
+  },
+  "A.rev.ew.malaria.loeo.C.coverage": {
+    "value": 0.923076923076923,
+    "display": "92.3%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model C_ew (n_draws 1000, seed 20261016)"
+  },
+  "A.rev.ew.malaria.loeo.C.coverage_yearvar": {
+    "value": 0.923076923076923,
+    "display": "92.3%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% intervals adding the year-level variance (iid year-effect refit per split), Model C_ew; 416 rows"
+  },
+  "A.rev.ew.malaria.loeo.C.logscore": {
+    "value": 9.04381596778691,
+    "display": "9.044",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning NB log score, Model C_ew"
+  },
+  "A.rev.ew.malaria.loeo.C.male": {
+    "value": 0.485429596147402,
+    "display": "0.485",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning MALE, Model C_ew"
+  },
+  "A.rev.ew.malaria.loeo.b_vs_a.male_ratio": {
+    "value": 0.99531027453191,
+    "display": "0.995",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning MALE ratio B_ew / A_ew, same rows"
+  },
+  "A.rev.ew.malaria.loeo.c_vs_b.logscore_diff": {
+    "value": -0.0115823739595626,
+    "display": "−0.012",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning mean log score, C_ew minus B_ew"
+  },
+  "A.rev.ew.malaria.loeo.c_vs_b.male_ratio": {
+    "value": 1.00713418411726,
+    "display": "1.007",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning MALE ratio C_ew / B_ew, same rows"
+  },
+  "A.rev.ew.malaria.loeo.c_vs_b.n_folds_better": {
+    "value": 3,
+    "display": "3 of 6",
+    "script": "models/A/07_revision.R",
+    "description": "LOEO folds with C_ew MALE < B_ew MALE"
+  },
+  "A.rev.ew.malaria.loeo.common_n": {
+    "value": 416,
+    "display": "416",
+    "script": "models/A/07_revision.R",
+    "description": "Scored unit-years common to A_ew, B_ew, C_ew"
+  },
+  "A.rev.ew.malaria.loeo.n_splits": {
+    "value": 6,
+    "display": "6",
+    "script": "models/A/07_revision.R",
+    "description": "Folds (LOEO) or origins (rolling) with scored rows"
+  },
+  "A.rev.ew.malaria.roll.A.coverage": {
+    "value": 0.875,
+    "display": "87.5%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model A_ew (n_draws 1000, seed 20261017)"
+  },
+  "A.rev.ew.malaria.roll.A.coverage_yearvar": {
+    "value": 0.875,
+    "display": "87.5%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% intervals adding the year-level variance (iid year-effect refit per split), Model A_ew; 352 rows"
+  },
+  "A.rev.ew.malaria.roll.A.logscore": {
+    "value": 8.47090405330382,
+    "display": "8.471",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning NB log score, Model A_ew"
+  },
+  "A.rev.ew.malaria.roll.A.male": {
+    "value": 0.545482538806945,
+    "display": "0.545",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning MALE, Model A_ew"
+  },
+  "A.rev.ew.malaria.roll.B.coverage": {
+    "value": 0.877840909090909,
+    "display": "87.8%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model B_ew (n_draws 1000, seed 20261017)"
+  },
+  "A.rev.ew.malaria.roll.B.coverage_yearvar": {
+    "value": 0.877840909090909,
+    "display": "87.8%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% intervals adding the year-level variance (iid year-effect refit per split), Model B_ew; 352 rows"
+  },
+  "A.rev.ew.malaria.roll.B.logscore": {
+    "value": 8.52265309298354,
+    "display": "8.523",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning NB log score, Model B_ew"
+  },
+  "A.rev.ew.malaria.roll.B.male": {
+    "value": 0.553548915512372,
+    "display": "0.554",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning MALE, Model B_ew"
+  },
+  "A.rev.ew.malaria.roll.C.coverage": {
+    "value": 0.886363636363636,
+    "display": "88.6%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% prediction intervals, Model C_ew (n_draws 1000, seed 20261017)"
+  },
+  "A.rev.ew.malaria.roll.C.coverage_yearvar": {
+    "value": 0.880681818181818,
+    "display": "88.1%",
+    "script": "models/A/07_revision.R",
+    "description": "Coverage of nominal 95% intervals adding the year-level variance (iid year-effect refit per split), Model C_ew; 352 rows"
+  },
+  "A.rev.ew.malaria.roll.C.logscore": {
+    "value": 8.53942277372659,
+    "display": "8.539",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning NB log score, Model C_ew"
+  },
+  "A.rev.ew.malaria.roll.C.male": {
+    "value": 0.547140574404705,
+    "display": "0.547",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning MALE, Model C_ew"
+  },
+  "A.rev.ew.malaria.roll.b_vs_a.male_ratio": {
+    "value": 1.01478759837679,
+    "display": "1.015",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning MALE ratio B_ew / A_ew, same rows"
+  },
+  "A.rev.ew.malaria.roll.c_vs_b.logscore_diff": {
+    "value": 0.016769680743046,
+    "display": "0.017",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning mean log score, C_ew minus B_ew"
+  },
+  "A.rev.ew.malaria.roll.c_vs_b.male_ratio": {
+    "value": 0.988423171054838,
+    "display": "0.988",
+    "script": "models/A/07_revision.R",
+    "description": "Early-warning MALE ratio C_ew / B_ew, same rows"
+  },
+  "A.rev.ew.malaria.roll.common_n": {
+    "value": 352,
+    "display": "352",
+    "script": "models/A/07_revision.R",
+    "description": "Scored unit-years common to A_ew, B_ew, C_ew"
+  },
+  "A.rev.ew.malaria.roll.n_splits": {
+    "value": 11,
+    "display": "11",
+    "script": "models/A/07_revision.R",
+    "description": "Folds (LOEO) or origins (rolling) with scored rows"
+  },
+  "A.rev.loepo.en2002.irr_lag0": {
+    "value": 1.14205787929554,
+    "display": "1.14 (95% CI 1.01–1.29)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, primary model refitted without El Niño 2002–03 (years 2002, 2003, 2004 dropped)"
+  },
+  "A.rev.loepo.en2002.irr_lag1": {
+    "value": 1.06848256012581,
+    "display": "1.07 (95% CI 0.95–1.20)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, primary model refitted without El Niño 2002–03 (years 2002, 2003, 2004 dropped)"
+  },
+  "A.rev.loepo.en2002.n": {
+    "value": 680,
+    "display": "680",
+    "script": "models/A/07_revision.R",
+    "description": "Unit-years, refit without El Niño 2002–03"
+  },
+  "A.rev.loepo.en2002.years_dropped": {
+    "value": "2002;2003;2004",
+    "display": "2002–2004",
+    "script": "models/A/07_revision.R",
+    "description": "Years dropped, El Niño 2002–03"
+  },
+  "A.rev.loepo.en2009.irr_lag0": {
+    "value": 1.18600543998919,
+    "display": "1.19 (95% CI 1.03–1.37)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, primary model refitted without El Niño 2009–10 (years 2009, 2010, 2011 dropped)"
+  },
+  "A.rev.loepo.en2009.irr_lag1": {
+    "value": 1.0773169305951,
+    "display": "1.08 (95% CI 0.95–1.22)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, primary model refitted without El Niño 2009–10 (years 2009, 2010, 2011 dropped)"
+  },
+  "A.rev.loepo.en2009.n": {
+    "value": 680,
+    "display": "680",
+    "script": "models/A/07_revision.R",
+    "description": "Unit-years, refit without El Niño 2009–10"
+  },
+  "A.rev.loepo.en2009.years_dropped": {
+    "value": "2009;2010;2011",
+    "display": "2009–2011",
+    "script": "models/A/07_revision.R",
+    "description": "Years dropped, El Niño 2009–10"
+  },
+  "A.rev.loepo.en2014.irr_lag0": {
+    "value": 1.11529549574254,
+    "display": "1.12 (95% CI 0.96–1.29)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, primary model refitted without El Niño 2014–16 (years 2014, 2015, 2016, 2017 dropped)"
+  },
+  "A.rev.loepo.en2014.irr_lag1": {
+    "value": 1.10026890808947,
+    "display": "1.10 (95% CI 0.97–1.25)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, primary model refitted without El Niño 2014–16 (years 2014, 2015, 2016, 2017 dropped)"
+  },
+  "A.rev.loepo.en2014.n": {
+    "value": 646,
+    "display": "646",
+    "script": "models/A/07_revision.R",
+    "description": "Unit-years, refit without El Niño 2014–16"
+  },
+  "A.rev.loepo.en2014.years_dropped": {
+    "value": "2014;2015;2016;2017",
+    "display": "2014–2017",
+    "script": "models/A/07_revision.R",
+    "description": "Years dropped, El Niño 2014–16"
+  },
+  "A.rev.loepo.en2018.irr_lag0": {
+    "value": 1.18084086342789,
+    "display": "1.18 (95% CI 1.05–1.33)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, primary model refitted without El Niño 2018–19 (years 2018, 2019, 2020 dropped)"
+  },
+  "A.rev.loepo.en2018.irr_lag1": {
+    "value": 1.103139194015,
+    "display": "1.10 (95% CI 1.00–1.22)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, primary model refitted without El Niño 2018–19 (years 2018, 2019, 2020 dropped)"
+  },
+  "A.rev.loepo.en2018.n": {
+    "value": 680,
+    "display": "680",
+    "script": "models/A/07_revision.R",
+    "description": "Unit-years, refit without El Niño 2018–19"
+  },
+  "A.rev.loepo.en2018.years_dropped": {
+    "value": "2018;2019;2020",
+    "display": "2018–2020",
+    "script": "models/A/07_revision.R",
+    "description": "Years dropped, El Niño 2018–19"
+  },
+  "A.rev.loepo.en2023.irr_lag0": {
+    "value": 1.08819750942477,
+    "display": "1.09 (95% CI 0.93–1.27)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, primary model refitted without El Niño 2023–24 (years 2023, 2024, 2025 dropped)"
+  },
+  "A.rev.loepo.en2023.irr_lag1": {
+    "value": 1.02032572321179,
+    "display": "1.02 (95% CI 0.91–1.15)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, primary model refitted without El Niño 2023–24 (years 2023, 2024, 2025 dropped)"
+  },
+  "A.rev.loepo.en2023.n": {
+    "value": 680,
+    "display": "680",
+    "script": "models/A/07_revision.R",
+    "description": "Unit-years, refit without El Niño 2023–24"
+  },
+  "A.rev.loepo.en2023.years_dropped": {
+    "value": "2023;2024;2025",
+    "display": "2023–2025",
+    "script": "models/A/07_revision.R",
+    "description": "Years dropped, El Niño 2023–24"
+  },
+  "A.rev.loepo.irr_lag0_range": {
+    "value": 0.130608584627524,
+    "display": "1.06 to 1.19",
+    "script": "models/A/07_revision.R",
+    "description": "Range of ONI lag-0 IRR point estimates across leave-one-episode-out refits"
+  },
+  "A.rev.loepo.irr_lag0_range_text": {
+    "value": 0.130608584627524,
+    "display": "1.06 (without La Niña 2020–21) to 1.19 (without El Niño 2009–10)",
+    "script": "models/A/07_revision.R",
+    "description": "Range of lag-0 IRRs across leave-one-episode-out refits, with the episode left out"
+  },
+  "A.rev.loepo.irr_lag1_range": {
+    "value": 0.08281347080321,
+    "display": "1.02 to 1.10",
+    "script": "models/A/07_revision.R",
+    "description": "Range of ONI lag-1 IRR point estimates across leave-one-episode-out refits"
+  },
+  "A.rev.loepo.ln2007.irr_lag0": {
+    "value": 1.16040364140705,
+    "display": "1.16 (95% CI 1.00–1.34)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, primary model refitted without La Niña 2007–08 (years 2007, 2008, 2009 dropped)"
+  },
+  "A.rev.loepo.ln2007.irr_lag1": {
+    "value": 1.0547386105947,
+    "display": "1.05 (95% CI 0.94–1.18)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, primary model refitted without La Niña 2007–08 (years 2007, 2008, 2009 dropped)"
+  },
+  "A.rev.loepo.ln2007.n": {
+    "value": 680,
+    "display": "680",
+    "script": "models/A/07_revision.R",
+    "description": "Unit-years, refit without La Niña 2007–08"
+  },
+  "A.rev.loepo.ln2007.years_dropped": {
+    "value": "2007;2008;2009",
+    "display": "2007–2009",
+    "script": "models/A/07_revision.R",
+    "description": "Years dropped, La Niña 2007–08"
+  },
+  "A.rev.loepo.ln2010.irr_lag0": {
+    "value": 1.18081573751908,
+    "display": "1.18 (95% CI 1.03–1.35)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, primary model refitted without La Niña 2010–11 (years 2010, 2011, 2012 dropped)"
+  },
+  "A.rev.loepo.ln2010.irr_lag1": {
+    "value": 1.08305298013566,
+    "display": "1.08 (95% CI 0.95–1.23)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, primary model refitted without La Niña 2010–11 (years 2010, 2011, 2012 dropped)"
+  },
+  "A.rev.loepo.ln2010.n": {
+    "value": 680,
+    "display": "680",
+    "script": "models/A/07_revision.R",
+    "description": "Unit-years, refit without La Niña 2010–11"
+  },
+  "A.rev.loepo.ln2010.years_dropped": {
+    "value": "2010;2011;2012",
+    "display": "2010–2012",
+    "script": "models/A/07_revision.R",
+    "description": "Years dropped, La Niña 2010–11"
+  },
+  "A.rev.loepo.ln2011.irr_lag0": {
+    "value": 1.13175605157278,
+    "display": "1.13 (95% CI 0.99–1.29)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, primary model refitted without La Niña 2011–12 (years 2011, 2012, 2013 dropped)"
+  },
+  "A.rev.loepo.ln2011.irr_lag1": {
+    "value": 1.10172936127292,
+    "display": "1.10 (95% CI 0.97–1.25)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, primary model refitted without La Niña 2011–12 (years 2011, 2012, 2013 dropped)"
+  },
+  "A.rev.loepo.ln2011.n": {
+    "value": 680,
+    "display": "680",
+    "script": "models/A/07_revision.R",
+    "description": "Unit-years, refit without La Niña 2011–12"
+  },
+  "A.rev.loepo.ln2011.years_dropped": {
+    "value": "2011;2012;2013",
+    "display": "2011–2013",
+    "script": "models/A/07_revision.R",
+    "description": "Years dropped, La Niña 2011–12"
+  },
+  "A.rev.loepo.ln2020.irr_lag0": {
+    "value": 1.05539685536166,
+    "display": "1.06 (95% CI 0.91–1.23)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, primary model refitted without La Niña 2020–21 (years 2020, 2021, 2022 dropped)"
+  },
+  "A.rev.loepo.ln2020.irr_lag1": {
+    "value": 1.06611310499664,
+    "display": "1.07 (95% CI 0.96–1.18)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, primary model refitted without La Niña 2020–21 (years 2020, 2021, 2022 dropped)"
+  },
+  "A.rev.loepo.ln2020.n": {
+    "value": 680,
+    "display": "680",
+    "script": "models/A/07_revision.R",
+    "description": "Unit-years, refit without La Niña 2020–21"
+  },
+  "A.rev.loepo.ln2020.years_dropped": {
+    "value": "2020;2021;2022",
+    "display": "2020–2022",
+    "script": "models/A/07_revision.R",
+    "description": "Years dropped, La Niña 2020–21"
+  },
+  "A.rev.loepo.n_lag0_excluding_1": {
+    "value": 5,
+    "display": "5 of 9",
+    "script": "models/A/07_revision.R",
+    "description": "Leave-one-episode-out refits whose lag-0 95% CI lies above 1"
+  },
+  "A.rev.nonlin.linear.irr_lag0": {
+    "value": 1.16556437172762,
+    "display": "1.17 (95% CI 1.03–1.32)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR, primary + linear March-June Tmax anomaly and JJAS rainfall departure (lags 0 and 1); structure diag"
+  },
+  "A.rev.nonlin.linear.irr_lag1": {
+    "value": 1.0743607405147,
+    "display": "1.07 (95% CI 0.96–1.20)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR, primary + linear March-June Tmax anomaly and JJAS rainfall departure (lags 0 and 1); structure diag"
+  },
+  "A.rev.nonlin.lrt_chisq": {
+    "value": 13.8075456096594,
+    "display": "13.81 on 8 df",
+    "script": "models/A/07_revision.R",
+    "description": "LRT statistic, spline vs linear climate"
+  },
+  "A.rev.nonlin.lrt_p": {
+    "value": 0.0869216478475281,
+    "display": "p = 0.087",
+    "script": "models/A/07_revision.R",
+    "description": "LRT spline vs linear climate (chi-square 13.81 on 8 df; same rows; same RE structure: TRUE)"
+  },
+  "A.rev.nonlin.n": {
+    "value": 730,
+    "display": "730",
+    "script": "models/A/07_revision.R",
+    "description": "Unit-years in both climate models (AN and LD rainfall excluded)"
+  },
+  "A.rev.nonlin.spline.irr_lag0": {
+    "value": 1.15685498876733,
+    "display": "1.16 (95% CI 1.02–1.31)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR, primary + natural splines (3 df) of March-June Tmax anomaly and JJAS rainfall departure (lags 0 and 1); structure diag"
+  },
+  "A.rev.nonlin.spline.irr_lag1": {
+    "value": 1.07521410351831,
+    "display": "1.08 (95% CI 0.96–1.20)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR, primary + natural splines (3 df) of March-June Tmax anomaly and JJAS rainfall departure (lags 0 and 1); structure diag"
+  },
+  "A.rev.resid.acf_lag1": {
+    "value": 0.585810997818226,
+    "display": "0.59",
+    "script": "models/A/07_revision.R",
+    "description": "Lag-1 autocorrelation of the year-mean residual series"
+  },
+  "A.rev.resid.icc_year": {
+    "value": 0.000565239777808834,
+    "display": "0.001",
+    "script": "models/A/07_revision.R",
+    "description": "Intraclass correlation of the randomized quantile residuals by year (lmer, REML)"
+  },
+  "A.rev.resid.ks_uniform_p": {
+    "value": 0.0335763083313607,
+    "display": "p = 0.034",
+    "script": "models/A/07_revision.R",
+    "description": "Kolmogorov-Smirnov p, PIT values vs uniform (randomized, seed 20261117)"
+  },
+  "A.rev.resid.ljung_box_p_lag1": {
+    "value": 0.00274548629245804,
+    "display": "p = 0.003",
+    "script": "models/A/07_revision.R",
+    "description": "Ljung-Box test up to lag 1 of the year-mean randomized quantile residual series, primary model (Q = 8.97, 23 years)"
+  },
+  "A.rev.resid.ljung_box_p_lag2": {
+    "value": 0.0060393687364566,
+    "display": "p = 0.006",
+    "script": "models/A/07_revision.R",
+    "description": "Ljung-Box test up to lag 2 of the year-mean randomized quantile residual series, primary model (Q = 10.22, 23 years)"
+  },
+  "A.rev.resid.ljung_box_p_lag3": {
+    "value": 0.0157179175468394,
+    "display": "p = 0.016",
+    "script": "models/A/07_revision.R",
+    "description": "Ljung-Box test up to lag 3 of the year-mean randomized quantile residual series, primary model (Q = 10.36, 23 years)"
+  },
+  "A.rev.resid.pearson_dispersion": {
+    "value": 0.938924458787976,
+    "display": "0.94",
+    "script": "models/A/07_revision.R",
+    "description": "Pearson chi-square / residual df, primary model"
+  },
+  "A.rev.scen.oni_observed": {
+    "value": 1.9525,
+    "display": "+1.95",
+    "script": "models/A/07_revision.R",
+    "description": "Observed JJAS ONI 2026 used as the fourth scenario"
+  },
+  "A.rev.scen.primary.oni050.excess_2026": {
+    "value": 18001.8030286452,
+    "display": "18,002 (nominal 95% interval 2,335–37,904)",
+    "script": "models/A/07_revision.R",
+    "description": "All-unit expected excess malaria cases 2026, JJAS ONI 2026 (lag 0) 0.5000 vs ONI = 0 (lag-0 term), primary model; mean and 2.5-97.5 percentiles of 1000 joint draws (seed 20261022)"
+  },
+  "A.rev.scen.primary.oni050.excess_2027": {
+    "value": 9161.02873576606,
+    "display": "9,161 (nominal 95% interval −5,300 to 24,902)",
+    "script": "models/A/07_revision.R",
+    "description": "All-unit expected excess malaria cases 2027, JJAS ONI 2026 (lag 1 in 2027) 0.5000 vs ONI = 0 (lag-1 term), primary model; mean and 2.5-97.5 percentiles of 1000 joint draws (seed 20261022)"
+  },
+  "A.rev.scen.primary.oni100.excess_2026": {
+    "value": 37524.4499822163,
+    "display": "37,524 (nominal 95% interval 4,689–81,081)",
+    "script": "models/A/07_revision.R",
+    "description": "All-unit expected excess malaria cases 2026, JJAS ONI 2026 (lag 0) 1.0000 vs ONI = 0 (lag-0 term), primary model; mean and 2.5-97.5 percentiles of 1000 joint draws (seed 20261022)"
+  },
+  "A.rev.scen.primary.oni100.excess_2027": {
+    "value": 18817.3100909637,
+    "display": "18,817 (nominal 95% interval −10,522 to 51,729)",
+    "script": "models/A/07_revision.R",
+    "description": "All-unit expected excess malaria cases 2027, JJAS ONI 2026 (lag 1 in 2027) 1.0000 vs ONI = 0 (lag-1 term), primary model; mean and 2.5-97.5 percentiles of 1000 joint draws (seed 20261022)"
+  },
+  "A.rev.scen.primary.oni150.excess_2026": {
+    "value": 58711.8773760709,
+    "display": "58,712 (nominal 95% interval 7,063–128,744)",
+    "script": "models/A/07_revision.R",
+    "description": "All-unit expected excess malaria cases 2026, JJAS ONI 2026 (lag 0) 1.5000 vs ONI = 0 (lag-0 term), primary model; mean and 2.5-97.5 percentiles of 1000 joint draws (seed 20261022)"
+  },
+  "A.rev.scen.primary.oni150.excess_2027": {
+    "value": 28998.3813813852,
+    "display": "28,998 (nominal 95% interval −15,660 to 80,727)",
+    "script": "models/A/07_revision.R",
+    "description": "All-unit expected excess malaria cases 2027, JJAS ONI 2026 (lag 1 in 2027) 1.5000 vs ONI = 0 (lag-1 term), primary model; mean and 2.5-97.5 percentiles of 1000 joint draws (seed 20261022)"
+  },
+  "A.rev.scen.primary.oni_obs.excess_2026": {
+    "value": 79453.845347015,
+    "display": "79,454 (nominal 95% interval 9,228–178,611)",
+    "script": "models/A/07_revision.R",
+    "description": "All-unit expected excess malaria cases 2026, JJAS ONI 2026 (lag 0) 1.9525 vs ONI = 0 (lag-0 term), primary model; mean and 2.5-97.5 percentiles of 1000 joint draws (seed 20261022)"
+  },
+  "A.rev.scen.primary.oni_obs.excess_2027": {
+    "value": 38690.9435461691,
+    "display": "38,691 (nominal 95% interval −20,198 to 109,260)",
+    "script": "models/A/07_revision.R",
+    "description": "All-unit expected excess malaria cases 2027, JJAS ONI 2026 (lag 1 in 2027) 1.9525 vs ONI = 0 (lag-1 term), primary model; mean and 2.5-97.5 percentiles of 1000 joint draws (seed 20261022)"
+  },
+  "A.rev.scen.year_iid.oni050.excess_2026": {
+    "value": 18375.3108822632,
+    "display": "18,375 (nominal 95% interval 1,597–38,496)",
+    "script": "models/A/07_revision.R",
+    "description": "All-unit expected excess malaria cases 2026, JJAS ONI 2026 (lag 0) 0.5000 vs ONI = 0 (lag-0 term), iid year-effect model; mean and 2.5-97.5 percentiles of 1000 joint draws (seed 20261022); new-year effect drawn from N(0, sd_year^2), shared by units and scenarios"
+  },
+  "A.rev.scen.year_iid.oni050.excess_2027": {
+    "value": 8858.84839029235,
+    "display": "8,859 (nominal 95% interval −5,572 to 24,973)",
+    "script": "models/A/07_revision.R",
+    "description": "All-unit expected excess malaria cases 2027, JJAS ONI 2026 (lag 1 in 2027) 0.5000 vs ONI = 0 (lag-1 term), iid year-effect model; mean and 2.5-97.5 percentiles of 1000 joint draws (seed 20261022); new-year effect drawn from N(0, sd_year^2), shared by units and scenarios"
+  },
+  "A.rev.scen.year_iid.oni100.excess_2026": {
+    "value": 38321.6950670514,
+    "display": "38,322 (nominal 95% interval 3,204–81,738)",
+    "script": "models/A/07_revision.R",
+    "description": "All-unit expected excess malaria cases 2026, JJAS ONI 2026 (lag 0) 1.0000 vs ONI = 0 (lag-0 term), iid year-effect model; mean and 2.5-97.5 percentiles of 1000 joint draws (seed 20261022); new-year effect drawn from N(0, sd_year^2), shared by units and scenarios"
+  },
+  "A.rev.scen.year_iid.oni100.excess_2027": {
+    "value": 18197.2296005917,
+    "display": "18,197 (nominal 95% interval −11,018 to 52,380)",
+    "script": "models/A/07_revision.R",
+    "description": "All-unit expected excess malaria cases 2027, JJAS ONI 2026 (lag 1 in 2027) 1.0000 vs ONI = 0 (lag-1 term), iid year-effect model; mean and 2.5-97.5 percentiles of 1000 joint draws (seed 20261022); new-year effect drawn from N(0, sd_year^2), shared by units and scenarios"
+  },
+  "A.rev.scen.year_iid.oni150.excess_2026": {
+    "value": 59989.284677507,
+    "display": "59,989 (nominal 95% interval 4,821–130,631)",
+    "script": "models/A/07_revision.R",
+    "description": "All-unit expected excess malaria cases 2026, JJAS ONI 2026 (lag 0) 1.5000 vs ONI = 0 (lag-0 term), iid year-effect model; mean and 2.5-97.5 percentiles of 1000 joint draws (seed 20261022); new-year effect drawn from N(0, sd_year^2), shared by units and scenarios"
+  },
+  "A.rev.scen.year_iid.oni150.excess_2027": {
+    "value": 28043.6328297344,
+    "display": "28,044 (nominal 95% interval −16,341 to 82,547)",
+    "script": "models/A/07_revision.R",
+    "description": "All-unit expected excess malaria cases 2027, JJAS ONI 2026 (lag 1 in 2027) 1.5000 vs ONI = 0 (lag-1 term), iid year-effect model; mean and 2.5-97.5 percentiles of 1000 joint draws (seed 20261022); new-year effect drawn from N(0, sd_year^2), shared by units and scenarios"
+  },
+  "A.rev.scen.year_iid.oni_obs.excess_2026": {
+    "value": 81220.2426549995,
+    "display": "81,220 (nominal 95% interval 6,294–179,748)",
+    "script": "models/A/07_revision.R",
+    "description": "All-unit expected excess malaria cases 2026, JJAS ONI 2026 (lag 0) 1.9525 vs ONI = 0 (lag-0 term), iid year-effect model; mean and 2.5-97.5 percentiles of 1000 joint draws (seed 20261022); new-year effect drawn from N(0, sd_year^2), shared by units and scenarios"
+  },
+  "A.rev.scen.year_iid.oni_obs.excess_2027": {
+    "value": 37417.9549784578,
+    "display": "37,418 (nominal 95% interval −21,054 to 111,214)",
+    "script": "models/A/07_revision.R",
+    "description": "All-unit expected excess malaria cases 2027, JJAS ONI 2026 (lag 1 in 2027) 1.9525 vs ONI = 0 (lag-1 term), iid year-effect model; mean and 2.5-97.5 percentiles of 1000 joint draws (seed 20261022); new-year effect drawn from N(0, sd_year^2), shared by units and scenarios"
+  },
+  "A.rev.temporal.boot.irr_lag0": {
+    "value": 1.14183619635196,
+    "display": "1.14 (95% CI 0.92–1.24)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, primary model point estimate with percentile 95% CI from 999 moving-block (3-year) year bootstrap resamples, seed 20261117"
+  },
+  "A.rev.temporal.boot.irr_lag1": {
+    "value": 1.06637447372148,
+    "display": "1.07 (95% CI 0.93–1.22)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, primary model point estimate with percentile 95% CI from 999 moving-block (3-year) year bootstrap resamples, seed 20261117"
+  },
+  "A.rev.temporal.boot.n_failed": {
+    "value": 0,
+    "display": "0",
+    "script": "models/A/07_revision.R",
+    "description": "Bootstrap refits that failed to converge (of 999)"
+  },
+  "A.rev.temporal.boot.n_int_fallback": {
+    "value": 11,
+    "display": "11",
+    "script": "models/A/07_revision.R",
+    "description": "Bootstrap refits that converged only with random intercepts"
+  },
+  "A.rev.temporal.boot.n_ok": {
+    "value": 999,
+    "display": "999",
+    "script": "models/A/07_revision.R",
+    "description": "Bootstrap refits used (of 999)"
+  },
+  "A.rev.temporal.cluster.n_years": {
+    "value": 23,
+    "display": "23",
+    "script": "models/A/07_revision.R",
+    "description": "Number of year clusters G (years with malaria data)"
+  },
+  "A.rev.temporal.cluster_twoway.irr_lag0": {
+    "value": 1.1417126757524,
+    "display": "1.14 (95% CI 1.08–1.21)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, NB GLM with unit fixed effects, two-way cluster-robust by year and unit (vcovCL HC1), t(min(G) - 1) reference"
+  },
+  "A.rev.temporal.cluster_twoway.irr_lag1": {
+    "value": 1.06537156985404,
+    "display": "1.07 (95% CI 1.04–1.09)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, NB GLM with unit fixed effects, two-way cluster-robust by year and unit (vcovCL HC1), t(min(G) - 1) reference"
+  },
+  "A.rev.temporal.cluster_year.irr_lag0": {
+    "value": 1.1417126757524,
+    "display": "1.14 (95% CI 1.02–1.27)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, NB GLM with unit fixed effects, cluster-robust by year (vcovCL HC1), t(G - 1) reference"
+  },
+  "A.rev.temporal.cluster_year.irr_lag1": {
+    "value": 1.06537156985404,
+    "display": "1.07 (95% CI 0.97–1.17)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, NB GLM with unit fixed effects, cluster-robust by year (vcovCL HC1), t(G - 1) reference"
+  },
+  "A.rev.temporal.glm_model.irr_lag0": {
+    "value": 1.1417126757524,
+    "display": "1.14 (95% CI 1.02–1.28)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, NB GLM with unit fixed effects and the primary fixed terms, model-based Wald 95% CI"
+  },
+  "A.rev.temporal.glm_model.irr_lag1": {
+    "value": 1.06537156985404,
+    "display": "1.07 (95% CI 0.96–1.18)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, NB GLM with unit fixed effects and the primary fixed terms, model-based Wald 95% CI"
+  },
+  "A.rev.temporal.irr_lag0_range": {
+    "value": 0.000123636929055149,
+    "display": "1.14 to 1.14",
+    "script": "models/A/07_revision.R",
+    "description": "Range of ONI lag-0 IRR point estimates across the R2.1 inference variants (year effects, NB GLM, bootstrap)"
+  },
+  "A.rev.temporal.irr_lag1_range": {
+    "value": 0.00100298055088199,
+    "display": "1.07 to 1.07",
+    "script": "models/A/07_revision.R",
+    "description": "Range of ONI lag-1 IRR point estimates across the R2.1 inference variants (year effects, NB GLM, bootstrap)"
+  },
+  "A.rev.temporal.lag0_n_excluding_1": {
+    "value": 3,
+    "display": "3 of 4",
+    "script": "models/A/07_revision.R",
+    "description": "Inference variants of the decision rule whose lag-0 95% interval excludes 1"
+  },
+  "A.rev.temporal.lag0_verdict": {
+    "value": "not robust to shared temporal dependence",
+    "display": "not robust to shared temporal dependence",
+    "script": "models/A/07_revision.R",
+    "description": "Plan decision rule: robust only if the lag-0 95% interval excludes 1 under the iid year effect, AR(1) year effect, cluster-robust (year) and year-block bootstrap inference; excluding 1 in: year_iid, year_ar1, cluster_year"
+  },
+  "A.rev.temporal.lower_lag0_range": {
+    "value": 0.163114034914973,
+    "display": "0.92 to 1.08",
+    "script": "models/A/07_revision.R",
+    "description": "Range of the lower 95% limits of the ONI lag-0 IRR across the R2.1 inference variants"
+  },
+  "A.rev.temporal.lower_lag1_range": {
+    "value": 0.111310101377919,
+    "display": "0.93 to 1.04",
+    "script": "models/A/07_revision.R",
+    "description": "Range of the lower 95% limits of the ONI lag-1 IRR across the R2.1 inference variants"
+  },
+  "A.rev.temporal.year_ar1.irr_lag0": {
+    "value": 1.14183499234803,
+    "display": "1.14 (95% CI 1.01–1.29) (random intercepts only)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, primary model + AR(1) year random effect shared by all units, Wald 95% CI"
+  },
+  "A.rev.temporal.year_ar1.irr_lag1": {
+    "value": 1.06637234114674,
+    "display": "1.07 (95% CI 0.96–1.18) (random intercepts only)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, primary model + AR(1) year random effect shared by all units, Wald 95% CI"
+  },
+  "A.rev.temporal.year_ar1.rho": {
+    "value": 0.992667572281783,
+    "display": "0.99",
+    "script": "models/A/07_revision.R",
+    "description": "AR(1) correlation of the year effect"
+  },
+  "A.rev.temporal.year_ar1.sd_year": {
+    "value": 0.00016824549498228,
+    "display": "<0.001",
+    "script": "models/A/07_revision.R",
+    "description": "Marginal SD of the AR(1) year random effect (log-rate scale)"
+  },
+  "A.rev.temporal.year_iid.irr_lag0": {
+    "value": 1.14183631268146,
+    "display": "1.14 (95% CI 1.01–1.29)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, primary model + iid year random effect (1 | year), Wald 95% CI"
+  },
+  "A.rev.temporal.year_iid.irr_lag1": {
+    "value": 1.06637455040493,
+    "display": "1.07 (95% CI 0.96–1.18)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, primary model + iid year random effect (1 | year), Wald 95% CI"
+  },
+  "A.rev.temporal.year_iid.sd_year": {
+    "value": 8.07125818415012e-10,
+    "display": "<0.001",
+    "script": "models/A/07_revision.R",
+    "description": "SD of the iid year random effect (log-rate scale)"
+  },
+  "A.rev.tmax_tercile.cool.irr_lag0": {
+    "value": 1.05015685135922,
+    "display": "1.05 (95% CI 0.92–1.20)",
+    "script": "models/A/07_revision.R",
+    "description": "IRR per 1 C March-June Tmax anomaly (lag 0), units in the cool tercile of 1981-2010 March-June Tmax; structure diag"
+  },
+  "A.rev.tmax_tercile.cool.irr_lag1": {
+    "value": 1.12228557660537,
+    "display": "1.12 (95% CI 0.99–1.28)",
+    "script": "models/A/07_revision.R",
+    "description": "IRR per 1 C March-June Tmax anomaly (lag 1), units in the cool tercile of 1981-2010 March-June Tmax; structure diag"
+  },
+  "A.rev.tmax_tercile.cutpoints": {
+    "value": "31.519;35.456",
+    "display": "31.5 and 35.5 °C",
+    "script": "models/A/07_revision.R",
+    "description": "Tercile cut points of unit 1981-2010 March-June mean Tmax"
+  },
+  "A.rev.tmax_tercile.hot.irr_lag0": {
+    "value": 0.942954209909235,
+    "display": "0.94 (95% CI 0.84–1.06)",
+    "script": "models/A/07_revision.R",
+    "description": "IRR per 1 C March-June Tmax anomaly (lag 0), units in the hot tercile of 1981-2010 March-June Tmax; structure diag"
+  },
+  "A.rev.tmax_tercile.hot.irr_lag1": {
+    "value": 1.0851856535443,
+    "display": "1.09 (95% CI 0.97–1.21)",
+    "script": "models/A/07_revision.R",
+    "description": "IRR per 1 C March-June Tmax anomaly (lag 1), units in the hot tercile of 1981-2010 March-June Tmax; structure diag"
+  },
+  "A.rev.tmax_tercile.middle.irr_lag0": {
+    "value": 1.04917241298665,
+    "display": "1.05 (95% CI 0.91–1.20)",
+    "script": "models/A/07_revision.R",
+    "description": "IRR per 1 C March-June Tmax anomaly (lag 0), units in the middle tercile of 1981-2010 March-June Tmax; structure diag"
+  },
+  "A.rev.tmax_tercile.middle.irr_lag1": {
+    "value": 1.0737789328093,
+    "display": "1.07 (95% CI 0.95–1.22)",
+    "script": "models/A/07_revision.R",
+    "description": "IRR per 1 C March-June Tmax anomaly (lag 1), units in the middle tercile of 1981-2010 March-June Tmax; structure diag"
+  },
+  "A.rev.tmax_tercile.wald_p_lag0": {
+    "value": 0.356568286116587,
+    "display": "p = 0.357",
+    "script": "models/A/07_revision.R",
+    "description": "Wald test of equal lag-0 Tmax slopes across terciles (chi-square 2.06 on 2 df)"
+  },
+  "A.rev.tmax_tercile.wald_p_lag1": {
+    "value": 0.873506583418379,
+    "display": "p = 0.874",
+    "script": "models/A/07_revision.R",
+    "description": "Wald test of equal lag-1 Tmax slopes across terciles (chi-square 0.27 on 2 df)"
+  },
+  "A.rev.trend.irr_lag0_range": {
+    "value": 0.0308368523279925,
+    "display": "1.12 to 1.15",
+    "script": "models/A/07_revision.R",
+    "description": "Range of ONI lag-0 IRR point estimates across the alternative trend specifications"
+  },
+  "A.rev.trend.irr_lag1_range": {
+    "value": 0.0692660315115805,
+    "display": "1.06 to 1.13",
+    "script": "models/A/07_revision.R",
+    "description": "Range of ONI lag-1 IRR point estimates across the alternative trend specifications"
+  },
+  "A.rev.trend.ns3.irr_lag0": {
+    "value": 1.13882464046162,
+    "display": "1.14 (95% CI 1.00–1.29)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, primary model with trend ns(year, 3); structure diag"
+  },
+  "A.rev.trend.ns3.irr_lag1": {
+    "value": 1.13393885228787,
+    "display": "1.13 (95% CI 1.03–1.25)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, primary model with trend ns(year, 3); structure diag"
+  },
+  "A.rev.trend.ns3.n": {
+    "value": 782,
+    "display": "782",
+    "script": "models/A/07_revision.R",
+    "description": "Unit-years, trend ns(year, 3)"
+  },
+  "A.rev.trend.ns6.irr_lag0": {
+    "value": 1.11761228813578,
+    "display": "1.12 (95% CI 0.99–1.27)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, primary model with trend ns(year, 6); structure diag"
+  },
+  "A.rev.trend.ns6.irr_lag1": {
+    "value": 1.07172661567712,
+    "display": "1.07 (95% CI 0.96–1.20)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, primary model with trend ns(year, 6); structure diag"
+  },
+  "A.rev.trend.ns6.n": {
+    "value": 782,
+    "display": "782",
+    "script": "models/A/07_revision.R",
+    "description": "Unit-years, trend ns(year, 6)"
+  },
+  "A.rev.trend.ns8.irr_lag0": {
+    "value": 1.11621311575009,
+    "display": "1.12 (95% CI 0.97–1.28)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, primary model with trend ns(year, 8); structure diag"
+  },
+  "A.rev.trend.ns8.irr_lag1": {
+    "value": 1.08629598240447,
+    "display": "1.09 (95% CI 0.97–1.22)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, primary model with trend ns(year, 8); structure diag"
+  },
+  "A.rev.trend.ns8.n": {
+    "value": 782,
+    "display": "782",
+    "script": "models/A/07_revision.R",
+    "description": "Unit-years, trend ns(year, 8)"
+  },
+  "A.rev.trend.unit_linear.irr_lag0": {
+    "value": 1.14704996807808,
+    "display": "1.15 (95% CI 1.05–1.26)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-0 IRR per 1 C, primary model with trend ns(year, 4) + unit linear trends (random slope); structure diag"
+  },
+  "A.rev.trend.unit_linear.irr_lag1": {
+    "value": 1.06467282077629,
+    "display": "1.06 (95% CI 0.98–1.15)",
+    "script": "models/A/07_revision.R",
+    "description": "ONI lag-1 IRR per 1 C, primary model with trend ns(year, 4) + unit linear trends (random slope); structure diag"
+  },
+  "A.rev.trend.unit_linear.n": {
+    "value": 782,
+    "display": "782",
+    "script": "models/A/07_revision.R",
+    "description": "Unit-years, trend ns(year, 4) + unit linear trends (random slope)"
+  },
+  "A.rev.trend.unit_linear.sd_slope": {
+    "value": 0.811702777690602,
+    "display": "0.812",
+    "script": "models/A/07_revision.R",
+    "description": "SD of the unit random slope on centred year (log-rate per decade)"
+  },
+  "A.rev.trend_r2.k3": {
+    "value": 0.0984510975104085,
+    "display": "0.10",
+    "script": "models/A/07_revision.R",
+    "description": "R-squared of JJAS ONI (2002-2025, 24 years) regressed on ns(year, 3)"
+  },
+  "A.rev.trend_r2.k4": {
+    "value": 0.155194748575358,
+    "display": "0.16",
+    "script": "models/A/07_revision.R",
+    "description": "R-squared of JJAS ONI (2002-2025, 24 years) regressed on ns(year, 4)"
+  },
+  "A.rev.trend_r2.k6": {
+    "value": 0.208360322339997,
+    "display": "0.21",
+    "script": "models/A/07_revision.R",
+    "description": "R-squared of JJAS ONI (2002-2025, 24 years) regressed on ns(year, 6)"
+  },
+  "A.rev.trend_r2.k8": {
+    "value": 0.235479535099061,
+    "display": "0.24",
+    "script": "models/A/07_revision.R",
+    "description": "R-squared of JJAS ONI (2002-2025, 24 years) regressed on ns(year, 8)"
+  },
+  "A.rev.unpooled.irr_lag0_median": {
+    "value": 1.14115433010467,
+    "display": "1.14",
+    "script": "models/A/07_revision.R",
+    "description": "Median of unpooled unit-specific lag-0 IRRs"
+  },
+  "A.rev.unpooled.irr_lag0_range": {
+    "value": 1.16870576749846,
+    "display": "0.68 to 1.85",
+    "script": "models/A/07_revision.R",
+    "description": "Range of unpooled unit-specific lag-0 IRRs"
+  },
+  "A.rev.unpooled.n_units_dropped": {
+    "value": 1,
+    "display": "1",
+    "script": "models/A/07_revision.R",
+    "description": "Units without a unit-specific estimate (fewer than 15 complete years or no convergence)"
+  },
+  "A.rev.unpooled.n_units_fitted": {
+    "value": 33,
+    "display": "33",
+    "script": "models/A/07_revision.R",
+    "description": "Units with a converged unit-specific NB GLM"
+  },
+  "A.rev.unpooled.units_dropped": {
+    "value": "AR",
+    "display": "Arunachal Pradesh",
+    "script": "models/A/07_revision.R",
+    "description": "Units dropped: AR: error: NA/NaN/Inf in 'x'"
+  },
+  "A.rev.zone.central.irr_lag0": {
+    "value": 1.33523039421617,
+    "display": "1.34 (95% CI 1.01–1.77)",
+    "script": "models/A/07_revision.R",
+    "description": "Zone-specific ONI lag-0 IRR, Central zone (4 units), ONI x zone model"
+  },
+  "A.rev.zone.central.irr_lag1": {
+    "value": 1.24712879188477,
+    "display": "1.25 (95% CI 0.94–1.65)",
+    "script": "models/A/07_revision.R",
+    "description": "Zone-specific ONI lag-1 IRR, Central zone, ONI x zone model"
+  },
+  "A.rev.zone.eastern.irr_lag0": {
+    "value": 1.23379526695202,
+    "display": "1.23 (95% CI 0.94–1.61)",
+    "script": "models/A/07_revision.R",
+    "description": "Zone-specific ONI lag-0 IRR, Eastern zone (4 units), ONI x zone model"
+  },
+  "A.rev.zone.eastern.irr_lag1": {
+    "value": 1.1748730841109,
+    "display": "1.17 (95% CI 0.91–1.52)",
+    "script": "models/A/07_revision.R",
+    "description": "Zone-specific ONI lag-1 IRR, Eastern zone, ONI x zone model"
+  },
+  "A.rev.zone.irr_lag0_range": {
+    "value": 0.369677332380129,
+    "display": "0.97 to 1.34",
+    "script": "models/A/07_revision.R",
+    "description": "Range of ONI lag-0 IRR point estimates across the six zones (ONI x zone model)"
+  },
+  "A.rev.zone.irr_lag1_range": {
+    "value": 0.378476677997894,
+    "display": "0.87 to 1.25",
+    "script": "models/A/07_revision.R",
+    "description": "Range of ONI lag-1 IRR point estimates across the six zones (ONI x zone model)"
+  },
+  "A.rev.zone.northeastern.irr_lag0": {
+    "value": 1.23540486806453,
+    "display": "1.24 (95% CI 1.02–1.50)",
+    "script": "models/A/07_revision.R",
+    "description": "Zone-specific ONI lag-0 IRR, North-Eastern zone (8 units), ONI x zone model"
+  },
+  "A.rev.zone.northeastern.irr_lag1": {
+    "value": 1.03318646610461,
+    "display": "1.03 (95% CI 0.85–1.26)",
+    "script": "models/A/07_revision.R",
+    "description": "Zone-specific ONI lag-1 IRR, North-Eastern zone, ONI x zone model"
+  },
+  "A.rev.zone.northern.irr_lag0": {
+    "value": 0.982328217326869,
+    "display": "0.98 (95% CI 0.79–1.23)",
+    "script": "models/A/07_revision.R",
+    "description": "Zone-specific ONI lag-0 IRR, Northern zone (7 units), ONI x zone model"
+  },
+  "A.rev.zone.northern.irr_lag1": {
+    "value": 1.0089276634932,
+    "display": "1.01 (95% CI 0.82–1.24)",
+    "script": "models/A/07_revision.R",
+    "description": "Zone-specific ONI lag-1 IRR, Northern zone, ONI x zone model"
+  },
+  "A.rev.zone.southern.irr_lag0": {
+    "value": 1.12463676716736,
+    "display": "1.12 (95% CI 0.90–1.41)",
+    "script": "models/A/07_revision.R",
+    "description": "Zone-specific ONI lag-0 IRR, Southern zone (7 units), ONI x zone model"
+  },
+  "A.rev.zone.southern.irr_lag1": {
+    "value": 1.14595550893814,
+    "display": "1.15 (95% CI 0.92–1.43)",
+    "script": "models/A/07_revision.R",
+    "description": "Zone-specific ONI lag-1 IRR, Southern zone, ONI x zone model"
+  },
+  "A.rev.zone.wald_chisq": {
+    "value": 10.2961422789115,
+    "display": "10.30 on 10 df",
+    "script": "models/A/07_revision.R",
+    "description": "Joint Wald chi-square, ONI x zone"
+  },
+  "A.rev.zone.wald_p": {
+    "value": 0.414907209107878,
+    "display": "p = 0.415",
+    "script": "models/A/07_revision.R",
+    "description": "Wald test of the ONI x zone interactions at both lags (chi-square 10.30 on 10 df); structure diag"
+  },
+  "A.rev.zone.wald_p_lag0": {
+    "value": 0.299902080305431,
+    "display": "p = 0.300",
+    "script": "models/A/07_revision.R",
+    "description": "Wald test of the lag-0 ONI x zone interactions (chi-square 6.07 on 5 df)"
+  },
+  "A.rev.zone.wald_p_lag1": {
+    "value": 0.41901430278284,
+    "display": "p = 0.419",
+    "script": "models/A/07_revision.R",
+    "description": "Wald test of the lag-1 ONI x zone interactions (chi-square 4.97 on 5 df)"
+  },
+  "A.rev.zone.western.irr_lag0": {
+    "value": 0.965553061836044,
+    "display": "0.97 (95% CI 0.74–1.26)",
+    "script": "models/A/07_revision.R",
+    "description": "Zone-specific ONI lag-0 IRR, Western zone (4 units), ONI x zone model"
+  },
+  "A.rev.zone.western.irr_lag1": {
+    "value": 0.868652113886874,
+    "display": "0.87 (95% CI 0.67–1.13)",
+    "script": "models/A/07_revision.R",
+    "description": "Zone-specific ONI lag-1 IRR, Western zone, ONI x zone model"
+  },
+  "A.rev.moran.malaria_2002_2009.I": {
+    "value": 0.39278477591169225,
+    "display": "I = 0.39",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Global Moran's I of log mean malaria incidence 2002-2009 (queen, row-standardised, 32 units; islands and units without data excluded)"
+  },
+  "A.rev.moran.malaria_2002_2009.p": {
+    "value": 0.0021,
+    "display": "p = 0.002",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Two-sided permutation p (9999 permutations, seed 20261117) for Moran's I, malaria 2002-2009"
+  },
+  "A.rev.moran.malaria_2002_2009.n_units": {
+    "value": 32,
+    "display": "32",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units in Moran's I, malaria 2002-2009"
+  },
+  "A.rev.moran.malaria_2010_2017.I": {
+    "value": 0.3250611257929637,
+    "display": "I = 0.33",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Global Moran's I of log mean malaria incidence 2010-2017 (queen, row-standardised, 32 units; islands and units without data excluded)"
+  },
+  "A.rev.moran.malaria_2010_2017.p": {
+    "value": 0.0057,
+    "display": "p = 0.006",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Two-sided permutation p (9999 permutations, seed 20261117) for Moran's I, malaria 2010-2017"
+  },
+  "A.rev.moran.malaria_2010_2017.n_units": {
+    "value": 32,
+    "display": "32",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units in Moran's I, malaria 2010-2017"
+  },
+  "A.rev.moran.malaria_2018_2025.I": {
+    "value": 0.31741295605892805,
+    "display": "I = 0.32",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Global Moran's I of log mean malaria incidence 2018-2025 (queen, row-standardised, 32 units; islands and units without data excluded)"
+  },
+  "A.rev.moran.malaria_2018_2025.p": {
+    "value": 0.0077,
+    "display": "p = 0.008",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Two-sided permutation p (9999 permutations, seed 20261117) for Moran's I, malaria 2018-2025"
+  },
+  "A.rev.moran.malaria_2018_2025.n_units": {
+    "value": 32,
+    "display": "32",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units in Moran's I, malaria 2018-2025"
+  },
+  "A.rev.moran.dengue_2007_2017.I": {
+    "value": 0.15881999518218873,
+    "display": "I = 0.16",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Global Moran's I of log mean dengue incidence 2007-2017 (queen, row-standardised, 32 units; islands and units without data excluded)"
+  },
+  "A.rev.moran.dengue_2007_2017.p": {
+    "value": 0.1216,
+    "display": "p = 0.122",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Two-sided permutation p (9999 permutations, seed 20261117) for Moran's I, dengue 2007-2017"
+  },
+  "A.rev.moran.dengue_2007_2017.n_units": {
+    "value": 32,
+    "display": "32",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units in Moran's I, dengue 2007-2017"
+  },
+  "A.rev.moran.dengue_2018_2025.I": {
+    "value": 0.2187701755189445,
+    "display": "I = 0.22",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Global Moran's I of log mean dengue incidence 2018-2025 (queen, row-standardised, 32 units; islands and units without data excluded)"
+  },
+  "A.rev.moran.dengue_2018_2025.p": {
+    "value": 0.0464,
+    "display": "p = 0.046",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Two-sided permutation p (9999 permutations, seed 20261117) for Moran's I, dengue 2018-2025"
+  },
+  "A.rev.moran.dengue_2018_2025.n_units": {
+    "value": 32,
+    "display": "32",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units in Moran's I, dengue 2018-2025"
+  },
+  "A.rev.lisa.malaria.hh_units": {
+    "value": [
+      "Assam"
+    ],
+    "display": "Assam",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units in the high-high LISA cluster for malaria (whole period, conditional permutation p < 0.05)"
+  },
+  "A.rev.lisa.malaria.hh_n": {
+    "value": 1,
+    "display": "1",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Number of high-high LISA units, malaria"
+  },
+  "A.rev.lisa.malaria.ll_units": {
+    "value": [
+      "Jammu and Kashmir (incl. Ladakh)"
+    ],
+    "display": "Jammu and Kashmir (incl. Ladakh)",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units in the low-low LISA cluster for malaria (whole period, conditional permutation p < 0.05)"
+  },
+  "A.rev.lisa.malaria.ll_n": {
+    "value": 1,
+    "display": "1",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Number of low-low LISA units, malaria"
+  },
+  "A.rev.lisa.malaria.hl_units": {
+    "value": [
+      "Haryana"
+    ],
+    "display": "Haryana",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units in the high-low LISA cluster for malaria (whole period, conditional permutation p < 0.05)"
+  },
+  "A.rev.lisa.malaria.hl_n": {
+    "value": 1,
+    "display": "1",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Number of high-low LISA units, malaria"
+  },
+  "A.rev.lisa.malaria.lh_units": {
+    "value": [],
+    "display": "none",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units in the low-high LISA cluster for malaria (whole period, conditional permutation p < 0.05)"
+  },
+  "A.rev.lisa.malaria.lh_n": {
+    "value": 0,
+    "display": "0",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Number of low-high LISA units, malaria"
+  },
+  "A.rev.lisa.dengue.hh_units": {
+    "value": [],
+    "display": "none",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units in the high-high LISA cluster for dengue (whole period, conditional permutation p < 0.05)"
+  },
+  "A.rev.lisa.dengue.hh_n": {
+    "value": 0,
+    "display": "0",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Number of high-high LISA units, dengue"
+  },
+  "A.rev.lisa.dengue.ll_units": {
+    "value": [
+      "Chhattisgarh"
+    ],
+    "display": "Chhattisgarh",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units in the low-low LISA cluster for dengue (whole period, conditional permutation p < 0.05)"
+  },
+  "A.rev.lisa.dengue.ll_n": {
+    "value": 1,
+    "display": "1",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Number of low-low LISA units, dengue"
+  },
+  "A.rev.lisa.dengue.hl_units": {
+    "value": [],
+    "display": "none",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units in the high-low LISA cluster for dengue (whole period, conditional permutation p < 0.05)"
+  },
+  "A.rev.lisa.dengue.hl_n": {
+    "value": 0,
+    "display": "0",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Number of high-low LISA units, dengue"
+  },
+  "A.rev.lisa.dengue.lh_units": {
+    "value": [],
+    "display": "none",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units in the low-high LISA cluster for dengue (whole period, conditional permutation p < 0.05)"
+  },
+  "A.rev.lisa.dengue.lh_n": {
+    "value": 0,
+    "display": "0",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Number of low-high LISA units, dengue"
+  },
+  "A.rev.moran.unpooled_irr_lag0.I": {
+    "value": 0.06656564888423565,
+    "display": "I = 0.07",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Moran's I of unpooled unit-specific lag-0 log ONI IRRs (31 units)"
+  },
+  "A.rev.moran.unpooled_irr_lag0.p": {
+    "value": 0.4366,
+    "display": "p = 0.437",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Two-sided permutation p (9999) for Moran's I of unpooled lag-0 log IRRs"
+  },
+  "A.rev.trend.malaria.n_decreasing": {
+    "value": 30,
+    "display": "30",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units (of 34) with a significant (modified Mann-Kendall p < 0.05) decreasing trend in log malaria incidence"
+  },
+  "A.rev.trend.malaria.n_increasing": {
+    "value": 0,
+    "display": "0",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units with a significant increasing trend, malaria"
+  },
+  "A.rev.trend.malaria.n_none": {
+    "value": 4,
+    "display": "4",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units with no significant trend, malaria"
+  },
+  "A.rev.trend.malaria.median_sen_pct": {
+    "value": -10.9601352582594,
+    "display": "-11.0%",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Median across units of Sen's slope as % change per year, malaria (100*(exp(slope)-1) of log(incidence + 0.01))"
+  },
+  "A.rev.trend.malaria.n_units": {
+    "value": 34,
+    "display": "34",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units in the trend analysis, malaria"
+  },
+  "A.rev.trend.malaria.decreasing_units": {
+    "value": [
+      "Andaman and Nicobar Islands",
+      "Andhra Pradesh and Telangana",
+      "Arunachal Pradesh",
+      "Assam",
+      "Bihar",
+      "Chhattisgarh",
+      "Chandigarh",
+      "Dadra and Nagar Haveli and Daman and Diu",
+      "Goa",
+      "Gujarat",
+      "Himachal Pradesh",
+      "Haryana",
+      "Jharkhand",
+      "Jammu and Kashmir (incl. Ladakh)",
+      "Karnataka",
+      "Kerala",
+      "Maharashtra",
+      "Meghalaya",
+      "Manipur",
+      "Madhya Pradesh",
+      "Nagaland",
+      "Odisha",
+      "Puducherry",
+      "Rajasthan",
+      "Sikkim",
+      "Tamil Nadu",
+      "Tripura",
+      "Uttarakhand",
+      "Uttar Pradesh",
+      "West Bengal"
+    ],
+    "display": "Andaman and Nicobar Islands, Andhra Pradesh and Telangana, Arunachal Pradesh, Assam, Bihar, Chhattisgarh, Chandigarh, Dadra and Nagar Haveli and Daman and Diu, Goa, Gujarat, Himachal Pradesh, Haryana, Jharkhand, Jammu and Kashmir (incl. Ladakh), Karnataka, Kerala, Maharashtra, Meghalaya, Manipur, Madhya Pradesh, Nagaland, Odisha, Puducherry, Rajasthan, Sikkim, Tamil Nadu, Tripura, Uttarakhand, Uttar Pradesh, West Bengal",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units with significant decreasing trend, malaria"
+  },
+  "A.rev.trend.malaria.increasing_units": {
+    "value": [],
+    "display": "none",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units with significant increasing trend, malaria"
+  },
+  "A.rev.trend.malaria.n_unmodified_decreasing": {
+    "value": 31,
+    "display": "31",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units with unmodified Mann-Kendall p < 0.05 and decreasing slope, malaria (comparison)"
+  },
+  "A.rev.trend.dengue.n_decreasing": {
+    "value": 0,
+    "display": "0",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units (of 34) with a significant (modified Mann-Kendall p < 0.05) decreasing trend in log dengue incidence"
+  },
+  "A.rev.trend.dengue.n_increasing": {
+    "value": 31,
+    "display": "31",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units with a significant increasing trend, dengue"
+  },
+  "A.rev.trend.dengue.n_none": {
+    "value": 3,
+    "display": "3",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units with no significant trend, dengue"
+  },
+  "A.rev.trend.dengue.median_sen_pct": {
+    "value": 20.174162129487172,
+    "display": "20.2%",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Median across units of Sen's slope as % change per year, dengue (100*(exp(slope)-1) of log(incidence + 0.1))"
+  },
+  "A.rev.trend.dengue.n_units": {
+    "value": 34,
+    "display": "34",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units in the trend analysis, dengue"
+  },
+  "A.rev.trend.dengue.decreasing_units": {
+    "value": [],
+    "display": "none",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units with significant decreasing trend, dengue"
+  },
+  "A.rev.trend.dengue.increasing_units": {
+    "value": [
+      "Andaman and Nicobar Islands",
+      "Andhra Pradesh and Telangana",
+      "Arunachal Pradesh",
+      "Bihar",
+      "Chhattisgarh",
+      "Delhi",
+      "Goa",
+      "Gujarat",
+      "Himachal Pradesh",
+      "Haryana",
+      "Jharkhand",
+      "Jammu and Kashmir (incl. Ladakh)",
+      "Karnataka",
+      "Kerala",
+      "Lakshadweep",
+      "Maharashtra",
+      "Meghalaya",
+      "Manipur",
+      "Madhya Pradesh",
+      "Mizoram",
+      "Nagaland",
+      "Odisha",
+      "Punjab",
+      "Puducherry",
+      "Rajasthan",
+      "Sikkim",
+      "Tamil Nadu",
+      "Tripura",
+      "Uttarakhand",
+      "Uttar Pradesh",
+      "West Bengal"
+    ],
+    "display": "Andaman and Nicobar Islands, Andhra Pradesh and Telangana, Arunachal Pradesh, Bihar, Chhattisgarh, Delhi, Goa, Gujarat, Himachal Pradesh, Haryana, Jharkhand, Jammu and Kashmir (incl. Ladakh), Karnataka, Kerala, Lakshadweep, Maharashtra, Meghalaya, Manipur, Madhya Pradesh, Mizoram, Nagaland, Odisha, Punjab, Puducherry, Rajasthan, Sikkim, Tamil Nadu, Tripura, Uttarakhand, Uttar Pradesh, West Bengal",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units with significant increasing trend, dengue"
+  },
+  "A.rev.trend.dengue.n_unmodified_decreasing": {
+    "value": 0,
+    "display": "0",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units with unmodified Mann-Kendall p < 0.05 and decreasing slope, dengue (comparison)"
+  },
+  "A.rev.sir.malaria.max": {
+    "value": 12.225006963749959,
+    "display": "12.2",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Largest malaria standardised incidence ratio (Mizoram)"
+  },
+  "A.rev.sir.dengue.max": {
+    "value": 11.44589681610623,
+    "display": "11.4",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Largest dengue standardised incidence ratio (Lakshadweep)"
+  },
+  "A.rev.weights.n_islands": {
+    "value": 2,
+    "display": "2",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Units without queen neighbours (AN, LD)"
+  },
+  "A.rev.weights.n_edges": {
+    "value": 62,
+    "display": "62",
+    "script": "papers/A/revision/spatial_trends.py",
+    "description": "Queen-contiguity edges among the 34 units (1 km buffer)"
   }
 }

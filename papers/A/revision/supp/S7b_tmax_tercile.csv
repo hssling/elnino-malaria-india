@@ -1,0 +1,7 @@
+Climatological Tmax tercile,Lag,"Tmax anomaly, IRR per 1 °C (95% CI)","Wald p, equal slopes"
+Cool,0,1.05 (0.92–1.20),0.357
+Middle,0,1.05 (0.91–1.20),0.357
+Hot,0,0.94 (0.84–1.06),0.357
+Cool,1,1.12 (0.99–1.28),0.874
+Middle,1,1.07 (0.95–1.22),0.874
+Hot,1,1.09 (0.97–1.21),0.874

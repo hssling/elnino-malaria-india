@@ -1,0 +1,338 @@
+{
+ "A.rev.moran.malaria_2002_2009.I": {
+  "value": 0.39278477591169225,
+  "display": "I = 0.39",
+  "description": "Global Moran's I of log mean malaria incidence 2002-2009 (queen, row-standardised, 32 units; islands and units without data excluded)"
+ },
+ "A.rev.moran.malaria_2002_2009.p": {
+  "value": 0.0021,
+  "display": "p = 0.002",
+  "description": "Two-sided permutation p (9999 permutations, seed 20261117) for Moran's I, malaria 2002-2009"
+ },
+ "A.rev.moran.malaria_2002_2009.n_units": {
+  "value": 32,
+  "display": "32",
+  "description": "Units in Moran's I, malaria 2002-2009"
+ },
+ "A.rev.moran.malaria_2010_2017.I": {
+  "value": 0.3250611257929637,
+  "display": "I = 0.33",
+  "description": "Global Moran's I of log mean malaria incidence 2010-2017 (queen, row-standardised, 32 units; islands and units without data excluded)"
+ },
+ "A.rev.moran.malaria_2010_2017.p": {
+  "value": 0.0057,
+  "display": "p = 0.006",
+  "description": "Two-sided permutation p (9999 permutations, seed 20261117) for Moran's I, malaria 2010-2017"
+ },
+ "A.rev.moran.malaria_2010_2017.n_units": {
+  "value": 32,
+  "display": "32",
+  "description": "Units in Moran's I, malaria 2010-2017"
+ },
+ "A.rev.moran.malaria_2018_2025.I": {
+  "value": 0.31741295605892805,
+  "display": "I = 0.32",
+  "description": "Global Moran's I of log mean malaria incidence 2018-2025 (queen, row-standardised, 32 units; islands and units without data excluded)"
+ },
+ "A.rev.moran.malaria_2018_2025.p": {
+  "value": 0.0077,
+  "display": "p = 0.008",
+  "description": "Two-sided permutation p (9999 permutations, seed 20261117) for Moran's I, malaria 2018-2025"
+ },
+ "A.rev.moran.malaria_2018_2025.n_units": {
+  "value": 32,
+  "display": "32",
+  "description": "Units in Moran's I, malaria 2018-2025"
+ },
+ "A.rev.moran.dengue_2007_2017.I": {
+  "value": 0.15881999518218873,
+  "display": "I = 0.16",
+  "description": "Global Moran's I of log mean dengue incidence 2007-2017 (queen, row-standardised, 32 units; islands and units without data excluded)"
+ },
+ "A.rev.moran.dengue_2007_2017.p": {
+  "value": 0.1216,
+  "display": "p = 0.122",
+  "description": "Two-sided permutation p (9999 permutations, seed 20261117) for Moran's I, dengue 2007-2017"
+ },
+ "A.rev.moran.dengue_2007_2017.n_units": {
+  "value": 32,
+  "display": "32",
+  "description": "Units in Moran's I, dengue 2007-2017"
+ },
+ "A.rev.moran.dengue_2018_2025.I": {
+  "value": 0.2187701755189445,
+  "display": "I = 0.22",
+  "description": "Global Moran's I of log mean dengue incidence 2018-2025 (queen, row-standardised, 32 units; islands and units without data excluded)"
+ },
+ "A.rev.moran.dengue_2018_2025.p": {
+  "value": 0.0464,
+  "display": "p = 0.046",
+  "description": "Two-sided permutation p (9999 permutations, seed 20261117) for Moran's I, dengue 2018-2025"
+ },
+ "A.rev.moran.dengue_2018_2025.n_units": {
+  "value": 32,
+  "display": "32",
+  "description": "Units in Moran's I, dengue 2018-2025"
+ },
+ "A.rev.lisa.malaria.hh_units": {
+  "value": [
+   "Assam"
+  ],
+  "display": "Assam",
+  "description": "Units in the high-high LISA cluster for malaria (whole period, conditional permutation p < 0.05)"
+ },
+ "A.rev.lisa.malaria.hh_n": {
+  "value": 1,
+  "display": "1",
+  "description": "Number of high-high LISA units, malaria"
+ },
+ "A.rev.lisa.malaria.ll_units": {
+  "value": [
+   "Jammu and Kashmir (incl. Ladakh)"
+  ],
+  "display": "Jammu and Kashmir (incl. Ladakh)",
+  "description": "Units in the low-low LISA cluster for malaria (whole period, conditional permutation p < 0.05)"
+ },
+ "A.rev.lisa.malaria.ll_n": {
+  "value": 1,
+  "display": "1",
+  "description": "Number of low-low LISA units, malaria"
+ },
+ "A.rev.lisa.malaria.hl_units": {
+  "value": [
+   "Haryana"
+  ],
+  "display": "Haryana",
+  "description": "Units in the high-low LISA cluster for malaria (whole period, conditional permutation p < 0.05)"
+ },
+ "A.rev.lisa.malaria.hl_n": {
+  "value": 1,
+  "display": "1",
+  "description": "Number of high-low LISA units, malaria"
+ },
+ "A.rev.lisa.malaria.lh_units": {
+  "value": [],
+  "display": "none",
+  "description": "Units in the low-high LISA cluster for malaria (whole period, conditional permutation p < 0.05)"
+ },
+ "A.rev.lisa.malaria.lh_n": {
+  "value": 0,
+  "display": "0",
+  "description": "Number of low-high LISA units, malaria"
+ },
+ "A.rev.lisa.dengue.hh_units": {
+  "value": [],
+  "display": "none",
+  "description": "Units in the high-high LISA cluster for dengue (whole period, conditional permutation p < 0.05)"
+ },
+ "A.rev.lisa.dengue.hh_n": {
+  "value": 0,
+  "display": "0",
+  "description": "Number of high-high LISA units, dengue"
+ },
+ "A.rev.lisa.dengue.ll_units": {
+  "value": [
+   "Chhattisgarh"
+  ],
+  "display": "Chhattisgarh",
+  "description": "Units in the low-low LISA cluster for dengue (whole period, conditional permutation p < 0.05)"
+ },
+ "A.rev.lisa.dengue.ll_n": {
+  "value": 1,
+  "display": "1",
+  "description": "Number of low-low LISA units, dengue"
+ },
+ "A.rev.lisa.dengue.hl_units": {
+  "value": [],
+  "display": "none",
+  "description": "Units in the high-low LISA cluster for dengue (whole period, conditional permutation p < 0.05)"
+ },
+ "A.rev.lisa.dengue.hl_n": {
+  "value": 0,
+  "display": "0",
+  "description": "Number of high-low LISA units, dengue"
+ },
+ "A.rev.lisa.dengue.lh_units": {
+  "value": [],
+  "display": "none",
+  "description": "Units in the low-high LISA cluster for dengue (whole period, conditional permutation p < 0.05)"
+ },
+ "A.rev.lisa.dengue.lh_n": {
+  "value": 0,
+  "display": "0",
+  "description": "Number of low-high LISA units, dengue"
+ },
+ "A.rev.moran.unpooled_irr_lag0.I": {
+  "value": 0.06656564888423565,
+  "display": "I = 0.07",
+  "description": "Moran's I of unpooled unit-specific lag-0 log ONI IRRs (31 units)"
+ },
+ "A.rev.moran.unpooled_irr_lag0.p": {
+  "value": 0.4366,
+  "display": "p = 0.437",
+  "description": "Two-sided permutation p (9999) for Moran's I of unpooled lag-0 log IRRs"
+ },
+ "A.rev.trend.malaria.n_decreasing": {
+  "value": 30,
+  "display": "30",
+  "description": "Units (of 34) with a significant (modified Mann-Kendall p < 0.05) decreasing trend in log malaria incidence"
+ },
+ "A.rev.trend.malaria.n_increasing": {
+  "value": 0,
+  "display": "0",
+  "description": "Units with a significant increasing trend, malaria"
+ },
+ "A.rev.trend.malaria.n_none": {
+  "value": 4,
+  "display": "4",
+  "description": "Units with no significant trend, malaria"
+ },
+ "A.rev.trend.malaria.median_sen_pct": {
+  "value": -10.9601352582594,
+  "display": "-11.0%",
+  "description": "Median across units of Sen's slope as % change per year, malaria (100*(exp(slope)-1) of log(incidence + 0.01))"
+ },
+ "A.rev.trend.malaria.n_units": {
+  "value": 34,
+  "display": "34",
+  "description": "Units in the trend analysis, malaria"
+ },
+ "A.rev.trend.malaria.decreasing_units": {
+  "value": [
+   "Andaman and Nicobar Islands",
+   "Andhra Pradesh and Telangana",
+   "Arunachal Pradesh",
+   "Assam",
+   "Bihar",
+   "Chhattisgarh",
+   "Chandigarh",
+   "Dadra and Nagar Haveli and Daman and Diu",
+   "Goa",
+   "Gujarat",
+   "Himachal Pradesh",
+   "Haryana",
+   "Jharkhand",
+   "Jammu and Kashmir (incl. Ladakh)",
+   "Karnataka",
+   "Kerala",
+   "Maharashtra",
+   "Meghalaya",
+   "Manipur",
+   "Madhya Pradesh",
+   "Nagaland",
+   "Odisha",
+   "Puducherry",
+   "Rajasthan",
+   "Sikkim",
+   "Tamil Nadu",
+   "Tripura",
+   "Uttarakhand",
+   "Uttar Pradesh",
+   "West Bengal"
+  ],
+  "display": "Andaman and Nicobar Islands, Andhra Pradesh and Telangana, Arunachal Pradesh, Assam, Bihar, Chhattisgarh, Chandigarh, Dadra and Nagar Haveli and Daman and Diu, Goa, Gujarat, Himachal Pradesh, Haryana, Jharkhand, Jammu and Kashmir (incl. Ladakh), Karnataka, Kerala, Maharashtra, Meghalaya, Manipur, Madhya Pradesh, Nagaland, Odisha, Puducherry, Rajasthan, Sikkim, Tamil Nadu, Tripura, Uttarakhand, Uttar Pradesh, West Bengal",
+  "description": "Units with significant decreasing trend, malaria"
+ },
+ "A.rev.trend.malaria.increasing_units": {
+  "value": [],
+  "display": "none",
+  "description": "Units with significant increasing trend, malaria"
+ },
+ "A.rev.trend.malaria.n_unmodified_decreasing": {
+  "value": 31,
+  "display": "31",
+  "description": "Units with unmodified Mann-Kendall p < 0.05 and decreasing slope, malaria (comparison)"
+ },
+ "A.rev.trend.dengue.n_decreasing": {
+  "value": 0,
+  "display": "0",
+  "description": "Units (of 34) with a significant (modified Mann-Kendall p < 0.05) decreasing trend in log dengue incidence"
+ },
+ "A.rev.trend.dengue.n_increasing": {
+  "value": 31,
+  "display": "31",
+  "description": "Units with a significant increasing trend, dengue"
+ },
+ "A.rev.trend.dengue.n_none": {
+  "value": 3,
+  "display": "3",
+  "description": "Units with no significant trend, dengue"
+ },
+ "A.rev.trend.dengue.median_sen_pct": {
+  "value": 20.174162129487172,
+  "display": "20.2%",
+  "description": "Median across units of Sen's slope as % change per year, dengue (100*(exp(slope)-1) of log(incidence + 0.1))"
+ },
+ "A.rev.trend.dengue.n_units": {
+  "value": 34,
+  "display": "34",
+  "description": "Units in the trend analysis, dengue"
+ },
+ "A.rev.trend.dengue.decreasing_units": {
+  "value": [],
+  "display": "none",
+  "description": "Units with significant decreasing trend, dengue"
+ },
+ "A.rev.trend.dengue.increasing_units": {
+  "value": [
+   "Andaman and Nicobar Islands",
+   "Andhra Pradesh and Telangana",
+   "Arunachal Pradesh",
+   "Bihar",
+   "Chhattisgarh",
+   "Delhi",
+   "Goa",
+   "Gujarat",
+   "Himachal Pradesh",
+   "Haryana",
+   "Jharkhand",
+   "Jammu and Kashmir (incl. Ladakh)",
+   "Karnataka",
+   "Kerala",
+   "Lakshadweep",
+   "Maharashtra",
+   "Meghalaya",
+   "Manipur",
+   "Madhya Pradesh",
+   "Mizoram",
+   "Nagaland",
+   "Odisha",
+   "Punjab",
+   "Puducherry",
+   "Rajasthan",
+   "Sikkim",
+   "Tamil Nadu",
+   "Tripura",
+   "Uttarakhand",
+   "Uttar Pradesh",
+   "West Bengal"
+  ],
+  "display": "Andaman and Nicobar Islands, Andhra Pradesh and Telangana, Arunachal Pradesh, Bihar, Chhattisgarh, Delhi, Goa, Gujarat, Himachal Pradesh, Haryana, Jharkhand, Jammu and Kashmir (incl. Ladakh), Karnataka, Kerala, Lakshadweep, Maharashtra, Meghalaya, Manipur, Madhya Pradesh, Mizoram, Nagaland, Odisha, Punjab, Puducherry, Rajasthan, Sikkim, Tamil Nadu, Tripura, Uttarakhand, Uttar Pradesh, West Bengal",
+  "description": "Units with significant increasing trend, dengue"
+ },
+ "A.rev.trend.dengue.n_unmodified_decreasing": {
+  "value": 0,
+  "display": "0",
+  "description": "Units with unmodified Mann-Kendall p < 0.05 and decreasing slope, dengue (comparison)"
+ },
+ "A.rev.sir.malaria.max": {
+  "value": 12.225006963749959,
+  "display": "12.2",
+  "description": "Largest malaria standardised incidence ratio (Mizoram)"
+ },
+ "A.rev.sir.dengue.max": {
+  "value": 11.44589681610623,
+  "display": "11.4",
+  "description": "Largest dengue standardised incidence ratio (Lakshadweep)"
+ },
+ "A.rev.weights.n_islands": {
+  "value": 2,
+  "display": "2",
+  "description": "Units without queen neighbours (AN, LD)"
+ },
+ "A.rev.weights.n_edges": {
+  "value": 62,
+  "display": "62",
+  "description": "Queen-contiguity edges among the 34 units (1 km buffer)"
+ }
+}

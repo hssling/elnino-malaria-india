@@ -1,0 +1,69 @@
+Outcome,Unit,Years,"Sen's slope, % per year",Modified Mann–Kendall p,Trend (p < 0.05)
+Malaria,Andaman and Nicobar Islands,23,−21.0,0.002,decreasing
+Malaria,Andhra Pradesh and Telangana,23,−8.5,0.003,decreasing
+Malaria,Arunachal Pradesh,23,−30.7,0.001,decreasing
+Malaria,Assam,23,−23.9,<0.001,decreasing
+Malaria,Bihar,23,−4.1,0.002,decreasing
+Malaria,Chhattisgarh,23,−10.1,0.003,decreasing
+Malaria,Chandigarh,23,−14.3,0.004,decreasing
+Malaria,Delhi,23,−2.4,0.539,none
+Malaria,Dadra and Nagar Haveli and Daman and Diu,23,−19.3,0.044,decreasing
+Malaria,Goa,23,−18.3,<0.001,decreasing
+Malaria,Gujarat,23,−16.2,<0.001,decreasing
+Malaria,Himachal Pradesh,23,−4.7,0.011,decreasing
+Malaria,Haryana,23,−19.4,0.025,decreasing
+Malaria,Jharkhand,23,−10.5,0.005,decreasing
+Malaria,Jammu and Kashmir (incl. Ladakh),23,−5.3,0.029,decreasing
+Malaria,Karnataka,23,−20.2,<0.001,decreasing
+Malaria,Kerala,23,−5.9,<0.001,decreasing
+Malaria,Lakshadweep,23,−3.1,0.240,none
+Malaria,Maharashtra,23,−8.1,0.013,decreasing
+Malaria,Meghalaya,23,−17.7,0.050,decreasing
+Malaria,Manipur,23,−18.6,<0.001,decreasing
+Malaria,Madhya Pradesh,23,−16.0,0.005,decreasing
+Malaria,Mizoram,23,0.1,0.936,none
+Malaria,Nagaland,23,−21.7,0.006,decreasing
+Malaria,Odisha,23,−10.7,0.011,decreasing
+Malaria,Punjab,23,−8.0,0.056,none
+Malaria,Puducherry,23,−9.5,0.030,decreasing
+Malaria,Rajasthan,23,−18.3,<0.001,decreasing
+Malaria,Sikkim,23,−11.2,<0.001,decreasing
+Malaria,Tamil Nadu,23,−17.4,<0.001,decreasing
+Malaria,Tripura,23,−3.9,0.020,decreasing
+Malaria,Uttarakhand,23,−10.7,0.010,decreasing
+Malaria,Uttar Pradesh,23,−9.5,<0.001,decreasing
+Malaria,West Bengal,23,−11.3,<0.001,decreasing
+Dengue,Andaman and Nicobar Islands,19,37.6,0.003,increasing
+Dengue,Andhra Pradesh and Telangana,19,21.9,<0.001,increasing
+Dengue,Arunachal Pradesh,19,19.1,0.009,increasing
+Dengue,Assam,18,16.6,0.172,none
+Dengue,Bihar,19,27.7,<0.001,increasing
+Dengue,Chhattisgarh,19,30.4,<0.001,increasing
+Dengue,Chandigarh,19,7.6,0.142,none
+Dengue,Delhi,19,11.7,0.030,increasing
+Dengue,Dadra and Nagar Haveli and Daman and Diu,17,11.0,0.351,none
+Dengue,Goa,19,12.5,0.003,increasing
+Dengue,Gujarat,19,9.1,0.006,increasing
+Dengue,Himachal Pradesh,19,41.3,<0.001,increasing
+Dengue,Haryana,19,16.3,0.008,increasing
+Dengue,Jharkhand,19,20.3,<0.001,increasing
+Dengue,Jammu and Kashmir (incl. Ladakh),19,45.3,<0.001,increasing
+Dengue,Karnataka,19,19.7,<0.001,increasing
+Dengue,Kerala,19,14.7,0.009,increasing
+Dengue,Lakshadweep,13,105.3,0.030,increasing
+Dengue,Maharashtra,19,16.8,<0.001,increasing
+Dengue,Meghalaya,18,20.8,0.002,increasing
+Dengue,Manipur,18,45.4,<0.001,increasing
+Dengue,Madhya Pradesh,19,20.5,<0.001,increasing
+Dengue,Mizoram,19,53.5,<0.001,increasing
+Dengue,Nagaland,19,28.2,<0.001,increasing
+Dengue,Odisha,19,20.1,0.030,increasing
+Dengue,Punjab,19,11.8,0.025,increasing
+Dengue,Puducherry,19,10.9,0.025,increasing
+Dengue,Rajasthan,19,17.7,<0.001,increasing
+Dengue,Sikkim,19,48.7,<0.001,increasing
+Dengue,Tamil Nadu,19,16.0,<0.001,increasing
+Dengue,Tripura,19,40.3,<0.001,increasing
+Dengue,Uttarakhand,17,19.7,0.036,increasing
+Dengue,Uttar Pradesh,19,29.9,<0.001,increasing
+Dengue,West Bengal,16,40.6,<0.001,increasing

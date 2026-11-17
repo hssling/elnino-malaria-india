@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this code or data, please cite the paper (manuscript under review) and this repository."
 title: "El Niño and malaria across Indian states, 2002–2025: data and code"
-version: 1.0.0
-date-released: 2026-10-16
+version: 1.1.0
+date-released: 2026-11-17
 license: MIT
 repository-code: "https://github.com/hssling/elnino-malaria-india"
 url: "https://github.com/hssling/elnino-malaria-india"
@@ -25,4 +25,6 @@ abstract: >-
   dengue 2007–2025), compiled from official programme documents, with ENSO indices,
   IMD-based climate exposures, population denominators, the Python pipeline that builds
   them and the R analysis (negative binomial mixed models, cross-validation, mediation
-  and a 2026–27 outlook) of the associated paper.
+  and conditional 2026–27 scenarios) of the associated paper. Version 1.1.0 adds the
+  peer-review analyses (shared temporal dependence, spatial structure, trend and
+  testing-effort specifications, climate nonlinearity, pre-season validation).

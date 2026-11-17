@@ -1,0 +1,7 @@
+Outcome,Period,Statistic,Moran's I,Permutation p,Units
+Malaria,2002–2009,log mean incidence,0.39,0.002,32
+Malaria,2010–2017,log mean incidence,0.33,0.006,32
+Malaria,2018–2025,log mean incidence,0.32,0.008,32
+Dengue,2007–2017,log mean incidence,0.16,0.122,32
+Dengue,2018–2025,log mean incidence,0.22,0.046,32
+Malaria,2002–2025,unpooled log IRR (lag 0),0.07,0.437,31
